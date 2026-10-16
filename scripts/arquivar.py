@@ -48,7 +48,8 @@ class Extrator(HTMLParser):
             self.atual = {"tipo": "manchete" if "hero" in cls else "noticia",
                           "editoria": EDITORIAS.get(editoria, editoria),
                           "id": a.get("id", ""), "chapeu": "", "titulo": "",
-                          "linha_fina": "", "texto": "", "fonte": "", "link": ""}
+                          "linha_fina": "", "texto": "", "fonte": "", "link": "",
+                          "verificacao": ler_verificacao(a.get("data-verificacao"))}
             self.profundidade = self.pilha
             return
         if self.atual is None:
@@ -74,6 +75,7 @@ class Extrator(HTMLParser):
         elif self.campo and tag in ("h1", "h3", "p", "span") and self.campo != "dest":
             self.campo = None
         if self.atual is not None and self.pilha == self.profundidade:
+            self.atual["fonte"] = re.split(r"\s*·\s*✓", self.atual["fonte"])[0]
             self.noticias.append({k: re.sub(r"\s+", " ", v).strip() if isinstance(v, str) else v
                                   for k, v in self.atual.items()})
             self.atual = None
@@ -84,6 +86,17 @@ class Extrator(HTMLParser):
             self.destaques[-1]["titulo"] += dado
         elif self.atual is not None and self.campo:
             self.atual[self.campo] += dado
+
+
+def ler_verificacao(bruto):
+    """Lê o atributo data-verificacao (JSON) de cada notícia: status e fontes que confirmaram."""
+    if not bruto:
+        return {"status": "nao_registrada", "fontes": []}
+    try:
+        v = json.loads(bruto)
+    except ValueError:
+        return {"status": "invalida", "fontes": []}
+    return {"status": v.get("status", ""), "fontes": v.get("fontes", [])}
 
 
 def ler(caminho):
@@ -119,12 +132,18 @@ def reconstruir_csv():
         if re.fullmatch(r"\d{4}-\d{2}-\d{2}\.json", nome):
             ed = json.loads(ler(os.path.join(pasta, nome)))
             for n in ed["noticias"]:
+                ver = n.get("verificacao") or {}
+                fontes = ver.get("fontes") or []
                 linhas.append([ed["data"], n["tipo"], n["editoria"], n["titulo"], n["linha_fina"],
-                               n["texto"], n["fonte"], n["link"], ed["pagina"]])
+                               n["texto"], n["fonte"], n["link"], ver.get("status", "nao_registrada"),
+                               len(fontes),
+                               " | ".join(f'{f.get("veiculo", "")}: {f.get("link", "")}' for f in fontes),
+                               ed["pagina"]])
     with open(os.path.join(pasta, "noticias.csv"), "w", encoding="utf-8-sig", newline="") as f:
         w = csv.writer(f)
         w.writerow(["data_das_noticias", "tipo", "editoria", "titulo", "linha_fina", "resumo",
-                    "fonte", "link_da_fonte", "pagina_da_edicao"])
+                    "fonte", "link_da_fonte", "verificacao", "n_fontes_confirmacao",
+                    "fontes_de_confirmacao", "pagina_da_edicao"])
         w.writerows(linhas)
     return len(linhas)
 

@@ -35,7 +35,11 @@
       "linha_fina": "Diferença caiu de 4 para 2 pontos em uma semana; candidatos estão em empate técnico a dez dias da eleição",
       "texto": "Na pesquisa divulgada nesta quinta, Flávio Bolsonaro (PL) aparece com 51% dos votos válidos e Lula (PT), com 49%; na rodada anterior, o placar era 52% a 48%. Nos votos totais, Flávio tem 47% e Lula, 45%, com 6% de brancos e nulos e 2% de indecisos. Foram ouvidos 2.520 eleitores de 13 a 15 de outubro, com margem de erro de 2 pontos (registro BR-00466/2026). A Quaest divulgada na véspera trouxe o mesmo placar nos válidos.",
       "fonte": "Metrópoles",
-      "link": "https://www.metropoles.com/brasil/datafolha-flavio-tem-51-dos-votos-validos-contra-49-de-lula-no-2o-turno"
+      "link": "https://www.metropoles.com/brasil/datafolha-flavio-tem-51-dos-votos-validos-contra-49-de-lula-no-2o-turno",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -46,7 +50,11 @@
       "linha_fina": "Rockstar aprofunda a história de Jason e Lucia e mantém a data de 19 de novembro",
       "texto": "A Rockstar publicou o trailer final de Grand Theft Auto VI, com mais detalhes do passado militar de Jason, cenas de ação com Lucia e um golpe que sai do controle e coloca a dupla no centro de uma conspiração no estado fictício de Leonida. A trilha original é do duo francês Justice. O vídeo foi capturado em um PS5, e o jogo chega para PS5 e Xbox Series X|S; a versão para PC segue sem confirmação.",
       "fonte": "TechRadar",
-      "link": "https://www.techradar.com/gaming/grand-theft-auto-6s-launch-trailer-is-here-giving-fans-a-deeper-look-at-jason-and-lucias-crime-fueled-story"
+      "link": "https://www.techradar.com/gaming/grand-theft-auto-6s-launch-trailer-is-here-giving-fans-a-deeper-look-at-jason-and-lucias-crime-fueled-story",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -57,7 +65,11 @@
       "linha_fina": "Sem primeiro contrato coletivo há cerca de dois anos, equipe de QA dá ao sindicato o poder de convocar paralisação",
       "texto": "Os trabalhadores de garantia de qualidade da Activision aprovaram por ampla maioria a autorização de greve, que pode ser acionada pela direção da CWA se as negociações travarem. Estão em disputa reajustes salariais, limites ao uso de IA, terceirização e adaptações para pessoas com deficiência. Por enquanto, não há paralisação em curso.",
       "fonte": "Shacknews",
-      "link": "https://www.shacknews.com/article/151028/activision-qa-workers-vote-to-authorize-strike"
+      "link": "https://www.shacknews.com/article/151028/activision-qa-workers-vote-to-authorize-strike",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -68,7 +80,11 @@
       "linha_fina": "Questionário enviado a participantes do Xbox Insiders cita Fallout, Elder Scrolls, Doom, Diablo e até Minecraft",
       "texto": "Uma pesquisa da área de Xbox Research, revelada pelo Windows Central, apresenta cenários hipotéticos de exclusividade. O mais radical tiraria do PlayStation e do Nintendo os futuros jogos das franquias da Microsoft, com exceção de Call of Duty. A empresa não anunciou nenhuma mudança, mas a consulta mostra que a ideia está sendo avaliada.",
       "fonte": "Pure Xbox",
-      "link": "https://www.purexbox.com/news/2026/10/xbox-asks-fans-how-theyd-feel-about-a-really-bold-approach-to-exclusive-games"
+      "link": "https://www.purexbox.com/news/2026/10/xbox-asks-fans-how-theyd-feel-about-a-really-bold-approach-to-exclusive-games",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -79,7 +95,11 @@
       "linha_fina": "Complete Edition recebeu críticas por bugs, suspeita de arte feita com IA e pela remoção do jogo original",
       "texto": "Depois de uma onda de avaliações negativas, Sega e Creative Assembly tiraram de venda a nova edição e voltaram a oferecer o jogo original. Em nota, a Sega reconheceu que o produto ficou abaixo do esperado pelos jogadores e pelos padrões da própria empresa. A edição deve voltar mais tarde, após correções.",
       "fonte": "Shacknews",
-      "link": "https://www.shacknews.com/article/151023/sega-total-war-shogun-2-backlash"
+      "link": "https://www.shacknews.com/article/151023/sega-total-war-shogun-2-backlash",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -90,7 +110,11 @@
       "linha_fina": "Portátil da Asus com a Microsoft melhora tela e controles, mas mantém o mesmo chip do modelo anterior",
       "texto": "As análises publicadas no lançamento elogiaram a tela OLED maior e a ergonomia do novo portátil. As críticas se concentram no preço, cerca de US$ 300 acima do antecessor, e na bateria, já que o aparelho mantém o Ryzen Z2 Extreme e a mesma memória do Ally X. Há também um pacote de US$ 2.499,99 com óculos XREAL.",
       "fonte": "Pure Xbox",
-      "link": "https://www.purexbox.com/news/2026/10/the-reviews-are-flooding-in-for-the-rog-xbox-ally-x20"
+      "link": "https://www.purexbox.com/news/2026/10/the-reviews-are-flooding-in-for-the-rog-xbox-ally-x20",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -101,7 +125,11 @@
       "linha_fina": "House House diz que a decisão é uma forma de apoio ao movimento BDS",
       "texto": "Big Walk, lançado em agosto para PC, PS5 e Switch 2, não terá versão para Xbox. Em comunicado, a desenvolvedora australiana afirmou que segue o boicote do movimento BDS, que inclui a Microsoft entre as empresas que critica por ligações com Israel. O estúdio reconheceu que parte dos jogadores ficará sem poder jogar com amigos. A Microsoft não havia comentado.",
       "fonte": "Shacknews",
-      "link": "https://www.shacknews.com/article/151020/big-walk-xbox-palestine-bds-boycott"
+      "link": "https://www.shacknews.com/article/151020/big-walk-xbox-palestine-bds-boycott",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -112,7 +140,11 @@
       "linha_fina": "Modelo multimodal com janela de 1 milhão de tokens foi otimizado para rodar localmente em Macs",
       "texto": "A Meta publicou os pesos do Muse Spark Open, um modelo de arquitetura MoE com 816 bilhões de parâmetros no total e cerca de 42 bilhões ativos por token. Ele aceita texto, imagem, áudio e vídeo e roda em Mac Studio com o framework MLX da Apple. Junto veio o Muse Code, um terminal de programação, e o modelo já está disponível em várias plataformas de API.",
       "fonte": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
+      "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -123,7 +155,11 @@
       "linha_fina": "Agência americana pede documentos e quer ouvir executivos das duas empresas",
       "texto": "A Comissão Federal de Comércio dos EUA enviou intimações civis com mais de 50 páginas a cada empresa, cobrindo incidentes de segurança, salvaguardas, marketing e privacidade. O foco inclui episódios em que modelos ainda não lançados agiram de forma enganosa ou invadiram sites durante testes. Outras empresas de IA devem receber pedidos semelhantes; a OpenAI disse que vai colaborar.",
       "fonte": "Axios",
-      "link": "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation"
+      "link": "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -134,7 +170,11 @@
       "linha_fina": "Ação coordenada e bipartidária acusa o ChatGPT de enganar usuários sobre a própria segurança",
       "texto": "Arizona, Arkansas, Idaho, Iowa, Kansas, Montana, Nebraska e Virgínia Ocidental entraram com ações em tribunais estaduais com base em leis de defesa do consumidor. Os estados pedem multas, indenizações e mudanças no produto. É a maior ofensiva estadual coordenada contra uma empresa de IA até agora; a OpenAI pode se manifestar nos processos.",
       "fonte": "CNN Brasil (Reuters)",
-      "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/oito-estados-dos-eua-acusam-chatgpt-de-prejudicar-jovens/"
+      "link": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/oito-estados-dos-eua-acusam-chatgpt-de-prejudicar-jovens/",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -145,7 +185,11 @@
       "linha_fina": "Modelo lê texto, gráficos, tabelas e PDFs; versões menores permitem uso local",
       "texto": "A NVIDIA liberou os pesos do Nemotron 3.5 Super VL, com 120 bilhões de parâmetros, além das variantes Bolt 74B, já disponível, e Bolt E4B, prevista para 23 de outubro. A empresa diz que versões ajustadas superam modelos fechados de ponta em tarefas específicas, sem detalhar a metodologia. A licença permite uso comercial.",
       "fonte": "VentureBeat",
-      "link": "https://venturebeat.com/technology/nvidias-new-open-nemotron-3-5-super-vl-with-post-training-beats-claude-opus-5-gpt-6-1-sol-on-specialized-task-benchmarks"
+      "link": "https://venturebeat.com/technology/nvidias-new-open-nemotron-3-5-super-vl-with-post-training-beats-claude-opus-5-gpt-6-1-sol-on-specialized-task-benchmarks",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -156,7 +200,11 @@
       "linha_fina": "A partir de 13 de novembro, assinantes do AI Plus perdem acesso aos modelos mais avançados",
       "texto": "Assinantes do Google One começaram a receber e-mails informando que os modelos Pro do app Gemini e do Modo IA da Busca ficarão restritos ao plano AI Pro ou superiores. Para muitos usuários, isso significa passar de US$ 5 para US$ 20 por mês. Os modelos Flash e Flash-Lite continuam no AI Plus.",
       "fonte": "Droid Life",
-      "link": "https://www.droid-life.com/2026/10/15/your-gemini-pro-cost-is-going-up-considerably/"
+      "link": "https://www.droid-life.com/2026/10/15/your-gemini-pro-cost-is-going-up-considerably/",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -167,7 +215,11 @@
       "linha_fina": "Empresa reserva capacidade de computação para pesquisa em segurança de IA no Reino Unido",
       "texto": "A NVIDIA vai entrar como sócia minoritária em cinco startups britânicas e destinar US$ 250 milhões em computação, ao longo de cinco anos, para pesquisa em segurança de IA no Reino Unido. Em Paris, Jensen Huang anunciou novos aportes em startups francesas e prometeu mais US$ 2 bilhões em acordos no continente. A GTC Berlin acontece de 20 a 22 de outubro.",
       "fonte": "Fortune",
-      "link": "https://fortune.com/2026/10/15/nvidias-european-spending-spree-is-about-much-more-than-europe"
+      "link": "https://fortune.com/2026/10/15/nvidias-european-spending-spree-is-about-much-more-than-europe",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -178,7 +230,11 @@
       "linha_fina": "Segundo a IDC, a alta da memória encareceu aparelhos e derrubou os envios do 3º trimestre",
       "texto": "Foram 255,3 milhões de celulares enviados no trimestre, 22% a menos que um ano antes, segundo dados preliminares da IDC. O principal motivo é o custo da memória, que subiu cerca de 350% em doze meses e levou consumidores a adiar a troca. Samsung (22,6%) e Apple (22,4%) ficaram praticamente empatadas na liderança, enquanto marcas chinesas focadas em aparelhos baratos foram as mais afetadas.",
       "fonte": "Telecoms.com (dados IDC)",
-      "link": "https://www.telecoms.com/mobile-devices/q3-smartphone-shipments-plunge-22-on-escalating-memory-crisis"
+      "link": "https://www.telecoms.com/mobile-devices/q3-smartphone-shipments-plunge-22-on-escalating-memory-crisis",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -189,7 +245,11 @@
       "linha_fina": "MacBook Pro com tela OLED sensível ao toque e novo iPad mini estão entre os produtos esperados",
       "texto": "A Apple começou a chamar jornalistas para um dia de demonstrações de produtos em Los Angeles. De acordo com Mark Gurman, da Bloomberg, os anúncios podem sair um dia antes em vídeo. A expectativa é de MacBook Pro redesenhados com OLED e tela de toque, um iPad mini com OLED e novas versões com chip M6.",
       "fonte": "MacRumors",
-      "link": "https://macrumors.com/2026/10/15/apple-inviting-media-to-october-28-experience"
+      "link": "https://macrumors.com/2026/10/15/apple-inviting-media-to-october-28-experience",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -200,7 +260,11 @@
       "linha_fina": "Nota técnica cita o ECA Digital e aponta falta de verificação de idade",
       "texto": "O Ministério da Justiça e Segurança Pública pediu à ANPD que analise as caixas de recompensa de NBA 2K26, WWE 2K26, Counter-Strike 2, Call of Duty, Genshin Impact e PUBG Mobile. A pasta vê semelhança com apostas, prática vedada a menores pelo ECA Digital. O ministério ressalta que a análise é preliminar e não comprova infração; a lista pode crescer.",
       "fonte": "Gazeta do Povo",
-      "link": "https://www.gazetadopovo.com.br/vida-e-cidadania/governo-fiscalizacao-seis-jogos-eletronicos-semelhanca-bets/"
+      "link": "https://www.gazetadopovo.com.br/vida-e-cidadania/governo-fiscalizacao-seis-jogos-eletronicos-semelhanca-bets/",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -211,7 +275,11 @@
       "linha_fina": "Incidente na BAE Systems derrubou o centro nacional de notificações",
       "texto": "O órgão que administra os tribunais federais americanos informou que um incidente de cibersegurança na BAE Systems, que opera o Bankruptcy Noticing Center, tirou o sistema do ar. A emissão de notificações de falência foi suspensa e sites ligados ao serviço ficaram indisponíveis. A empresa investiga o caso e trabalha para restabelecer o serviço.",
       "fonte": "U.S. Courts (comunicado)",
-      "link": "https://www.uscourts.gov/data-news/judiciary-news/2026/10/15/cybersecurity-incident-disrupting-bankruptcy-court-operations"
+      "link": "https://www.uscourts.gov/data-news/judiciary-news/2026/10/15/cybersecurity-incident-disrupting-bankruptcy-court-operations",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -222,7 +290,11 @@
       "linha_fina": "Parecer recomenda rejeitar recurso da ByteDance contra a classificação do app como gatekeeper",
       "texto": "O advogado-geral Andrea Biondi sugeriu ao Tribunal de Justiça da UE rejeitar os argumentos analisados no recurso da ByteDance. A empresa contesta ter sido enquadrada como “guardiã de acesso” pela Lei dos Mercados Digitais. O parecer não vincula os juízes, que decidem mais tarde.",
       "fonte": "Tribunal de Justiça da UE",
-      "link": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260151en.pdf"
+      "link": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-10/cp260151en.pdf",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -233,7 +305,11 @@
       "linha_fina": "Perícia do ataque de 2025 à Legal Aid Agency mostra exposição maior do que a estimada",
       "texto": "A análise concluída pela Legal Aid Agency indica que dados roubados vão até 1978, embora a maior parte seja de pedidos e pagamentos entre 2007 e 2025. O ataque foi reivindicado pelo grupo ShinyHunters. O governo britânico obteve decisão judicial para impedir a divulgação dos dados, que até agora não vazaram.",
       "fonte": "DataBreaches.net",
-      "link": "https://databreaches.net/2026/10/15/legal-aid-agency-cyberattack-compromised-data-goes-back-to-1978"
+      "link": "https://databreaches.net/2026/10/15/legal-aid-agency-cyberattack-compromised-data-goes-back-to-1978",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -244,7 +320,11 @@
       "linha_fina": "Processos de 3 nm e 5 nm já respondem por 61% da receita de wafers, puxados pela IA",
       "texto": "A maior fabricante de chips sob encomenda do mundo teve receita de US$ 46,7 bilhões e margem bruta de 66,4% no 3º trimestre. Para o 4º trimestre, projeta entre US$ 52,3 bilhões e US$ 54,3 bilhões e elevou para cerca de 44% a previsão de crescimento em 2026. Mesmo assim, as ações caíram 4,3% em Nova York, em dia de vendas no setor.",
       "fonte": "TSMC (relatório à SEC)",
-      "link": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm"
+      "link": "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -255,7 +335,11 @@
       "linha_fina": "SK Hynix cai 11% e Samsung 9,5% em Seul; Micron e Sandisk também recuam",
       "texto": "Seis grandes fabricantes de memória e armazenamento acumulam perda de cerca de US$ 1,09 trilhão desde 2 de outubro. Analistas citam dúvidas sobre o ritmo dos gastos com IA, o avanço da chinesa YMTC em NAND e o temor de alta de juros nos EUA. O movimento mexe com a expectativa de preços de DRAM e SSDs, que vinham em forte alta.",
       "fonte": "Benzinga",
-      "link": "https://www.benzinga.com/markets/tech/26/10/62388904/chip-bloodbath-1-trillion-memory-makers-micron-sandisk-sk-hynix"
+      "link": "https://www.benzinga.com/markets/tech/26/10/62388904/chip-bloodbath-1-trillion-memory-makers-micron-sandisk-sk-hynix",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -266,7 +350,11 @@
       "linha_fina": "Varejista marca a placa como “não comercializada”; NVIDIA não confirma fim da produção",
       "texto": "A Micro Center passou a listar a GeForce RTX 5090 como item que não vende mais, e a placa também saiu do marketplace da NVIDIA. A hipótese mais citada é o redirecionamento do chip GB202 para a linha profissional RTX Pro 6000, de margem maior. A NVIDIA não comentou, e o fim da linha segue sem confirmação oficial.",
       "fonte": "Tom's Hardware",
-      "link": "https://tomshardware.com/pc-components/gpus/nvidia-rtx-5090-disappears-from-micro-center-amid-rumors-of-a-production-halt-retailer-flags-flagship-as-not-carried-as-stock-mysteriously-vanishes"
+      "link": "https://tomshardware.com/pc-components/gpus/nvidia-rtx-5090-disappears-from-micro-center-amid-rumors-of-a-production-halt-retailer-flags-flagship-as-not-carried-as-stock-mysteriously-vanishes",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -277,7 +365,11 @@
       "linha_fina": "Novo BIOS também cobre B760 e H610; previsão de “início de 2027” sumiu do anúncio",
       "texto": "A Gigabyte liberou um BIOS que promete compatibilidade com processadores ainda não lançados para o soquete LGA1700. O anúncio anterior citava apenas placas B760 e H610 e chegada no início de 2027, mas o novo texto não traz prazo. A Intel não anunciou novos chips para a plataforma.",
       "fonte": "The FPS Review",
-      "link": "https://www.thefpsreview.com/2026/10/15/gigabyte-extends-next-gen-lga1700-cpu-support-to-every-z790-board-and-its-early-2027-release-has-vanished/"
+      "link": "https://www.thefpsreview.com/2026/10/15/gigabyte-extends-next-gen-lga1700-cpu-support-to-every-z790-board-and-its-early-2027-release-has-vanished/",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -288,7 +380,11 @@
       "linha_fina": "SK Hynix mostra HBM4 para a plataforma Vera Rubin; Samsung apresenta o zHBM, empilhado sobre a GPU",
       "texto": "No SEDEX 2026, a SK Hynix exibiu HBM4 voltada à plataforma Vera Rubin da NVIDIA e a High Bandwidth Flash, que empilha chips NAND para cargas de IA. A Samsung mostrou o zHBM, que posiciona a memória em cima do processador gráfico, além de HBM4E, e confirmou o desenvolvimento de DRAM 4F².",
       "fonte": "Sammy Fans",
-      "link": "https://www.sammyfans.com/2026/10/15/samsung-and-sk-hynix-highlight-next-generation-memory-at-sedex-2026/"
+      "link": "https://www.sammyfans.com/2026/10/15/samsung-and-sk-hynix-highlight-next-generation-memory-at-sedex-2026/",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -299,7 +395,11 @@
       "linha_fina": "Lista não confirmada traz sete modelos Core Ultra 400, três deles para rivalizar com os Ryzen X3D",
       "texto": "Uma tabela vazada mostra sete processadores Nova Lake-S para o soquete LGA1954, três com cache adicional embutido, chamados de BFC. O topo seria o Core Ultra 9 4970K BFC, com 8 núcleos P, 16 E e 4 LP-E. A Intel não confirmou nada; a apresentação é esperada para a CES 2027.",
       "fonte": "Adrenaline",
-      "link": "https://www.adrenaline.com.br/intel/intel-prepara-resposta-ao-3d-v-cache-da-amd-com-cpus-nova-lake-de-cache-gigante/"
+      "link": "https://www.adrenaline.com.br/intel/intel-prepara-resposta-ao-3d-v-cache-da-amd-com-cpus-nova-lake-de-cache-gigante/",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -310,7 +410,11 @@
       "linha_fina": "Esportivo elétrico terá três versões; produção está prevista só para 2028",
       "texto": "A Tesla apresentou a segunda geração do Roadster em evento no Texas, com uma demonstração em que o carro usou propulsores de ar para subir uma rampa e saltar. Serão três versões, com autonomia de cerca de 480 km e velocidade máxima acima de 370 km/h, segundo a empresa. Não houve preço final; as reservas custam US$ 50 mil e US$ 250 mil.",
       "fonte": "TechCrunch",
-      "link": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/"
+      "link": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -321,7 +425,11 @@
       "linha_fina": "Marca estreia com o compacto elétrico Arcfox T1 e estuda produzir no país",
       "texto": "O Grupo Toriba, que já representa GWM, Omoda & Jaecoo, Leapmotor e MG, vai trazer a BAIC, uma das maiores montadoras da China. A primeira loja fica no Shopping Ibirapuera, em São Paulo, e a pré-venda do Arcfox T1 começa em 23 de outubro. A marca prepara uma linha de modelos para o mercado brasileiro.",
       "fonte": "ABC Agora",
-      "link": "https://abcagora.com.br/2026/10/15/grupo-toriba-montadora-chinesa-baic/"
+      "link": "https://abcagora.com.br/2026/10/15/grupo-toriba-montadora-chinesa-baic/",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -332,7 +440,11 @@
       "linha_fina": "O Emova Pop, de dois lugares, começa a ser produzido em Jaguaré em novembro",
       "texto": "A chinesa FAW se uniu à mineira E-Motors para fabricar o Emova Pop no norte capixaba, inicialmente a partir de kits vindos da China. A ideia é aumentar aos poucos a participação de fornecedores locais. O carro pesa menos de 600 kg, tem até 200 km de autonomia e deve chegar às lojas entre fevereiro e março de 2027.",
       "fonte": "A Gazeta (ES)",
-      "link": "https://www.agazeta.com.br/es/economia/montadora-chinesa-quer-ajudar-es-a-produzir-carros-eletricos-100-nacionais-1026"
+      "link": "https://www.agazeta.com.br/es/economia/montadora-chinesa-quer-ajudar-es-a-produzir-carros-eletricos-100-nacionais-1026",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -343,7 +455,11 @@
       "linha_fina": "Nova opção de entrada usa motor 1.6 flex e chega às lojas em outubro",
       "texto": "A versão combina o 1.6 flex com câmbio manual de cinco marchas. De série, traz seis airbags, controles de estabilidade e tração, assistente de partida em rampa, ar-condicionado, luzes diurnas de LED, rodas aro 16 e sistema Stop & Start.",
       "fonte": "AutoData",
-      "link": "https://www.autodata.com.br/noticias/2026/10/15/renault-amplia-opcoes-do-duster-com-versao-zen-plus-manual/137614/"
+      "link": "https://www.autodata.com.br/noticias/2026/10/15/renault-amplia-opcoes-do-duster-com-versao-zen-plus-manual/137614/",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -354,7 +470,11 @@
       "linha_fina": "Grupo de países que inclui o Brasil cresceu 81%, segundo a Benchmark Mineral Intelligence",
       "texto": "O mundo vendeu 2,15 milhões de elétricos e híbridos plug-in em setembro, 2% a menos que um ano antes. A Europa chegou perto de 600 mil unidades, enquanto a queda na América do Norte reflete a comparação com setembro de 2025, último mês do crédito fiscal americano. A China bateu recorde de exportação de eletrificados.",
       "fonte": "Electrek",
-      "link": "https://electrek.co/2026/10/15/europes-ev-sales-soar-as-north-america-drops-44-heres-the-catch/"
+      "link": "https://electrek.co/2026/10/15/europes-ev-sales-soar-as-north-america-drops-44-heres-the-catch/",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -365,7 +485,11 @@
       "linha_fina": "Fábrica em parceria com a Dongfeng fará elétricos e híbridos Jeep e Peugeot",
       "texto": "Depois de quatro anos sem produção chinesa, a Jeep volta a ser fabricada em Wuhan a partir de 2027, com foco em mercados como Canadá e México. O plano prevê dois modelos Jeep e dois Peugeot. Os EUA ficam de fora por causa das tarifas sobre elétricos produzidos na China.",
       "fonte": "AutoData",
-      "link": "https://www.autodata.com.br/noticias/2026/10/15/stellantis-retomara-producao-da-jeep-na-china-para-exportacao-global/137640/"
+      "link": "https://www.autodata.com.br/noticias/2026/10/15/stellantis-retomara-producao-da-jeep-na-china-para-exportacao-global/137640/",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -376,7 +500,11 @@
       "linha_fina": "Decisão do ministro André Mendonça atende a pedido da campanha do PL e ainda será analisada pelo plenário",
       "texto": "Mendonça entendeu que a peça exibida no horário eleitoral de 13 de outubro liga Flávio ao crime organizado sem demonstrar o vínculo. A decisão também vetou personagens criados por IA que simulavam depoimentos. O ministro lembrou que o TSE já havia suspendido uma propaganda que associava Lula ao crime organizado sem provas. A reportagem não trouxe resposta da campanha petista.",
       "fonte": "Metrópoles",
-      "link": "https://www.metropoles.com/colunas/manoela-alcantara/mendonca-suspende-propaganda-eleitoral-de-lula-que-liga-flavio-as-milicias"
+      "link": "https://www.metropoles.com/colunas/manoela-alcantara/mendonca-suspende-propaganda-eleitoral-de-lula-que-liga-flavio-as-milicias",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -387,7 +515,11 @@
       "linha_fina": "PT tenta associar Flávio a aliado preso pela PF no Rio; PL diz que o senador já havia rompido com ele",
       "texto": "Lula defendeu mudanças na escolha e nos mandatos de ministros do STF, a redução da maioridade penal para crimes hediondos e a criação de um Ministério da Segurança Pública. No mesmo dia, a PF prendeu o deputado estadual eleito Márcio Canella (União), suspeito de lavagem de dinheiro; a defesa disse não ter tido acesso à decisão. Aliados de Flávio afirmam que ele se afastou de Canella em julho. Flávio é entrevistado pela emissora nesta sexta.",
       "fonte": "CNN Brasil",
-      "link": "https://www.cnnbrasil.com.br/blogs/jussara-soares/eleicoes/pt-quer-colar-flavio-a-deputado-preso-no-rio-pl-busca-conter-desgaste/"
+      "link": "https://www.cnnbrasil.com.br/blogs/jussara-soares/eleicoes/pt-quer-colar-flavio-a-deputado-preso-no-rio-pl-busca-conter-desgaste/",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -398,7 +530,11 @@
       "linha_fina": "Limite de faturamento sobe para R$ 110 mil em 2027 e R$ 140 mil em 2028; texto vai à sanção",
       "texto": "O projeto perdoa dívidas de microempreendedores individuais com a União contraídas até 13 de outubro e permite ao MEI ter até dois empregados. O governo estima 3,6 milhões de beneficiados. Senadores de vários partidos apoiaram o texto; parlamentares do PL votaram a favor, mas afirmaram que a atualização está atrasada e tem uso eleitoral.",
       "fonte": "Agência Senado",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/15/senado-aprova-aumento-do-teto-para-mei-e-perdao-de-dividas"
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/15/senado-aprova-aumento-do-teto-para-mei-e-perdao-de-dividas",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -409,7 +545,11 @@
       "linha_fina": "Governo reconhecido internacionalmente relata ao menos cinco mortos e 16 feridos",
       "texto": "O palácio Al-Maashiq foi atingido por mísseis, segundo o ministro da Informação, Moammar al-Eryani; o primeiro-ministro saiu ileso. Os houthis afirmam ter mirado centros de comando sauditas, enquanto a coalizão liderada pela Arábia Saudita relata ataques repetidos ao aeroporto de Riad. A escalada ocorre no contexto da guerra envolvendo o Irã.",
       "fonte": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles"
+      "link": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     },
     {
       "tipo": "noticia",
@@ -420,7 +560,11 @@
       "linha_fina": "Cerca de um terço aprova Trump; os dois partidos são mal avaliados",
       "texto": "Cerca de 8 em cada 10 eleitores desaprovam a forma como Trump lida com o custo de vida, e metade prefere um Congresso de maioria democrata, contra 4 em 10 que preferem republicanos. Entre republicanos, 69% apoiam a política externa do presidente. O Partido Democrata também tem avaliação negativa de cerca de metade dos entrevistados.",
       "fonte": "AP / PBS NewsHour",
-      "link": "https://www.pbs.org/newshour/politics/frustrated-with-trump-voters-overwhelmingly-want-change-ap-norc-poll-finds"
+      "link": "https://www.pbs.org/newshour/politics/frustrated-with-trump-voters-overwhelmingly-want-change-ap-norc-poll-finds",
+      "verificacao": {
+        "status": "nao_registrada",
+        "fontes": []
+      }
     }
   ]
 }
