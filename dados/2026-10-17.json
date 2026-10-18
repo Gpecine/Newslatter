@@ -1,0 +1,734 @@
+{
+  "data": "2026-10-17",
+  "titulo": "Newsletter — 17/10/2026",
+  "data_por_extenso": "Sábado, 17 de outubro de 2026",
+  "pagina": "edicoes/2026-10-17.html",
+  "destaques": [
+    {
+      "link": "#g1",
+      "titulo": "FURIA cai para a MVK e se despede do Mundial de LoL"
+    },
+    {
+      "link": "#i1",
+      "titulo": "China propõe controlar exportação de 23 tecnologias de IA"
+    },
+    {
+      "link": "#t1",
+      "titulo": "Credencial da ConnectWise abre porta a 173 contas Microsoft 365"
+    },
+    {
+      "link": "#h1",
+      "titulo": "Michael Dell prevê falta de memória pior em 2027"
+    },
+    {
+      "link": "#p1",
+      "titulo": "Lula e Flávio se preparam para primeiro debate do 2º turno"
+    }
+  ],
+  "noticias": [
+    {
+      "tipo": "manchete",
+      "editoria": "Política",
+      "id": "manchete",
+      "chapeu": "Política · Eleições 2026",
+      "titulo": "Ipespe registra empate técnico entre Flávio e Lula",
+      "linha_fina": "Levantamento divulgado no sábado mostra diferença de 2,4 pontos nos votos válidos, dentro da margem de erro.",
+      "texto": "Pesquisa Ipespe/Abrapel divulgada em 17/10 aponta Flávio Bolsonaro (PL) com 51,2% dos votos válidos e Lula (PT) com 48,8% no 2º turno. Na rodada anterior, divulgada em 10/10, os números eram 52,7% e 47,3%, e a diferença caiu de 5,4 para 2,4 pontos. Foram ouvidos 1.500 eleitores entre 13 e 15/10; a margem de erro é de 2,6 pontos, e o instituto classifica o cenário como empate técnico. Segundo o levantamento, 97% dos eleitores de Flávio e 96% dos de Lula no 1º turno dizem manter o voto.",
+      "fonte": "Times Brasil",
+      "link": "https://timesbrasil.com.br/brasil/decisao-2026-flavio-bolsonaro-tem-512-e-lula-488-aponta-pesquisa-ipespe-abrapel/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "CartaCapital",
+            "link": "https://www.cartacapital.com.br/cartaexpressa/pesquisa-aponta-empate-tecnico-entre-flavio-bolsonaro-e-lula-a-oito-dias-do-2o-turno/"
+          },
+          {
+            "veiculo": "A Crítica",
+            "link": "https://acritica.net/eleicoes-2026/pesquisa-ipespe-flavio-51-lula-49-segundo-turno-17-outubro/"
+          },
+          {
+            "veiculo": "SBT News",
+            "link": "https://sbtnews.sbt.com.br/noticia/eleicoes/edinho-diz-que-lula-esta-animado-para-confronto-com-flavio"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g1",
+      "chapeu": "",
+      "titulo": "FURIA cai para a MVK e se despede do Mundial de LoL",
+      "linha_fina": "Time brasileiro perde por 3 a 1 na final da chave inferior do Play-In e termina em 18º lugar.",
+      "texto": "A FURIA foi eliminada do Mundial de League of Legends 2026 no sábado (17), em Los Angeles, ao perder por 3 a 1 para a vietnamita MVK Esports na final da chave inferior do Play-In. Foi a segunda derrota para o mesmo rival, que já tinha vencido o time brasileiro na estreia. A FURIA venceu o terceiro jogo com boa atuação do atirador Ayu, mas não conseguiu levar a série ao quinto mapa e terminou em 18º, com prêmio de US$ 40 mil. A MVK enfrenta a Karmine Corp neste domingo (18) pela única vaga do Play-In na fase suíça, e a LØS fica como única representante do Brasil.",
+      "fonte": "Sheep Esports",
+      "link": "https://www.sheepesports.com/pt/articles/mvk-eliminate-furia-and-set-up-worlds-2026-play-ins-final-against-karmine-corp/en",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "GosuGamers",
+            "link": "https://www.gosugamers.net/lol/news/79365-worlds-2026-play-ins-day-3-sees-mvk-esports-eliminate-furia-and-secure-karmine-corp-rematch"
+          },
+          {
+            "veiculo": "EGamersWorld",
+            "link": "https://egamersworld.com/lol/news/37877/mvk-crush-furia-3-1-to-set-up-massive-kc-rematch-a-M2s7--7n6"
+          },
+          {
+            "veiculo": "GGames",
+            "link": "https://ggames.com.br/esports/furia-eliminada-worlds-2026/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g2",
+      "chapeu": "",
+      "titulo": "No CS2, FURIA bate a Aurora e vai à final em Malta",
+      "linha_fina": "Atual campeã do Thunderpick World Championship tenta o bicampeonato contra a BetBoom neste domingo.",
+      "texto": "A FURIA venceu a Aurora por 2 a 0 no sábado (17) na semifinal do Thunderpick World Championship 2026 de Counter-Strike 2, disputado em Malta, com 13 a 8 na Dust2 e 13 a 10 na Inferno. O destaque foi KSCERATO, com 38 abates e 22 mortes na série. Campeã da edição de 2025, a equipe brasileira disputa a final em melhor de cinco neste domingo (18), ao meio-dia de Brasília, contra a BetBoom, que eliminou a Falcons por 2 a 1. O torneio distribui US$ 1 milhão, sendo US$ 500 mil para o campeão.",
+      "fonte": "Dust2.com.br",
+      "link": "https://www.dust2.com.br/noticias/78986/kscerato-brilha-furia-elimina-aurora-e-vai-a-final-da-thunderpick",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "HLTV",
+            "link": "https://www.hltv.org/news/45743/furia-ease-past-aurora-into-twc-final"
+          },
+          {
+            "veiculo": "Draft5",
+            "link": "https://draft5.gg/partida/47129-FURIA-vs-Aurora-Thunderpick-World-Championship-2026"
+          },
+          {
+            "veiculo": "Hotspawn",
+            "link": "https://www.hotspawn.com/counter-strike/news/thunderpick-world-championship-2026-grand-final-preview"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g3",
+      "chapeu": "",
+      "titulo": "Filme de Street Fighter lidera bilheteria nos EUA",
+      "linha_fina": "Adaptação da Capcom com a Legendary deve estrear com cerca de US$ 31 milhões no fim de semana, apesar das críticas negativas.",
+      "texto": "O filme de Street Fighter arrecadou cerca de US$ 12,5 milhões na sexta-feira (16) nos cinemas dos EUA e do Canadá, já contando US$ 4 milhões das pré-estreias de quinta, segundo estimativas divulgadas no sábado (17). A projeção é de aproximadamente US$ 31 milhões no fim de semana de estreia, o bastante para o primeiro lugar, ainda que abaixo das previsões mais otimistas. A produção da Legendary com a Capcom, distribuída pela Paramount, teria custado US$ 82 milhões. Os números de sexta divergem um pouco entre as fontes (de US$ 12,5 milhões a US$ 13 milhões).",
+      "fonte": "TheWrap",
+      "link": "https://www.thewrap.com/culture-lifestyle/culture/street-fighter-you-can-see-everything-friday-box-office/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Hollywood Outbreak",
+            "link": "https://www.hollywoodoutbreak.com/2026/10/17/street-fighter-dominates-box-office-with-big-31m-debut/"
+          },
+          {
+            "veiculo": "Dark Horizons",
+            "link": "https://www.darkhorizons.com/box-office-street-fighter-hits-whalefall-drowns/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g4",
+      "chapeu": "",
+      "titulo": "NVIDIA nega fim da RTX 5090, mas admite oferta curta",
+      "linha_fina": "Vice-presidente Jeff Fisher diz que a placa seguirá sendo enviada, enquanto preços no varejo dos EUA chegam a US$ 8.500.",
+      "texto": "Depois de dias de rumores de que a NVIDIA teria parado de produzir a GeForce RTX 5090 para direcionar chips GB202 a GPUs de IA e profissionais, o vice-presidente sênior Jeff Fisher afirmou a veículos taiwaneses que o modelo não foi descontinuado e que a empresa vai continuar a enviá-lo, embora com oferta limitada. Na prática, a placa sumiu da loja da NVIDIA e da Micro Center, está sem estoque na Best Buy e aparece por cerca de US$ 8.500 na Amazon, só via vendedores terceiros. A NVIDIA não emitiu comunicado oficial por escrito.",
+      "fonte": "Tom's Hardware",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-insists-the-rtx-5090-isnt-dead-despite-severe-shortages-and-removed-listings-at-multiple-retailers-flagship-gpu-is-missing-from-nvidias-store-and-commands-usd8-500-on-amazon",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Digital Trends",
+            "link": "https://www.digitaltrends.com/computing/nvidia-rtx-5090-not-discontinued-shortage/"
+          },
+          {
+            "veiculo": "TweakTown",
+            "link": "https://www.tweaktown.com/news/114125/nvidia-officially-confirms-the-rtx-5090-has-not-been-discontinued-and-will-continue-to-ship-when-possible/index.html"
+          },
+          {
+            "veiculo": "Dexerto",
+            "link": "https://www.dexerto.com/gaming/nvidia-denies-the-rtx-5090-has-been-discontinued-but-admits-supply-is-limited-3419620/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i1",
+      "chapeu": "",
+      "titulo": "China propõe controlar exportação de 23 tecnologias de IA",
+      "linha_fina": "Rascunho de Pequim mira modelos gigantes, agentes e projetos de chips, mas poupa código aberto e acesso via API.",
+      "texto": "Os ministérios do Comércio e de Ciência e Tecnologia da China divulgaram uma proposta que inclui 23 tecnologias de IA em sua lista de exportações proibidas ou restritas, dentro de um pacote de 40 itens que abrange também energia solar e biomedicina. Modelos com 2 trilhões de parâmetros ou mais, ou entre os dez melhores do mundo, poderão exigir licença, enquanto modelos treinados com dados 'centrais' ficariam vetados. Código aberto, pesquisa publicada e uso por apps, sites e APIs ficam de fora; a consulta pública vai até 15 de novembro. O anúncio saiu na sexta (16) e repercutiu na imprensa no sábado.",
+      "fonte": "Taipei Times (Bloomberg)",
+      "link": "https://taipeitimes.com/News/biz/archives/2026/10/17/2003866098",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "AP (via PBS NewsHour)",
+            "link": "https://pbs.org/newshour/world/china-says-it-will-curb-tech-exports-including-ai-citing-national-security-risks"
+          },
+          {
+            "veiculo": "The Next Web",
+            "link": "https://thenextweb.com/news/china-ai-export-controls-draft"
+          },
+          {
+            "veiculo": "Forbes Brasil (Reuters)",
+            "link": "https://forbes.com.br/forbes-tech/2026/10/china-busca-controle-mais-rigido-de-exportacoes-relacionadas-a-ia-em-meio-a-rivalidade-com-eua/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i2",
+      "chapeu": "",
+      "titulo": "Jack Clark, da Anthropic, diz ao FMI que IA pode levar PIB dos EUA a US$ 44 tri",
+      "linha_fina": "Cofundador da Anthropic pediu regras internacionais 'incomuns e sérias' nas reuniões anuais do FMI e do Banco Mundial em Bangkok.",
+      "texto": "Jack Clark, cofundador da Anthropic, afirmou no sábado (17), em Bangkok, que o impacto da IA está acelerando e exige cooperação internacional para criar regras. Ele citou um modelo econômico interno da empresa segundo o qual o PIB dos EUA, hoje pouco acima de US$ 30 trilhões, poderia chegar a US$ 44 trilhões até 2030. Clark admitiu que o número 'soa muito exagerado'. O valor corresponde ao cenário mais extremo do modelo da Anthropic; os cenários moderado e substancial projetam US$ 34,1 trilhões e US$ 36,3 trilhões.",
+      "fonte": "Reuters (via Yahoo Finance)",
+      "link": "https://finance.yahoo.com/economy/articles/anthropics-clark-says-ais-impact-091449774.html",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "The News International",
+            "link": "https://www.thenews.com.pk/latest/1420292-ai-could-boost-us-gdp-to-44-trillion-by-2030-anthropic-model-forecasts"
+          },
+          {
+            "veiculo": "Startup Fortune",
+            "link": "https://startupfortune.com/anthropics-jack-clark-tells-the-imf-ai-could-push-us-gdp-to-44-trillion/"
+          },
+          {
+            "veiculo": "Anthropic (fonte primária, cenários econômicos)",
+            "link": "https://www.anthropic.com/institute/econ-scenarios"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i3",
+      "chapeu": "",
+      "titulo": "DeepSeek lança V4.1-Flash-1017 e abre API de busca própria",
+      "linha_fina": "Atualização do modelo chinês promete respostas mais rápidas e curtas, com pesos abertos sob licença MIT.",
+      "texto": "A DeepSeek liberou no sábado (17) o V4.1-Flash-1017, uma atualização menor do V4.1-Flash que, segundo a empresa, melhora desempenho em raciocínio, programação e tarefas de agentes e reduz o tempo de execução e o tamanho das respostas. No benchmark Humanity's Last Exam sem ferramentas, a nota subiu de 36,8 para 42,6, de acordo com a própria empresa. Os preços da API não mudaram, e a DeepSeek também passou a oferecer a desenvolvedores o acesso ao seu mecanismo de busca próprio. Os pesos estão no Hugging Face sob licença MIT.",
+      "fonte": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "DeepSeek (changelog oficial)",
+            "link": "https://api-docs.deepseek.com/updates/"
+          },
+          {
+            "veiculo": "Hugging Face (página oficial do modelo)",
+            "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+          },
+          {
+            "veiculo": "Digital Today",
+            "link": "https://www.digitaltoday.co.kr/en/view/115917/deepseek-unveils-faster-lighter-v41-flash-1017"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i4",
+      "chapeu": "",
+      "titulo": "Anthropic fecha primeiro data center no Canadá",
+      "linha_fina": "Empresa será inquilina de campus da EverWind na Nova Escócia, projeto de mais de C$ 10 bilhões.",
+      "texto": "A Anthropic confirmou que alugou capacidade em um campus de data center da EverWind em Point Tupper, na Nova Escócia, seu primeiro acordo do tipo no Canadá. O projeto envolve cerca de C$ 10 bilhões em investimento privado, incluindo parques eólicos, e começa com 95 MW no fim de 2027, podendo chegar a 420 MW em 2028. O valor do aluguel não foi divulgado. O acordo foi anunciado na sexta (16) e noticiado pela Reuters, com ampla repercussão no sábado.",
+      "fonte": "Reuters (via The Star)",
+      "link": "https://www.thestar.com.my/tech/tech-news/2026/10/17/anthropic-signs-lease-for-first-canadian-data-center",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Global News",
+            "link": "https://globalnews.ca/news/12105095/everwind-nova-scotia-data-centre/"
+          },
+          {
+            "veiculo": "CBC News",
+            "link": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-to-host-massive-data-centre-to-power-anthropic-s-ai-assistant-claude-9.7383129"
+          },
+          {
+            "veiculo": "The Globe and Mail",
+            "link": "https://www.theglobeandmail.com/business/article-anthropic-signs-onto-10-billion-nova-scotia-data-centre-project/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i5",
+      "chapeu": "",
+      "titulo": "Anthropic mostra que contrata menos júniores na era dos agentes",
+      "linha_fina": "Relatório interno aponta queda na fatia de iniciantes em vagas técnicas e mais tempo de reunião.",
+      "texto": "Um relatório da Anthropic sobre o próprio quadro de funcionários mostra que os profissionais júniores caíram de 27% para 9% das contratações técnicas desde o início de 2025. Na força de trabalho técnica, a fatia de júniores passou de 21% para 14%. Segundo a empresa, as horas de agentes de IA já são seis vezes as horas dos funcionários nas sessões dirigidas por eles, enquanto o tempo de reunião por pessoa subiu 20% em um ano. A Anthropic diz não ver sinais de queda na qualidade do código.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Anthropic (relatório oficial)",
+            "link": "https://www.anthropic.com/research/employment-at-anthropic"
+          },
+          {
+            "veiculo": "Crypto Briefing",
+            "link": "https://cryptobriefing.com/anthropic-junior-technical-headcount-drops/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t1",
+      "chapeu": "",
+      "titulo": "Credencial da ConnectWise abre porta a 173 contas Microsoft 365",
+      "linha_fina": "Ataque à cadeia de suprimentos usou app de backup para invadir clientes de provedores de TI; empresa suspendeu o serviço.",
+      "texto": "Criminosos usaram uma credencial comprometida do ConnectWise Cloud Backup (antigo SkyKick) para entrar em 173 ambientes Microsoft 365 de provedores de serviços gerenciados e seus clientes, segundo a Huntress. Os acessos se concentraram em 15/10 e partiram de um mesmo IP, que antes tentara ataques contra escritórios de advocacia. A ConnectWise desativou sete identidades de aplicativo em 17/10, suspendeu o backup e diz não ver sinais de acesso aos arquivos guardados. Especialistas recomendam revisar credenciais adicionadas desde 13/10.",
+      "fonte": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Huntress (pesquisa primária)",
+            "link": "https://www.huntress.com/blog/vendor-credential-enables-unauthorized-access"
+          },
+          {
+            "veiculo": "BleepingComputer",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t2",
+      "chapeu": "",
+      "titulo": "TikTok bane conta de documentário sobre Elon Musk",
+      "linha_fina": "Plataforma alegou violação de regras sobre conteúdo político; distribuidora vai recorrer.",
+      "texto": "O TikTok suspendeu de forma permanente a conta oficial de divulgação de \"Musk\", documentário de Alex Gibney, citando violação de políticas sobre conteúdo político. A decisão veio quando o filme se expandia para cerca de 500 salas na América do Norte, e a distribuidora Bleecker Street anunciou recurso. O TikTok não disse quais posts motivaram o banimento; a conta tinha mais de 10 mil seguidores. Antes, TikTok e X haviam recusado anúncios pagos do filme, enquanto Google e Meta voltaram atrás após rejeitá-los.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Variety",
+            "link": "https://variety.com/2026/film/news/musk-documentary-tiktok-account-permanently-suspended-1236914995/"
+          },
+          {
+            "veiculo": "Android Headlines",
+            "link": "https://www.androidheadlines.com/2026/10/tiktok-bans-elon-musk-documentary-account.html"
+          },
+          {
+            "veiculo": "The News International",
+            "link": "https://www.thenews.com.pk/latest/1420333-tiktok-bans-musk-documentary-account"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t3",
+      "chapeu": "",
+      "titulo": "Zelensky diz que limite do Starlink na Ucrânia é proposital",
+      "linha_fina": "Presidente afirma que restrição de velocidade só vale em território ucraniano e derruba drones interceptadores.",
+      "texto": "Volodymyr Zelensky afirmou no sábado que as restrições ao uso militar do Starlink/Starshield na Ucrânia parecem uma \"operação planejada\", e não falha técnica. Segundo ele, os terminais caem acima de 161 km/h, o que inutiliza drones interceptadores usados contra drones russos a jato; testes com veículos na União Europeia funcionaram normalmente. Trump negou ter ordenado os limites, e Musk diz que quem decide é o Exército dos EUA.",
+      "fonte": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-17/zelenskyy-says-starlink-restrictions-on-ukraine-look-deliberate",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Kyiv Post",
+            "link": "https://www.kyivpost.com/post/87379"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t4",
+      "chapeu": "",
+      "titulo": "Apple contrata ex-Meta para chefiar litígios globais",
+      "linha_fina": "Scott Tucker assume cargo novo que cuida de processos comerciais, patentes e serviços financeiros.",
+      "texto": "A Apple contratou Scott Tucker, que passou quase seis anos na Meta como vice-conselheiro-geral de litígios, para o recém-criado cargo de vice-presidente de litígios globais e serviços financeiros. Ele vai supervisionar disputas comerciais e de patentes e questões jurídicas dos produtos financeiros da empresa. A mudança faz parte da reorganização conduzida por Jennifer Newstead, também vinda da Meta, hoje conselheira-geral da Apple.",
+      "fonte": "MacRumors",
+      "link": "https://www.macrumors.com/2026/10/17/apple-hires-former-meta-lawyer/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "9to5Mac",
+            "link": "https://9to5mac.com/2026/10/16/apple-poaches-longtime-meta-executive-to-lead-global-litigation/"
+          },
+          {
+            "veiculo": "Bloomberg",
+            "link": "https://www.bloomberg.com/news/articles/2026-10-16/apple-names-meta-veteran-as-litigation-chief-in-legal-team-shake-up"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h1",
+      "chapeu": "",
+      "titulo": "Michael Dell prevê falta de memória pior em 2027",
+      "linha_fina": "CEO diz que escassez de DRAM e HBM trava US$ 95 bilhões em pedidos de servidores de IA.",
+      "texto": "Em conversa relatada pelo Wall Street Journal, Michael Dell afirmou que o gargalo do negócio de servidores de IA é a falta de chips de memória, não a demanda, e que a situação deve piorar no próximo ano. A Dell acumula cerca de US$ 95 bilhões em servidores de IA encomendados e ainda não entregues, a maior carteira de sua história. Em entrevista à CNBC no início da semana, o executivo já tinha dito que pode ser um problema de quatro anos, já que novas fábricas só devem atingir plena capacidade por volta de 2029 ou 2030.",
+      "fonte": "Wccftech",
+      "link": "https://wccftech.com/michael-dell-memory-shortage-ai-servers-gonna-get-worse-dell-stock/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "DigitalToday (relata WSJ)",
+            "link": "https://www.digitaltoday.co.kr/en/view/115857/ai-bottleneck-is-memory-not-demand-dell-ceo-says-worse-next-year"
+          },
+          {
+            "veiculo": "Benzinga via Yahoo Finance (16/10)",
+            "link": "https://finance.yahoo.com/technology/ai/articles/michael-dell-warns-memory-shortage-173021227.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h2",
+      "chapeu": "",
+      "titulo": "Taiwan vai criminalizar contrabando de chips de IA para a China",
+      "linha_fina": "Servidores de IA e chips de ponta entram na lista de exportações controladas, alinhando a ilha aos EUA.",
+      "texto": "O ministro da Economia de Taiwan, Kung Ming-hsin, confirmou que o governo vai incluir servidores de IA e semicondutores avançados na lista de bens controlados, tornando crime o envio ilegal desses itens à China com base na Lei de Comércio Exterior. A medida acompanha o acordo comercial que reduziu tarifas americanas sobre produtos taiwaneses e vem após casos de contrabando envolvendo funcionários da Super Micro. O Tom's Hardware fala em penas de até cinco anos de prisão; outros veículos ressaltam que a pena, a data de vigência e a lista final ainda dependem de mudança na lei.",
+      "fonte": "Tom's Hardware",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-targets-illicit-ai-server-exports-to-china-with-five-year-prison-terms-strict-new-controls-follow-us-tariff-deal-and-super-micro-raid",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Bloomberg (16/10)",
+            "link": "https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-curb-ai-chip-exports-to-china-as-part-of-us-trade-deal"
+          },
+          {
+            "veiculo": "24/7 Wall St. via Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/smuggling-nvidia-chips-china-become-122027261.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h3",
+      "chapeu": "",
+      "titulo": "ASUS lança sua primeira placa Intel Arc, a Pro B70 de 32 GB",
+      "linha_fina": "Modelo UGen Arc Pro B70 usa o 'Battlemage grande' e mira IA e servidores.",
+      "texto": "A ASUS voltou a fabricar placas com GPU Intel ao apresentar a UGen Arc Pro B70, baseada no chip BMG-G31 com 32 núcleos Xe2, 32 GB de memória GDDR6 e consumo em torno de 310 W. A Intel indica até 367 TOPS em inferência INT8, e o cooler tipo blower de dois slots facilita montar várias placas lado a lado. A ASUS não divulgou preço; uma versão equivalente da ASRock é vendida por cerca de US$ 1.300 nos EUA.",
+      "fonte": "Adrenaline",
+      "link": "https://www.adrenaline.com.br/intel/asus-lanca-sua-primeira-gpu-intel-battlemage-a-ugen-arc-pro-b70-com-32gb/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "ASUS (ficha técnica oficial)",
+            "link": "https://www.asus.com/motherboards-components/ai-accelerator/ugen/ugen-arc-pro-b70-32g/techspec/"
+          },
+          {
+            "veiculo": "VideoCardz",
+            "link": "https://videocardz.com/newz/asus-returns-to-intel-graphics-cards-after-five-years-with-arc-pro-b70-32gb"
+          },
+          {
+            "veiculo": "TechPowerUp",
+            "link": "https://www.techpowerup.com/353826/asus-makes-its-first-intel-arc-card-a-32-gb-arc-pro-b70-under-the-ugen-ai-brand"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h4",
+      "chapeu": "",
+      "titulo": "Intel confirma chip Razor Lake-AX para 2028",
+      "linha_fina": "Processador de alto desempenho promete cerca de 700 TOPS de IA e mira robôs humanoides.",
+      "texto": "Um executivo da Intel, Cho Min-sung, confirmou pela primeira vez o Razor Lake-AX durante seminário sobre semicondutores para humanoides na Coreia do Sul, com lançamento previsto para 2028. A meta é de aproximadamente 700 TOPS de processamento de IA, quase quatro vezes os até 180 TOPS da atual plataforma Panther Lake para robótica. A Intel não detalhou consumo, memória, gráficos nem se o chip chegará a notebooks ou mini PCs.",
+      "fonte": "Notebookcheck",
+      "link": "https://www.notebookcheck.net/Intel-Razor-Lake-AX-gets-official-2028-roadmap-confirmation-after-months-of-leaks.1426885.0.html",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "VideoCardz",
+            "link": "https://videocardz.com/newz/intel-confirms-razor-lake-ax-for-2028-with-700-tops-ai-performance"
+          },
+          {
+            "veiculo": "Wccftech",
+            "link": "https://wccftech.com/intel-confirms-razor-lake-ax-700-tops-launch-in-2028/"
+          },
+          {
+            "veiculo": "Digital Trends",
+            "link": "https://www.digitaltrends.com/computing/intel-wants-to-give-humanoid-robots-a-700-tops-brain-by-2028/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c1",
+      "chapeu": "",
+      "titulo": "HB20 faz 15 anos e ganhará versão abaixo de R$ 100 mil",
+      "linha_fina": "Hyundai prepara nova configuração 1.0 aspirada para a linha 2027 do hatch feito em Piracicaba (SP).",
+      "texto": "A Hyundai vai lançar nos próximos meses uma nova versão do HB20 com motor 1.0 aspirado e preço abaixo de R$ 100 mil, antes da chegada do ano-modelo 2028. A novidade abre as comemorações dos 15 anos do hatch, lançado em outubro de 2012 como o primeiro modelo da marca desenvolvido no Brasil. A linha 2027 terá como foco o 1.0 sem turbo, que concentra a maior parte das vendas, com garantia de cinco anos sem limite de quilometragem. Nome e preço exato ainda não foram divulgados.",
+      "fonte": "Auto+ TV",
+      "link": "https://www.automaistv.com.br/novidades/hyundai-hb20-completa-15-anos-no-brasil-e-tera-nova-versao-abaixo-de-r-100-000/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "CNN Brasil",
+            "link": "https://www.cnnbrasil.com.br/auto/hb20-abaixo-de-r-100-mil-hyundai-anuncia-nova-versao-1-0-sem-turbo/"
+          },
+          {
+            "veiculo": "Mobiauto",
+            "link": "https://www.mobiauto.com.br/revista/hyundai-hb20-2027-deixa-motor-turbo-e-tera-mais-uma-versao-por-menos-de-r-100-mil/11837"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c2",
+      "chapeu": "",
+      "titulo": "Corolla volta a ter linha completa nas lojas",
+      "linha_fina": "Toyota normaliza o abastecimento do sedã depois de transferir a produção de Indaiatuba para Sorocaba (SP).",
+      "texto": "A Toyota informou que todas as versões do Corolla voltaram às concessionárias do país depois da parada técnica planejada para mudar a produção de Indaiatuba para Sorocaba. A oferta inclui o 2.0 flex de até 175 cv e o Corolla Hybrid flex de 122 cv combinados. A retomada coincide com os 60 anos do modelo, que é feito no Brasil desde 1998 e soma mais de 16 mil emplacamentos em 2026 até setembro, segundo a Fenabrave.",
+      "fonte": "Car Blog Brasil",
+      "link": "https://www.car.blog.br/2026/10/toyota-corolla-retoma-producao-completa.html",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Vrum",
+            "link": "https://www.vrum.com.br/mercado/2026/10/7522402-toyota-corolla-completa-60-anos-e-normaliza-abastecimento-nas-lojas.html"
+          },
+          {
+            "veiculo": "Notícias Automotivas",
+            "link": "https://www.noticiasautomotivas.com.br/depois-de-mudar-a-producao-de-indaiatuba-para-sorocaba-toyota-normaliza-a-oferta-do-corolla-e-volta-a-vender-todas-as-versoes-no-brasil/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c3",
+      "chapeu": "",
+      "titulo": "HB20 é o carro de passeio mais vendido na quinzena",
+      "linha_fina": "Hatch da Hyundai só fica atrás da picape Fiat Strada no ranking geral da primeira metade de outubro.",
+      "texto": "Pelos dados parciais da Fenabrave, o HB20 somou 5.581 emplacamentos na primeira quinzena de outubro. Ficou em segundo lugar no ranking geral, atrás da Fiat Strada (6.962), e passou à frente do BYD Dolphin Mini, do VW T-Cross e do VW Polo. Segundo a AutoIndústria, o volume é 74% maior que o do mesmo período de setembro, e o modelo pode superar em outubro seu melhor mês do ano.",
+      "fonte": "Auto+ TV",
+      "link": "https://www.automaistv.com.br/vendas-e-precos/hyundai-hb20-vendas-outubro-vw-polo/",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "AutoIndústria",
+            "link": "https://www.autoindustria.com.br/2026/10/16/hb20-sustenta-folego-e-cresce-74-nas-vendas-de-outubro/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c4",
+      "chapeu": "",
+      "titulo": "Stellantis vai ocupar fábricas europeias com marcas chinesas",
+      "linha_fina": "Leapmotor e Dongfeng devem produzir em plantas ociosas da Espanha e da França, em vez de fechamentos.",
+      "texto": "O CEO da Stellantis, Antonio Filosa, disse que o grupo prefere dividir a capacidade ociosa na Europa com parceiros chineses a fechar fábricas. Zaragoza (Espanha) já produz o Leapmotor B10. Em Madri, a planta de Villaverde deve virar uma sociedade com 51% da Stellantis e 49% da Leapmotor, acordo que ainda não foi assinado. A Dongfeng negocia produzir modelos Voyah na França. No Brasil, B10 e C10 serão montados em Goiana (PE), com chegada prevista para o 1º trimestre de 2027.",
+      "fonte": "AutoPapo",
+      "link": "https://autopapo.com.br/curta/stellantis-vai-fabricar-carros-chineses-na-espanha-e-na-franca-para-ocupar-fabricas-ociosas-e-evitar-fechamentos/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "El Español",
+            "link": "https://www.elespanol.com/motor/20261012/stellantis-abre-replicar-asociaciones-fabricantes-chinos-plantas-paliar-exceso-capacidad/1003744417490_0.html"
+          },
+          {
+            "veiculo": "Automotive News",
+            "link": "https://www.autonews.com/stellantis/ane-stellantis-capacity-europe-1014/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c5",
+      "chapeu": "",
+      "titulo": "Eletrificados já são 67% das vendas de carros na China",
+      "linha_fina": "A participação é recorde, mas o mercado chinês encolheu 28% em setembro e a BYD lidera com 22,8% dos eletrificados.",
+      "texto": "Os eletrificados (elétricos e híbridos plug-in) responderam por 67% das vendas no varejo de carros de passeio na China em setembro, recorde segundo a associação CPCA. O mercado total caiu 28% na comparação anual, para 1,618 milhão de unidades, e os modelos só a gasolina recuaram 49%. A BYD vendeu 246.816 eletrificados (22,8% do segmento), queda de 28,9% em um ano, com a Geely em segundo, com 11%.",
+      "fonte": "Somos Eléctricos",
+      "link": "https://www.somoselectricos.com/coches-electricos/byd-triunfa-china-septiembre-casi-23-mercado-duplica-ventas-rival-mas-directo/20261017102047064433.html",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "CnEVPost (dados CPCA)",
+            "link": "https://cnevpost.com/2026/10/12/china-sept-2026-nev-retail-cpca/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p1",
+      "chapeu": "",
+      "titulo": "Lula e Flávio se preparam para primeiro debate do 2º turno",
+      "linha_fina": "Encontro na Band, neste domingo (18/10), às 20h, será o primeiro confronto direto entre os candidatos.",
+      "texto": "Lula passou o sábado em Brasília sem agenda pública, dedicado à preparação para o debate da Band. Segundo a CNN Brasil, a campanha petista orienta o presidente a priorizar realizações do governo e propostas como o fim da escala 6x1 e a ampliação da isenção do IR; a equipe de Flávio indica foco em segurança, saúde e economia, evitando ataques pessoais. O presidente do PT, Edinho Silva, disse que Lula está \"animado\" e que o partido vai cobrar explicações do adversário. O debate terá duas horas, com perguntas entre os candidatos e de jornalistas.",
+      "fonte": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-passa-sabado-em-brasilia-se-preparando-para-primeiro-debate-com-flavio/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "SBT News",
+            "link": "https://sbtnews.sbt.com.br/noticia/eleicoes/edinho-diz-que-lula-esta-animado-para-confronto-com-flavio"
+          },
+          {
+            "veiculo": "Jornal do Comércio",
+            "link": "https://www.jornaldocomercio.com/politica/2026/10/1266919-veja-como-sera-o-debate-entre-lula-e-flavio-na-band-neste-domingo-18.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p2",
+      "chapeu": "",
+      "titulo": "Flávio faz atos em Vitória e Salvador",
+      "linha_fina": "Candidato do PL percorreu as duas capitais com aliados e recebeu título de cidadão soteropolitano após decisão do TJ-BA.",
+      "texto": "Flávio Bolsonaro realizou no sábado atos do \"Bloco do 22\" na orla de Camburi, em Vitória, ao lado do candidato a governador Lorenzo Pazolini, e no Farol da Barra, em Salvador, com Tarcísio de Freitas, Nikolas Ferreira e ACM Neto. Na Bahia, onde Lula teve 66% dos votos válidos no 1º turno, Flávio disse que o voto é secreto e prometeu governar também para eleitores do adversário. Uma juíza do TJ-BA, em plantão, suspendeu a decisão de primeira instância que proibia a Câmara de Salvador de entregar a ele o título de cidadão no ato; a ação original havia sido movida por uma moradora da cidade, que apontava uso eleitoral da honraria.",
+      "fonte": "Metrópoles",
+      "link": "https://www.metropoles.com/brasil/flavio-faz-apelo-a-eleitores-oprimidos-e-reforca-que-o-voto-e-secreto",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "GC Mais",
+            "link": "https://gcmais.com.br/noticias/2026/10/17/flavio-bolsonaro-reune-apoiadores-em-ato-no-es-ao-lado-de-nikolas-e-tarcisio"
+          },
+          {
+            "veiculo": "Terra",
+            "link": "https://www.terra.com.br/noticias/eleicoes/tj-ba-derruba-decisao-que-impedia-entrega-de-titulo-de-cidadao-de-salvador-a-flavio-bolsonaro,77b9b0238f85fc1d7c9a6b500bd2c15a2qhyfz0f.html"
+          },
+          {
+            "veiculo": "Metro 1",
+            "link": "https://www.metro1.com.br/noticias/politica/189932,justica-libera-entrega-de-titulo-de-cidadao-soteropolitano-a-flavio-durante-ato-politico-em-salvador"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p3",
+      "chapeu": "",
+      "titulo": "TSE mantém vídeo de Lula que chama Flávio de \"mentiroso Master\"",
+      "linha_fina": "Relatora entendeu que peça está no campo da crítica política e rejeitou ação do candidato do PL.",
+      "texto": "A ministra Estela Aranha, do TSE, rejeitou a ação de Flávio Bolsonaro contra vídeo publicado pela campanha de Lula em 26/09. A defesa de Flávio sustentou que suas falas sobre Daniel Vorcaro foram tiradas de contexto e que a expressão extrapola a crítica política. A relatora considerou o termo um juízo de valor admissível na disputa e apontou que o vídeo indica as reportagens usadas como fonte; a Procuradoria-Geral Eleitoral também se manifestou contra a ação.",
+      "fonte": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/tse-mantem-video-de-lula-que-chama-flavio-de-mentiroso-master/",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "98 FM Natal",
+            "link": "https://98fmnatal.com.br/destaque_mais/tse-decide-manter-video-de-lula-que-chama-flavio-bolsonaro-de-mentiroso-master/404282/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p4",
+      "chapeu": "",
+      "titulo": "Protestos levam 550 mil às ruas na França",
+      "linha_fina": "Estudantes, sindicatos e \"coletes amarelos\" protestaram contra custo de vida e condições das escolas; houve confrontos e prisões.",
+      "texto": "Segundo o Ministério do Interior francês, cerca de 550 mil pessoas participaram de manifestações no sábado em todo o país, 110 mil delas em Paris. Os atos reuniram estudantes que pedem melhorias no ensino, sindicatos como a CGT, que reivindica salários maiores e preços menores, e integrantes dos \"coletes amarelos\". A Al Jazeera informou ao menos 400 detidos no país, número atribuído ao ministério, que culpou grupos de \"ultraesquerda\" por episódios de violência; o presidente Emmanuel Macron pediu calma e respeito ao direito de protesto.",
+      "fonte": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Euronews",
+            "link": "https://www.euronews.com/2026/10/17/france-braces-for-tense-protests-as-security-concerns-take-centre-stage"
+          },
+          {
+            "veiculo": "CNBC",
+            "link": "https://www.cnbc.com/amp/2026/10/17/french-protesters-take-to-streets-over-rising-prices-and-social-strain.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p5",
+      "chapeu": "",
+      "titulo": "Atos \"No Kings\" nos EUA miram voto antecipado",
+      "linha_fina": "Movimento contrário a Trump realizou eventos em várias cidades a pouco mais de duas semanas das eleições de meio de mandato.",
+      "texto": "A coalizão No Kings, que se opõe ao presidente Donald Trump, promoveu no sábado centenas de atos pelos Estados Unidos, com foco em incentivar o voto antecipado nas eleições legislativas de 3 de novembro. Os organizadores definiram os eventos como apartidários; houve concentrações de milhares de pessoas em cidades como Nova York e Minneapolis e encontros menores em outros locais. As reportagens não registraram manifestação da Casa Branca ou de republicanos sobre os atos.",
+      "fonte": "AP (via FOX 5 DC)",
+      "link": "https://www.fox5dc.com/news/no-kings-rallies-united-states-oct-17-2026-midterm-elections",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "NPR (via KPBS)",
+            "link": "https://www.kpbs.org/news/national/2026/10/17/no-kings-draws-crowds-with-focus-on-early-voting"
+          },
+          {
+            "veiculo": "Arizona Mirror",
+            "link": "https://azmirror.com/2026/10/17/arizona-no-kings-crowds-channel-anger-at-trump-and-republicans-into-early-votes/"
+          }
+        ]
+      }
+    }
+  ]
+}
