@@ -1,0 +1,754 @@
+{
+  "data": "2026-10-19",
+  "titulo": "Newsletter — 19/10/2026",
+  "data_por_extenso": "Segunda-feira, 19 de outubro de 2026",
+  "pagina": "edicoes/2026-10-19.html",
+  "destaques": [
+    {
+      "link": "#t1",
+      "titulo": "TSE dá 24 horas para a Meta provar tratamento igual"
+    },
+    {
+      "link": "#p1",
+      "titulo": "PoderData e BTG/Nexus também mostram Flávio à frente"
+    },
+    {
+      "link": "#i2",
+      "titulo": "Hacker usa agentes de IA para invadir mais de 100 empresas"
+    },
+    {
+      "link": "#g1",
+      "titulo": "FURIA fica fora das parceiras do VCT 2027–28"
+    },
+    {
+      "link": "#h1",
+      "titulo": "Nvidia entra na nuvem da Modal com a CPU Vera"
+    }
+  ],
+  "noticias": [
+    {
+      "tipo": "manchete",
+      "editoria": "Política",
+      "id": "manchete",
+      "chapeu": "Política · Eleições 2026",
+      "titulo": "AtlasIntel: Flávio tem 51,1% e Lula, 48,9% dos votos válidos",
+      "linha_fina": "A diferença caiu de 5,6 para 2,2 pontos em relação à rodada de 9/10; as entrevistas terminaram antes do debate da Band.",
+      "texto": "A pesquisa AtlasIntel/Bloomberg divulgada na segunda-feira (19) registra Flávio Bolsonaro (PL) com 51,1% dos votos válidos e Lula (PT) com 48,9%. Nos votos totais, Flávio tem 49,8% e Lula, 47,6%; brancos, nulos e indecisos somam 2,6%. Na rodada de 9/10, o placar nos válidos era de 52,8% a 47,2%. Foram 4.998 entrevistas online de 13 a 18/10, com margem de erro de 1 ponto (registro BR-02418/2026). O 2º turno é no domingo, 25/10.",
+      "fonte": "CartaCapital",
+      "link": "https://www.cartacapital.com.br/politica/lula-sobe-mas-flavio-segue-a-frente-no-2o-turno-indica-atlasintel/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Jornal Razão",
+            "link": "https://jornalrazao.com/politica/pesquisa-atlasintel-flavio-bolsonaro-lula-segundo-turno-13-18-outubro"
+          },
+          {
+            "veiculo": "Congresso em Foco",
+            "link": "https://www.congressoemfoco.com.br/noticia/123364/como-estao-as-pesquisas-para-presidente-a-seis-dias-do-2-turno"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g1",
+      "chapeu": "",
+      "titulo": "FURIA fica fora das equipes parceiras do VCT 2027–28 da Riot",
+      "linha_fina": "LOUD e MIBR seguem entre as parceiras das Américas; a FURIA diz que ainda avalia se continua no Valorant.",
+      "texto": "A Riot Games deixou a FURIA fora do programa de organizações parceiras do Valorant no ciclo 2027–2028. A equipe soube da decisão no domingo (18) e publicou um comunicado na segunda (19) em que fala em “profundo desapontamento”. A Riot reduziu as vagas de parceria de 10 para 8 por região, e LOUD e MIBR continuam no VCT Américas. A FURIA ainda pode tentar voltar pelos qualificatórios abertos e, segundo a imprensa especializada, liberou artzin e basic para negociar com outros times.",
+      "fonte": "Sportbuzz",
+      "link": "https://sportbuzz.com.br/outros-esportes/2026/10/19/furia-fica-fora-da-lista-de-parceiros-da-riot-games-para-o-vct-americas-de-valorant-em-2027-e-2028/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "VZone",
+            "link": "https://vzone.gg/noticia/furia-avalia-futuro-no-valorant/"
+          },
+          {
+            "veiculo": "Pichau Arena",
+            "link": "https://www.pichauarena.com.br/valorant/furia-parceria-vct-2027/"
+          },
+          {
+            "veiculo": "Insider Gaming",
+            "link": "https://insider-gaming.com/vct-partnered-teams-2027-omissions-cloud9/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g2",
+      "chapeu": "",
+      "titulo": "Liquid Swords, estúdio de Samson, confirma que vai fechar",
+      "linha_fina": "O fundador Christofer Sundberg diz que as vendas melhores nos consoles não bastaram para salvar a empresa.",
+      "texto": "Christofer Sundberg, cofundador da Avalanche Studios e fundador da sueca Liquid Swords, confirmou na segunda (19) o fechamento do estúdio. Ele citou as condições do mercado e algumas decisões de negócio ruins. Samson saiu para PC em abril e para PS5 em setembro, e vendeu mais nos consoles. Na semana anterior, a imprensa sueca já havia noticiado a falência da empresa, que tinha cerca de 30 funcionários com salários atrasados.",
+      "fonte": "Push Square",
+      "link": "https://www.pushsquare.com/news/2026/10/samson-dev-confirms-closure-open-worlds-console-sales-were-far-better-than-on-pc",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Destructoid",
+            "link": "https://destructoid.com/samson-studio-shuts-down-console-success-wasnt-enough"
+          },
+          {
+            "veiculo": "GameSpot",
+            "link": "https://www.gamespot.com/articles/open-world-crime-game-samson-did-better-on-console-but-not-enough-to-save-its-developer-from-shutting-down/"
+          },
+          {
+            "veiculo": "PC Gamer",
+            "link": "https://www.pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g3",
+      "chapeu": "",
+      "titulo": "Lucasfilm quer mais estúdios menores nos jogos de Star Wars",
+      "linha_fina": "Vice-presidente da Lucasfilm Games diz que parcerias com equipes AA fazem parte da estratégia.",
+      "texto": "Em entrevista ao programa The Game Business Show, Douglas Reilly, vice-presidente da Lucasfilm Games, disse que trabalhar com estúdios de fora, inclusive equipes AA, faz parte da estratégia da empresa. Segundo ele, grandes títulos como Battlefront continuam centrais, mas não é preciso ser uma das maiores publishers para fazer um bom jogo da franquia. Reilly citou como exemplos Star Wars Zero Company, da Bit Reactor, e Star Wars: Galactic Racer, da Fuse Games, ambos lançados em 2026.",
+      "fonte": "GameSpot",
+      "link": "https://www.gamespot.com/articles/star-wars-games-could-get-more-interesting-as-lucasfilm-looks-beyond-the-big-studios/",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Push Square",
+            "link": "https://www.pushsquare.com/news/2026/10/star-wars-games-primed-to-continue-hot-streak-with-surprise-titles"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g4",
+      "chapeu": "",
+      "titulo": "Techland diz que Dying Light: The Beast não terá grandes conteúdos novos",
+      "linha_fina": "Em sessão de perguntas no Discord, o CEO Paweł Marchewka admite que o modelo de suporte de cinco anos não deu certo.",
+      "texto": "O fundador e CEO da Techland, Paweł Marchewka, disse em uma sessão de perguntas no Discord oficial que não há planos de conteúdo novo de peso para Dying Light: The Beast, lançado em setembro de 2025. Segundo ele, o jogo foi pensado como uma experiência completa, e o suporte de vários anos dado a Dying Light 2 atrapalhou o trabalho em novos projetos. Dying Light 2 segue recebendo suporte, mas o que acontece depois do quinto aniversário, em fevereiro de 2027, ainda não foi decidido.",
+      "fonte": "Insider Gaming",
+      "link": "https://insider-gaming.com/dying-light-the-beast-finished-players-expect-much-techland-ama/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "VGTimes",
+            "link": "https://vgtimes.com/gaming-news/171701-dying-light-the-beast-wont-get-major-new-content-techland-ceo-says.html"
+          },
+          {
+            "veiculo": "GamePress",
+            "link": "https://gamepress.cz/techland-neplanuje-dalsi-velky-obsah-pro-dying-light-the-beast/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g5",
+      "chapeu": "",
+      "titulo": "Saros recebe atualização gratuita Zenith com modo de chefes em sequência",
+      "linha_fina": "A atualização do jogo da Housemarque para PS5 também traz um endgame mais difícil e novas opções de acessibilidade.",
+      "texto": "A Housemarque liberou na segunda (19) a atualização gratuita Zenith para Saros, exclusivo de PS5. Ela adiciona o Overlord Rush, modo em que o jogador enfrenta os chefes em sequência com placar online, e as Eclipse Layers, um endgame de dificuldade crescente. Também chegam 20 novos modificadores e ajustes de acessibilidade, como velocidade de jogo ajustável e tiro automático. O pacote tem 3,5 GB e leva o jogo à versão 2.0.",
+      "fonte": "Push Square",
+      "link": "https://www.pushsquare.com/news/2026/10/saros-massive-zenith-update-is-available-now-on-ps5-free-for-all-players",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "GameSpot",
+            "link": "https://www.gamespot.com/articles/saros-gets-boss-rush-and-tons-of-difficulty-options-with-zenith-update/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i1",
+      "chapeu": "",
+      "titulo": "Anthropic negocia mais US$ 45 bilhões em computação com a britânica Nscale",
+      "linha_fina": "O novo acordo usaria um segundo prédio do campus Monarch, na Virgínia Ocidental, com chips Vera Rubin da Nvidia.",
+      "texto": "A Anthropic negocia com a Nscale, empresa de nuvem apoiada pela Nvidia, a compra de cerca de US$ 45 bilhões em capacidade computacional, segundo a Bloomberg. O acordo envolveria um segundo prédio do campus Monarch, na Virgínia Ocidental, com 460 megawatts, e daria à Anthropic preferência sobre um terceiro. Em agosto, a empresa já havia fechado um contrato de valor semelhante no mesmo campus. As conversas continuam e os termos ainda podem mudar.",
+      "fonte": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-19/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Reuters (via Investing.com)",
+            "link": "https://www.investing.com/news/stock-market-news/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal-bloomberg-news-reports-4958188"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i2",
+      "chapeu": "",
+      "titulo": "Hacker usa agentes de IA para invadir mais de 100 empresas",
+      "linha_fina": "A campanha mirou mais de 1.200 sites desde setembro e atingiu nomes como Deere, SharkNinja e Cummins.",
+      "texto": "Reportagem exclusiva da Reuters publicada na segunda (19) mostra que um único hacker usou agentes de IA para atacar mais de 1.200 sites desde 25 de setembro e invadiu mais de 100 empresas, entre elas Deere, SharkNinja e Cummins. O caso foi descoberto pelo pesquisador Snorre Fagerland, da NorForge, que encontrou painéis expostos da plataforma de código aberto Cairn. Segundo ele, a campanha combinou modelos da DeepSeek e o Claude Code, da Anthropic, e gastou cerca de US$ 5 mil em tokens. Deere e SharkNinja dizem ter contido o problema; a Cummins afirma que investiga.",
+      "fonte": "Reuters",
+      "link": "https://www.yahoo.com/news/us/articles/exclusive-one-hacker-used-ai-100625247.html",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "The Next Web",
+            "link": "https://thenextweb.com/news/ai-agents-hacker-cairn-100-sites-deere-norforge"
+          },
+          {
+            "veiculo": "Gizmodo",
+            "link": "https://gizmodo.com/the-fear-of-a-one-man-band-weaponizing-ai-agents-is-becoming-reality-2000827754"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i3",
+      "chapeu": "",
+      "titulo": "Justiça dos EUA mantém preso ex-engenheiro da OpenAI acusado de espionagem",
+      "linha_fina": "Abdulrahman Alfozan é suspeito de esconder um gravador numa sala de reuniões de executivos da empresa.",
+      "texto": "Em audiência na segunda (19), um juiz federal de San Francisco negou prisão domiciliar a Abdulrahman Alfozan, ex-engenheiro saudita da OpenAI, que seguirá detido até o julgamento. Segundo a promotoria, ele instalou um gravador escondido atrás de uma TV numa sala de reuniões de executivos e mantinha contato frequente por WhatsApp com um membro da família real saudita. A acusação alega risco de fuga: ele tinha voo marcado para Riade três dias depois da prisão, em 9 de outubro.",
+      "fonte": "CBS News",
+      "link": "https://www.cbsnews.com/news/ex-openai-engineer-recording-device-saudi-royal-family/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "CNBC",
+            "link": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html"
+          },
+          {
+            "veiculo": "Law360",
+            "link": "https://www.law360.com/corporate/articles/2539773"
+          },
+          {
+            "veiculo": "Quartz",
+            "link": "https://qz.com/openai-bugging-suspect-saudi-royal-whatsapp-contact-101926"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i4",
+      "chapeu": "",
+      "titulo": "Meta detalha o Prometheus, supercluster que mira 1 milhão de GPUs",
+      "linha_fina": "O centro de dados em Ohio já treinou os modelos Muse e vai receber chips Vera Rubin da Nvidia.",
+      "texto": "A Meta publicou na segunda (19) detalhes técnicos do Prometheus, supercluster na escala de gigawatt em New Albany, Ohio. A primeira fase, com centenas de milhares de GPUs, já foi concluída e serviu para treinar os modelos Muse. A meta é chegar a cerca de 1 milhão de GPUs. Segundo a empresa, as interrupções no treinamento caíram 99% desde o pico de meados de 2025.",
+      "fonte": "Engineering at Meta",
+      "link": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "StorageReview",
+            "link": "https://www.storagereview.com/news/meta-prometheus-gigawatt-supercluster-1-million-gpus-gb200-gb300-nvl72"
+          },
+          {
+            "veiculo": "Unite.AI",
+            "link": "https://www.unite.ai/meta-details-prometheus-supercluster-scaling-toward-1-million-gpus/"
+          },
+          {
+            "veiculo": "Converge Digest",
+            "link": "https://convergedigest.com/meta-prometheus-million-gpu-800g-ethernet-supercluster/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t1",
+      "chapeu": "",
+      "titulo": "TSE dá 24 horas para a Meta provar tratamento igual a Lula e Flávio",
+      "linha_fina": "O ministro Marco Aurélio Bellizze dobrou a multa diária para R$ 1 milhão a menos de uma semana do 2º turno.",
+      "texto": "O ministro Marco Aurélio Bellizze, do TSE, deu 24 horas para a Meta comprovar que cumpre a ordem de dar tratamento igual às campanhas de Lula (PT) e Flávio Bolsonaro (PL) no Facebook e no Instagram. A multa diária por descumprimento passou de R$ 500 mil para R$ 1 milhão, e a empresa terá de entregar relatórios em português, inclusive com dados de anúncios políticos. A Meta nega favorecer qualquer candidato, mas admite falhas técnicas temporárias que tiraram do ar anúncios da campanha de Lula.",
+      "fonte": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/blogs/gustavo-uribe/eleicoes/tse-da-24h-para-meta-comprovar-garantia-de-isonomia-entre-campanhas/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Al Jazeera",
+            "link": "https://aljazeera.com/news/2026/10/19/brazilian-court-orders-meta-to-prove-lula-and-bolsonaro-get-equal-treatment"
+          },
+          {
+            "veiculo": "Diário do Pará",
+            "link": "https://diariodopara.com.br/noticias/brasil/tse-24h-meta-isonomia-lula-flavio-segundo-turno/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t2",
+      "chapeu": "",
+      "titulo": "Apple marca evento “Pro and tell” para 28 de outubro em Los Angeles",
+      "linha_fina": "O segundo evento da Apple no mês deve trazer novos MacBook Pro, iPad mini com tela OLED e iMac.",
+      "texto": "A Apple confirmou na segunda (19) um evento em Los Angeles em 28 de outubro, às 14h de Brasília, com o slogan “Pro and tell”. A empresa não disse o que vai anunciar. Segundo Mark Gurman, da Bloomberg, devem aparecer MacBook Pro de 14 e 16 polegadas com tela OLED sensível ao toque e chips M5 Pro e M5 Max, um iPad mini com tela OLED e um iMac com chip M6. É o segundo evento da Apple em outubro.",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/apple-marca-mais-um-evento-para-28-de-outubro/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "9to5Mac",
+            "link": "https://9to5mac.com/2026/10/19/apple-announces-special-event-for-october-28/"
+          },
+          {
+            "veiculo": "MacRumors",
+            "link": "https://www.macrumors.com/2026/10/19/apple-pro-and-tell/"
+          },
+          {
+            "veiculo": "TidBITS",
+            "link": "https://tidbits.com/2026/10/19/apple-pro-and-tell-event-set-for-28-october-2026/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t3",
+      "chapeu": "",
+      "titulo": "Quatro gigantes das teles europeias se unem para enfrentar a Starlink",
+      "linha_fina": "Deutsche Telekom, Orange, Telefónica e Vodafone vão estudar uma oferta conjunta por espectro de satélite na Europa.",
+      "texto": "As quatro operadoras assinaram uma carta de intenções para estudar uma oferta conjunta por frequências de Serviços Móveis por Satélite na Europa, com foco em conexão via satélite direto no celular. Elas pretendem montar a infraestrutura em terra e a coordenação no continente, sem investir diretamente em uma constelação. O parceiro de satélite ainda não foi escolhido, e não há prazo nem valor de investimento definidos.",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/operadoras-europeias-se-unem-para-enfrentar-a-starlink/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Vodafone (comunicado oficial)",
+            "link": "https://www.vodafone.com/news/newsroom/technology/four-european-operators-sign-letter-of-intent-to-explore-a-joint-bid-for-mobile-satellite-services"
+          },
+          {
+            "veiculo": "Investing.com",
+            "link": "https://www.investing.com/news/stock-market-news/european-telecoms-groups-explore-satellite-spectrum-bid-to-expand-mobile-coverage-4956749"
+          },
+          {
+            "veiculo": "TelecomLead",
+            "link": "https://telecomlead.com/satellite/deutsche-telekom-orange-telefonica-and-orange-plan-joint-satellite-spectrum-bid-to-expand-direct-to-device-services-in-europe-128237"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t4",
+      "chapeu": "",
+      "titulo": "Musk promete dar uma ação da SpaceX a cada criança dos EUA em 2027",
+      "linha_fina": "A doação valeria cerca de US$ 10,5 bilhões, mas Musk não explicou como as ações seriam distribuídas.",
+      "texto": "Elon Musk disse no X que vai dar uma de suas ações da SpaceX a cada criança dos Estados Unidos no ano que vem. Com cerca de 72 milhões de menores de 18 anos no país e a ação cotada a pouco mais de US$ 146, o total ficaria perto de US$ 10,5 bilhões. O anúncio veio depois de a Anthropic reservar 5% de suas ações para um fundo de benefício público. Não há detalhes de como a distribuição funcionaria.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "SBT News",
+            "link": "https://sbtnews.sbt.com.br/noticia/economia/elon-musk-diz-que-dara-uma-acao-da-space-x-a-cada-crianca-dos-eua"
+          },
+          {
+            "veiculo": "CNBC",
+            "link": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t5",
+      "chapeu": "",
+      "titulo": "Anatel e TSE ajustam acesso gratuito a apps eleitorais para o 2º turno",
+      "linha_fina": "A agência admitiu ao STF falhas no zero rating do 1º turno e usará um mapa de domínios do TSE para corrigi-las.",
+      "texto": "A Anatel informou ao STF que trabalha com o TSE para corrigir as falhas no zero rating, o acesso gratuito pelo celular a serviços da Justiça Eleitoral, registradas no 1º turno. Segundo a agência, apps como e-Título e Pardal falharam porque dependem de serviços externos, como o login do Gov.br. O TSE entregou uma lista completa de domínios às operadoras. A gratuidade vale de 72 horas antes da votação até 24 horas depois.",
+      "fonte": "Teletime",
+      "link": "https://teletime.com.br/19/10/2026/anatel-tse-zero-rating-segundo-turno/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Telesíntese",
+            "link": "https://telesintese.com.br/zero-rating-das-eleicoes-teve-falhas-no-primeiro-turno-diz-anatel-ao-stf/"
+          },
+          {
+            "veiculo": "Rádio Plug Araucária",
+            "link": "https://radioplugaraucaria.com/anatel-admite-instabilidades-no-zero-rating-eleitoral-e-busca-solucoes-com-o-tse-para-o-segundo-turno/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h1",
+      "chapeu": "",
+      "titulo": "Nvidia entra na nuvem da Modal, antes exclusiva de Intel e AMD",
+      "linha_fina": "A startup vai rodar agentes de IA na nova CPU Vera, da Nvidia, que dobrou o desempenho nos primeiros testes.",
+      "texto": "A Modal, que aluga poder computacional a desenvolvedores de IA e até agora só usava chips Intel e AMD, anunciou na segunda (19) que vai hospedar agentes de IA na CPU Vera, da Nvidia. Segundo a empresa, os primeiros testes mostraram o dobro de trabalho concluído pelos agentes, mas a integração exige mudanças grandes no software. A Modal vai manter os processadores x86 e distribuir cada tarefa para o hardware mais eficiente.",
+      "fonte": "Reuters (via Investing.com)",
+      "link": "https://www.investing.com/news/stock-market-news/nvidia-wins-cpu-business-from-modal-previously-exclusive-to-amd-and-intel-4957937",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Tech Insider",
+            "link": "https://tech-insider.org/nvidia-vera-cpu-modal-ai-agent-deal-2026"
+          },
+          {
+            "veiculo": "Hoodline",
+            "link": "https://hoodline.com/2026/10/modal-taps-nvidia-s-new-vera-chip-betting-on-ai-agents-over-intel-and-amd/"
+          },
+          {
+            "veiculo": "Asharq Al-Awsat",
+            "link": "https://english.aawsat.com/technology/5331252-nvidia-wins-fast-growing-ai-startup-modal-new-central-processors"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h2",
+      "chapeu": "",
+      "titulo": "Tenstorrent, de Jim Keller, capta US$ 1,5 bi e passa a valer US$ 6,2 bi",
+      "linha_fina": "A fabricante de chips de IA baseados em RISC-V vai ampliar a produção dos servidores Galaxy.",
+      "texto": "A Tenstorrent, empresa de chips de IA comandada por Jim Keller, anunciou na segunda (19) uma rodada Série E de US$ 1,5 bilhão, que eleva seu valor a US$ 6,2 bilhões, mais que o dobro dos US$ 2,6 bilhões de dezembro de 2024. Trace Capital e Innovation X lideraram a rodada, com Fidelity, ARK Invest e T. Rowe Price entre os participantes. O dinheiro vai para a produção dos servidores Galaxy, pesquisa em RISC-V e contratações.",
+      "fonte": "Reuters (via Investing.com)",
+      "link": "https://www.investing.com/news/stock-market-news/ai-chip-startup-tenstorrent-more-than-doubles-its-valuation-to-62-billion-in-funding-round-4957179",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "TechCrunch",
+            "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"
+          },
+          {
+            "veiculo": "The Globe and Mail",
+            "link": "https://www.theglobeandmail.com/business/article-tenstorrent-raises-15-billion-toronto-founded-valued-62-billion/"
+          },
+          {
+            "veiculo": "SiliconANGLE",
+            "link": "https://siliconangle.com/2026/10/19/chip-legend-jim-kellers-tenstorrent-raises-1-5b-to-expand-its-open-compute-ecosystem/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h3",
+      "chapeu": "",
+      "titulo": "Ações de chips se recuperam e Intel sobe após elevação do JPMorgan",
+      "linha_fina": "O índice de semicondutores da Filadélfia subiu mais de 2% depois da pior semana em meses.",
+      "texto": "Depois de perder mais de 11% na semana anterior, o índice de semicondutores SOX subia 2,4% na segunda (19), com Micron, AMD e Nvidia em alta. A Intel avançou cerca de 4,5% depois que o JPMorgan elevou a recomendação da ação de “underweight” para “neutral”, com preço-alvo de US$ 85. O analista Harlan Sur citou a execução melhor sob o CEO Lip-Bu Tan, mas ainda prevê perda de participação em CPUs para servidores.",
+      "fonte": "Reuters (via The Star)",
+      "link": "https://www.thestar.com.my/tech/tech-news/2026/10/19/us-chip-stocks-rise-after-steepest-weekly-selloff-in-months",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Investing.com",
+            "link": "https://www.investing.com/news/analyst-ratings/jpmorgan-upgrades-intel-stock-rating-to-neutral-on-valuation-93CH-4956501"
+          },
+          {
+            "veiculo": "TipRanks",
+            "link": "https://www.tipranks.com/news/j-p-morgans-take-on-intel"
+          },
+          {
+            "veiculo": "24/7 Wall St.",
+            "link": "https://247wallst.com/investing/2026/10/19/memory-stocks-rally-as-tech-selloff-unwinds-micron-climbs-4-sandisk-jumps-7-sk-hynix-rises-5/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h4",
+      "chapeu": "",
+      "titulo": "Ferramenta aplica vBIOS modificada em placas RTX sem regravar o chip",
+      "linha_fina": "Projeto de um desenvolvedor independente carrega a vBIOS pelo driver e eleva o limite da RTX 5090 a 800 W.",
+      "texto": "O desenvolvedor Panchovix publicou no GitHub um editor e carregadores de vBIOS para as GeForce RTX 30, 40 e 50, no Windows e no Linux, que aplicam a vBIOS alterada sem regravar a memória flash da placa, o que reduz o risco de inutilizá-la. Nos testes, o limite de energia da RTX 5090 passou de 600 W para 800 W, e o da RTX 5080, de 360 W para 500 W. Os veículos lembram que o conector 12V-2x6 é especificado para 600 W e que a Nvidia pode bloquear o método.",
+      "fonte": "Tom's Hardware",
+      "link": "https://www.tomshardware.com/pc-components/gpu-drivers/vbios-on-rtx-cards-can-be-modified-without-flashing-thanks-to-a-solo-developers-project-provides-a-ui-for-quick-vbios-configuration",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "TechSpot",
+            "link": "https://www.techspot.com/news/114257-mod-nvidia-geforce-owners-run-custom-vbios-without.html"
+          },
+          {
+            "veiculo": "Wccftech",
+            "link": "https://wccftech.com/rtx-5090-power-limit-jumps-from-600w-to-800w-with-a-custom-vbios-editor/"
+          },
+          {
+            "veiculo": "GitHub (Panchovix, fonte primária)",
+            "link": "https://github.com/Panchovix/nvidia-windows-vbios-vix-loader"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h5",
+      "chapeu": "",
+      "titulo": "Galax prepara placa Hall of Fame com acabamento inédito para 22/10",
+      "linha_fina": "O teaser lembra o conceito com cristais mostrado na Computex, em plena escassez da RTX 5090.",
+      "texto": "A Galax marcou para 22 de outubro a revelação de uma nova placa de vídeo da linha Hall of Fame, com um acabamento decorativo que a marca diz nunca ter sido usado em uma GPU. O teaser lembra o conceito com cristais mostrado na Computex 2026, mas a empresa ainda não confirmou a GPU, as especificações nem o preço. A Galax chega ao Brasil só por importação.",
+      "fonte": "Adrenaline",
+      "link": "https://www.adrenaline.com.br/hardware/galax-hof-cristais-swarovski-placa-de-video-22-outubro-crise-rtx-5090/",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Guru3D",
+            "link": "https://www.guru3d.com/story/galax-teases-hof-graphics-card-with-unusual-decorative-details/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c1",
+      "chapeu": "",
+      "titulo": "Volkswagen planeja congelar salários de 660 mil funcionários até 2030",
+      "linha_fina": "Segundo o conselho global de trabalhadores, o plano também corta benefícios e vagas; a montadora fala em especulação.",
+      "texto": "O Conselho Global de Trabalhadores da Volkswagen informou na segunda (19) que a montadora pretende congelar até 2030 os salários de cerca de 660 mil empregados no mundo, como noticiou antes o jornal alemão Süddeutsche Zeitung. Pelas novas diretrizes, também seriam reduzidos a remuneração variável, os pagamentos especiais e os benefícios. Os representantes dos trabalhadores estimam perda real de renda de cerca de 10%. A VW não comentou os detalhes, falou em especulação e disse que o tema será tratado nas negociações desta semana.",
+      "fonte": "TimesLIVE (Reuters)",
+      "link": "https://www.timeslive.co.za/motoring/2026-10-19-vw-plans-to-freeze-salaries-until-2030-works-council-says/",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Daily Sabah",
+            "link": "https://www.dailysabah.com/business/economy/struggling-volkswagen-to-freeze-global-wages-through-2030"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c2",
+      "chapeu": "",
+      "titulo": "Jeep Compass 2027 estreia híbrido leve e parte de R$ 174.990",
+      "linha_fina": "O sistema de 48V aparece nas versões Longitude Night Eagle e Série S; a linha vai até R$ 278.990.",
+      "texto": "A Jeep apresentou na segunda (19) a linha 2027 do Compass, que estreia um sistema híbrido leve de 48V junto ao motor 1.3 turboflex de 176 cv. Os preços vão de R$ 174.990 (Sport) a R$ 278.990 (Blackhawk 4x4, com motor 2.0 de 272 cv). As versões híbridas são a Longitude Night Eagle, por R$ 206.990, e a Série S, por R$ 233.990. Segundo a marca, o consumo cai até 11%, sobretudo na cidade.",
+      "fonte": "Webmotors (WM1)",
+      "link": "https://www.webmotors.com.br/wm1/carros/lancamentos/jeep-compass-2027",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Motor Show",
+            "link": "https://motorshow.com.br/jeep-compass-2027-estreia-mhev-174-990"
+          },
+          {
+            "veiculo": "Autoo",
+            "link": "https://www.autoo.com.br/jeep-compass-2027-e-lancado-oficialmente-veja-precos-e-o-que-muda-no-suv/"
+          },
+          {
+            "veiculo": "A Crítica de Campo Grande",
+            "link": "https://acritica.net/automoveis/jeep-compass-2027-hibrido-leve-mhev-precos-consumo/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c3",
+      "chapeu": "",
+      "titulo": "Tesla marca assembleia para 3/12 sem votação de fusão com a SpaceX",
+      "linha_fina": "O documento enviado à SEC traz só três itens, entre eles a reeleição de Elon Musk ao conselho.",
+      "texto": "A Tesla registrou na SEC na segunda (19) a convocação da assembleia anual de acionistas, marcada para 3 de dezembro na Gigafactory Texas. A pauta tem três itens: reeleger Elon Musk, Robyn Denholm e JB Straubel ao conselho, uma votação consultiva sobre a remuneração dos executivos e a ratificação da PwC como auditora. Não há proposta de fusão com a SpaceX nem novo pacote de remuneração para Musk.",
+      "fonte": "Electrek",
+      "link": "https://electrek.co/2026/10/19/tesla-tsla-proxy-annual-meeting-spacex-merger/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "SEC (documento oficial)",
+            "link": "https://www.sec.gov/Archives/edgar/data/0001318605/000110465926116700/tm267596-1_def14a.htm"
+          },
+          {
+            "veiculo": "Tesla North",
+            "link": "https://teslanorth.com/2026/10/19/tesla-2026-annual-shareholder-meeting-december-3/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c4",
+      "chapeu": "",
+      "titulo": "Chevrolet Sonic sobe R$ 1.400 e versão RS passa a R$ 142.390",
+      "linha_fina": "O reajuste da tabela de outubro da GM atinge as duas versões do SUV compacto.",
+      "texto": "A General Motors reajustou em R$ 1.400 os preços do Chevrolet Sonic na tabela de outubro. A versão Premier passou de R$ 134.990 para R$ 136.390, e a RS, de R$ 140.990 para R$ 142.390. Mesmo com o aumento, a RS segue mais barata que rivais como o VW Tera High e o Jeep Avenger Limited, segundo a reportagem.",
+      "fonte": "Webmotors (WM1)",
+      "link": "https://www.webmotors.com.br/wm1/seu-bolso/chevrolet-sonic-aumento-preco",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Diário da Mídia",
+            "link": "https://diariodamidia.com.br/chevrolet-sonic-sobe-precos-versao-rs-atinge-r-142390"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p1",
+      "chapeu": "",
+      "titulo": "PoderData e BTG/Nexus também mostram Flávio à frente nos válidos",
+      "linha_fina": "Os dois levantamentos foram divulgados na segunda e têm campo de 16 a 18 de outubro.",
+      "texto": "Na pesquisa PoderData/Aya, Flávio Bolsonaro (PL) tem 52% dos votos válidos e Lula (PT), 48% (3.000 entrevistas, margem de 1,8 ponto, registro BR-02586/2026). Na BTG/Nexus, Flávio tem 50,3% e Lula, 49,7%, o que equivale a 46,5% e 45,9% dos votos totais (2.002 entrevistas, margem de 2 pontos, BR-04499/2026). A BTG/Nexus também mediu a rejeição: 47,8% para Lula, ante 51% na semana anterior, e 46,8% para Flávio, ante 47%.",
+      "fonte": "Poder360",
+      "link": "https://www.poder360.com.br/poderdata/pesquisa-poderdata-aya-leia-os-resultados-de-lula-e-flavio-no-2o-turno-19out2026/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Gazeta do Povo",
+            "link": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/poderdata-presidente-outubro-2026-segundo-turno-3/"
+          },
+          {
+            "veiculo": "Exame",
+            "link": "https://exame.com/brasil/pesquisa-para-presidente-flavio-bolsonaro-tem-503-e-lula-497-diz-btg-nexus/"
+          },
+          {
+            "veiculo": "Congresso em Foco",
+            "link": "https://www.congressoemfoco.com.br/noticia/123364/como-estao-as-pesquisas-para-presidente-a-seis-dias-do-2-turno"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p2",
+      "chapeu": "",
+      "titulo": "Em Porto Alegre, Lula diz que autorizará o TSE a abrir seus sigilos",
+      "linha_fina": "O presidente afirmou que também vai liberar os sigilos dos cinco filhos e propôs que o adversário faça o mesmo.",
+      "texto": "Em ato de campanha no centro de Porto Alegre (RS) na segunda (19), Lula (PT) disse que vai entregar ao TSE uma autorização para a abertura de seus sigilos bancário e telefônico e dos sigilos dos cinco filhos. Ele propôs que Flávio Bolsonaro (PL) faça o mesmo com os dados dele e da família. No debate de domingo, o senador havia dito que suas contas são abertas e declaradas à Receita.",
+      "fonte": "Gazeta do Povo",
+      "link": "https://www.gazetadopovo.com.br/eleicoes/2026/lula-anuncia-autorizacao-ao-tse-para-quebra-de-sigilos-dele-e-dos-filhos-e-desafia-flavio/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "ND Mais",
+            "link": "https://ndmais.com.br/politica/flavio-sigilo-bancario-eleicoes-brasil-tse/"
+          },
+          {
+            "veiculo": "Agência Brasil (via O Povo)",
+            "link": "https://www.opovo.com.br/noticias/politica/2026/10/20/flavio-faz-motociata-no-para-lula-participa-de-marcha-no-rs.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p3",
+      "chapeu": "",
+      "titulo": "Flávio faz motociata em Marabá e promete regularização fundiária no Pará",
+      "linha_fina": "O candidato do PL discursou no sudeste paraense e depois seguiu para Manaus.",
+      "texto": "Flávio Bolsonaro (PL) abriu a última semana de campanha com uma motociata em Marabá (PA) na segunda (19). No discurso, prometeu a maior regularização fundiária da história do estado e o fim do que chamou de entraves ambientais por razões ideológicas. Também disse que vai combater o narcoterrorismo a partir de janeiro. O governador eleito do Pará, Dr. Daniel (Podemos), participou do ato.",
+      "fonte": "Metrópoles",
+      "link": "https://www.metropoles.com/brasil/flavio-faz-motocarreata-em-maraba-e-diz-que-lula-quer-se-vingar-do-para",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Correio de Carajás",
+            "link": "https://correiodecarajas.com.br/flavio-bolsonaro-e-recebido-por-multidao-em-motocarreata-em-maraba/"
+          },
+          {
+            "veiculo": "BNC Amazonas",
+            "link": "https://bncamazonas.com.br/poder/flavio-4/"
+          },
+          {
+            "veiculo": "Agência Brasil (via O Povo)",
+            "link": "https://www.opovo.com.br/noticias/politica/2026/10/20/flavio-faz-motociata-no-para-lula-participa-de-marcha-no-rs.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p4",
+      "chapeu": "",
+      "titulo": "TSE mantém no ar propaganda de Lula sobre a escala 6x1",
+      "linha_fina": "O ministro Marco Aurélio Bellizze negou em liminar o pedido da campanha de Flávio Bolsonaro para retirar a peça.",
+      "texto": "O ministro Marco Aurélio Bellizze, do TSE, negou na segunda (19) o pedido da campanha de Flávio Bolsonaro (PL) para tirar do ar uma propaganda de Lula (PT) exibida em 15/10, que afirma que o senador é contra o fim da escala 6x1. Na análise preliminar, o ministro não viu fato sabidamente falso, já que a peça informa que Flávio votou a favor da PEC, e tratou as críticas como avaliação política. A decisão ainda será levada ao plenário.",
+      "fonte": "CartaCapital",
+      "link": "https://cartacapital.com.br/politica/tse-mantem-propaganda-em-que-lula-diz-que-flavio-bolsonaro-era-contra-o-fim-da-escala-6x1",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "O Antagonista",
+            "link": "https://oantagonista.com.br/brasil/tse-mantem-propaganda-de-lula-que-acusa-flavio-de-ser-contra-fim-da-escala-6x1/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p5",
+      "chapeu": "",
+      "titulo": "Agência da ONU corta ajuda alimentar a 500 mil pessoas em Gaza",
+      "linha_fina": "O PMA reduz de 1,6 milhão para 1,1 milhão o número de atendidos por mês e diminui as rações pela metade.",
+      "texto": "O Programa Mundial de Alimentos (PMA) da ONU anunciou na segunda (19) cortes na ajuda a Gaza por falta de financiamento. Cerca de 500 mil pessoas deixam de receber apoio mensal, as rações caem pela metade e a ajuda em dinheiro diminui para 75 mil famílias. A agência diz precisar de US$ 450 milhões nos próximos seis meses para manter as operações em Gaza e na Cisjordânia.",
+      "fonte": "Reuters",
+      "link": "https://www.reuters.com/world/middle-east/world-food-programme-cuts-aid-500000-palestinians-gaza-citing-funding-shortages-2026-10-19/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "ABC News (Austrália)",
+            "link": "https://www.abc.net.au/news/2026-10-19/un-world-food-programme-slashes-assistance-in-gaza/107282322"
+          },
+          {
+            "veiculo": "ONU News",
+            "link": "https://news.un.org/en/story/2026/10/1168622"
+          },
+          {
+            "veiculo": "France 24",
+            "link": "https://www.france24.com/en/middle-east/20261019-world-food-programme-to-end-aid-for-half-a-million-in-gaza-due-to-funding-shortfall"
+          }
+        ]
+      }
+    }
+  ]
+}
