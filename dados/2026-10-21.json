@@ -1,0 +1,870 @@
+{
+  "data": "2026-10-21",
+  "titulo": "Newsletter — 21/10/2026",
+  "data_por_extenso": "Quarta-feira, 21 de outubro de 2026",
+  "pagina": "edicoes/2026-10-21.html",
+  "destaques": [
+    {
+      "link": "#g1",
+      "titulo": "EA fecha a BioWare e cancela o próximo Mass Effect em corte de 400 vagas"
+    },
+    {
+      "link": "#i1",
+      "titulo": "Walmart abre suas lojas on-line para agentes de IA fazerem compras"
+    },
+    {
+      "link": "#t1",
+      "titulo": "Falhas críticas no PHP obrigam milhões de sites a atualizar com urgência"
+    },
+    {
+      "link": "#c1",
+      "titulo": "Tesla supera previsões de lucro no 3º trimestre, mas receita com carros recua"
+    },
+    {
+      "link": "#p1",
+      "titulo": "Flávio impõe condições para abrir sigilos; Lula diz aceitar o desafio"
+    }
+  ],
+  "noticias": [
+    {
+      "tipo": "manchete",
+      "editoria": "Política",
+      "id": "manchete",
+      "chapeu": "Política · Eleições 2026",
+      "titulo": "Quaest: Flávio tem 45% e Lula, 44% a quatro dias do 2º turno",
+      "linha_fina": "Candidatos seguem em empate técnico; rejeição de Lula cai de 53% para 47%",
+      "texto": "A pesquisa Quaest divulgada na quarta-feira (21) mostra Flávio Bolsonaro (PL) com 45% das intenções de voto e Lula (PT) com 44%. Brancos, nulos e quem não pretende votar somam 9%, e indecisos, 2%. Foram ouvidas 2.154 pessoas de 17 a 20 de outubro, com margem de erro de 2 pontos, o que configura empate técnico (registro no TSE BR-08535/2026). Na rodada anterior, de 14 de outubro, o placar era 46% a 44%; a rejeição de Flávio passou de 54% para 52%.",
+      "fonte": "Metrópoles",
+      "link": "https://www.metropoles.com/brasil/quaest-flavio-bolsonaro-tem-45-e-lula-44-no-2o-turno",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Exame",
+            "link": "https://exame.com/brasil/pesquisa-para-presidente-quaest-flavio-bolsonaro-tem-45-e-lula-44-a-4-dias-do-2o-turno/"
+          },
+          {
+            "veiculo": "CartaCapital",
+            "link": "https://www.cartacapital.com.br/cartaexpressa/a-ultima-quaest-sobre-lula-x-flavio-bolsonaro-antes-do-2o-turno/"
+          },
+          {
+            "veiculo": "CNN Brasil",
+            "link": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/eleicoes/campanhas-de-flavio-e-lula-veem-eleicao-em-aberto/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g1",
+      "chapeu": "",
+      "titulo": "EA fecha a BioWare e cancela o próximo Mass Effect em corte de 400 vagas",
+      "linha_fina": "Estúdio criador de Mass Effect e Dragon Age encerra atividades dois meses após a venda da EA a grupo liderado pelo fundo saudita PIF",
+      "texto": "A Electronic Arts anunciou na quarta-feira (21) o fechamento da BioWare e o fim do desenvolvimento inicial do próximo Mass Effect. Segundo a Bloomberg, a empresa vai demitir cerca de 400 pessoas, perto de 3% do quadro, cerca de 50 delas na BioWare. Os cortes também cancelam um novo The Sims, de codinome Project Lotus, e reduzem a equipe do estúdio Full Circle, do jogo de skate. É a primeira grande reestruturação desde a compra da EA, por US$ 55 bilhões, pelo consórcio liderado pelo Fundo de Investimento Público (PIF) da Arábia Saudita.",
+      "fonte": "VGC",
+      "link": "https://www.videogameschronicle.com/news/ea-is-closing-bioware-and-cancelling-the-next-mass-effect/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Gematsu",
+            "link": "https://www.gematsu.com/2026/10/electronic-arts-to-lay-off-400-staff-shut-down-bioware"
+          },
+          {
+            "veiculo": "GamesRadar+",
+            "link": "https://www.gamesradar.com/games/rpg/ea-cancels-new-mass-effect-closes-bioware-after-being-bought-by-saudi-arabia/"
+          },
+          {
+            "veiculo": "Dexerto",
+            "link": "https://www.dexerto.com/gaming/ea-shuts-down-bioware-and-cancels-next-mass-effect-game-amid-400-layoffs-3420855/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g2",
+      "chapeu": "",
+      "titulo": "PEGI passa a classificar jogos com loot boxes como impróprios para menores de 16",
+      "linha_fina": "EA Sports FC, Pokémon Go e Zenless Zone Zero estão entre os títulos digitais reclassificados pela entidade europeia",
+      "texto": "A PEGI, órgão europeu de classificação etária, começou a reclassificar jogos digitais já à venda que oferecem itens aleatórios pagos, as chamadas loot boxes. Títulos que eram PEGI 3, 7 ou 12 passam a PEGI 16, com o aviso de itens aleatórios pagos. EA Sports FC, antes PEGI 3, Pokémon Go, Pokémon TCG Pocket e Zenless Zone Zero estão entre os afetados, e as revisões seguem até o fim de outubro. A regra foi anunciada em março e já valia para lançamentos desde junho.",
+      "fonte": "VGC",
+      "link": "https://www.videogameschronicle.com/news/ea-sports-fc-and-pokemon-go-age-ratings-bumped-to-16-in-pegi-loot-box-crackdown/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Digitec Galaxus",
+            "link": "https://www.digitec.ch/en/page/ea-sports-fc-rated-16-pegi-raises-age-rating-for-games-with-loot-boxes-44161"
+          },
+          {
+            "veiculo": "EGW News",
+            "link": "https://egw.news/gaming/news/37913/pegi-16-loot-box-rule-now-applies-to-ea-sports-fc--M5w7hoPHO"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g3",
+      "chapeu": "",
+      "titulo": "Cyberpunk 2077 recebe atualização 2.5 inspirada na 2ª temporada de Edgerunners",
+      "linha_fina": "Pacote gratuito sai nesta quinta (22) com novas missões, mods entre plataformas e uso de duas pistolas",
+      "texto": "A CD Projekt Red detalhou a atualização 2.5 de Cyberpunk 2077, chamada Edgerunners II e ligada à nova temporada do anime da Netflix. O pacote chega em 22 de outubro para PS5, Xbox Series X|S e PC; a versão de Switch 2 vem dias depois, e PS4 e Xbox One ficam de fora. Há missões secundárias inéditas, uso de duas pistolas ao mesmo tempo, mods entre plataformas via mod.io e ajuste de campo de visão nos consoles.",
+      "fonte": "Gematsu",
+      "link": "https://www.gematsu.com/2026/10/cyberpunk-2077-version-2-5-edgerunners-ii-update-detailed",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "GameSpot",
+            "link": "https://www.gamespot.com/articles/everything-new-in-cyberpunk-2077-update-2-5/"
+          },
+          {
+            "veiculo": "VGC",
+            "link": "https://www.videogameschronicle.com/news/cyberpunk-2077-is-getting-yet-another-big-update-2-years-cd-projekt-claimed-it-was-finished/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g4",
+      "chapeu": "",
+      "titulo": "Football Manager 27 poderá ser jogado de graça antes do lançamento",
+      "linha_fina": "Sega e Sports Interactive liberam prévia gratuita no PC e no Mac para recuperar fãs após o FM26",
+      "texto": "A Sports Interactive anunciou uma prévia gratuita de Football Manager 27 de 29 de outubro a 3 de novembro, no PC e no Mac, via Steam, Epic, Microsoft Store e Game Pass. O progresso será mantido na versão completa, que sai em 10 de novembro, e quem comprar na pré-venda terá 10% de desconto. A ação tenta reconquistar jogadores após o FM26, cuja avaliação no Steam chegou a ficar abaixo de 25%.",
+      "fonte": "VGC",
+      "link": "https://www.videogameschronicle.com/news/football-manager-27-is-launching-for-free-for-a-limited-time-following-troubled-26-game/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Football Manager (site oficial)",
+            "link": "https://www.footballmanager.com/news/play-football-manager-27-launch-preview-free"
+          },
+          {
+            "veiculo": "GamesRadar+",
+            "link": "https://www.gamesradar.com/games/sports/football-manager-27-is-getting-a-free-preview-for-everyone-on-pc-for-5-days-to-restore-faith-after-fm26s-disastrous-launch-last-year/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g5",
+      "chapeu": "",
+      "titulo": "Discos de RE Requiem no PS5 faturaram 1,8 vez mais que todas as versões de Xbox",
+      "linha_fina": "Estimativa da Alinea Analytics aponta 1,3 milhão de cópias físicas vendidas no console da Sony",
+      "texto": "Segundo estimativas de Rhys Elliott, da Alinea Analytics, Resident Evil Requiem vendeu cerca de 1,3 milhão de cópias físicas no PS5, o maior número entre os lançamentos de PlayStation de 2026. A receita com discos, de cerca de US$ 92 milhões, seria 1,8 vez a soma de todas as vendas no ecossistema Xbox. Trata-se de estimativa de analista, sem dados oficiais da Capcom.",
+      "fonte": "GamesRadar+",
+      "link": "https://www.gamesradar.com/games/resident-evil/resident-evil-requiems-physical-ps5-sales-were-nearly-twice-as-large-as-its-total-xbox-sales-analyst-finds/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "TweakTown",
+            "link": "https://www.tweaktown.com/news/114205/resident-evil-requiem-made-almost-twice-as-much-money-from-ps5-discs-as-from-all-xbox-copies/index.html"
+          },
+          {
+            "veiculo": "Alinea Analytics (fonte primária)",
+            "link": "https://alineaanalytics.substack.com/p/physical-game-revenues-on-playstation"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g6",
+      "chapeu": "",
+      "titulo": "Pokémon terá loja permanente em Londres, a primeira fora da Ásia",
+      "linha_fina": "The Pokémon Company planeja inaugurar a unidade até 2029 e promete outras lojas no Ocidente",
+      "texto": "A The Pokémon Company anunciou que abrirá uma loja oficial permanente em Londres até 2029, a primeira de várias previstas fora da Ásia. O endereço ainda não foi divulgado, e as outras unidades serão detalhadas mais tarde. Hoje, as lojas permanentes da marca ficam concentradas na Ásia, principalmente no Japão.",
+      "fonte": "VGC",
+      "link": "https://www.videogameschronicle.com/news/a-permanent-pokemon-retail-store-is-coming-to-london-the-first-of-several-outside-asia/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Engadget",
+            "link": "https://www.engadget.com/2292884/a-permanent-pokmon-store-will-open-in-london-with-more-locations-outside-asia-to-follow/"
+          },
+          {
+            "veiculo": "Kotaku",
+            "link": "https://kotaku.com/pokemon-center-london-japan-locations-new-york-2000748308"
+          },
+          {
+            "veiculo": "Shacknews",
+            "link": "https://www.shacknews.com/article/151087/pokemon-store-london-2029"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i1",
+      "chapeu": "",
+      "titulo": "Walmart abre suas lojas on-line para agentes de IA fazerem compras",
+      "linha_fina": "Agent Gateway conecta assistentes como ChatGPT e Gemini ao varejista, enquanto a Amazon restringe esses robôs",
+      "texto": "O Walmart lançou na quarta-feira (21) o Agent Gateway, servidor baseado no protocolo MCP que permite a agentes de IA autorizados buscar produtos e concluir compras no Walmart e no Sam's Club. A partir do próximo mês, o recurso Agent Profiles vai deixar o cliente definir limites de gasto, exigir aprovação para cada compra e revogar o acesso de um agente. Os agentes não terão acesso aos dados de cartão. A estratégia contrasta com a da Amazon, que vem bloqueando agentes de terceiros.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Reuters (via Investing.com)",
+            "link": "https://www.investing.com/news/stock-market-news/walmart-launches-tools-for-ai-agents-to-shop-for-customers-4964210"
+          },
+          {
+            "veiculo": "Walmart (comunicado oficial)",
+            "link": "https://corporate.walmart.com/news/2026/10/Making-It-Possible-for-Agents-to-Shop-on-Behalf-of-Customers"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i2",
+      "chapeu": "",
+      "titulo": "NVIDIA lança fábrica de IA em módulos que fica pronta em 14 dias",
+      "linha_fina": "DSX POD, apresentado na GTC Berlim, chega pré-montado com chips Vera Rubin; entregas a partir de 2027",
+      "texto": "A NVIDIA apresentou na quarta-feira (21), na GTC Berlim, o DSX POD, projeto de referência para data centers de IA montados em módulos do tamanho de um contêiner. Segundo a empresa, os módulos chegam integrados e testados de fábrica, o que reduz de seis meses para até 14 dias a instalação em terreno já preparado. O projeto reúne 17 parceiros, entre eles Dell, HPE, Foxconn e Schneider Electric.",
+      "fonte": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/technology/article/nvidia-reveals-plans-for-an-ai-factory-in-a-shipping-container-to-build-data-centers-in-weeks-not-months-125029004.html",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "NVIDIA (comunicado oficial)",
+            "link": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment"
+          },
+          {
+            "veiculo": "Data Center Dynamics",
+            "link": "https://www.datacenterdynamics.com/en/news/nvidia-launches-dsx-pod-claims-the-vera-rubin-reference-architecture-will-make-ai-data-centers-more-water-and-energy-efficient/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i3",
+      "chapeu": "",
+      "titulo": "Google Cloud passa a vender modelos da OpenAI ao lado de Gemini e Claude",
+      "linha_fina": "GPT-6 Astra, GPT-6.1 Sol e GPT-6 Luna chegam em prévia privada para clientes corporativos",
+      "texto": "O Google Cloud anunciou na quarta-feira (21) que passa a oferecer três modelos da OpenAI no Model Garden: GPT-6 Astra, para tarefas pesadas, GPT-6.1 Sol, de custo menor, e GPT-6 Luna, rápido e barato. Por enquanto, o acesso é uma prévia privada para clientes selecionados. Com isso, a empresa diz ser a única grande nuvem a reunir os modelos fechados de ponta da OpenAI, da Anthropic e do próprio Google.",
+      "fonte": "The Decoder",
+      "link": "https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Techzine Global",
+            "link": "https://www.techzine.eu/news/applications/145174/openais-models-are-finally-fully-supported-on-google-cloud/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i4",
+      "chapeu": "",
+      "titulo": "Trump quer que data centers gerem a própria energia e paguem dividendo local",
+      "linha_fina": "Presidente dos EUA reage à resistência de comunidades a centros de dados de IA antes das eleições de meio de mandato",
+      "texto": "Em publicação na Truth Social na quarta-feira (21), Donald Trump afirmou que grandes data centers devem produzir a própria eletricidade e vender ou devolver o excedente à comunidade ou à rede. Ele também sugeriu que as empresas paguem um dividendo aos moradores das áreas onde os centros forem instalados. Trump não explicou como as medidas funcionariam; a oposição local cresce por causa do impacto nas contas de luz.",
+      "fonte": "Fox News",
+      "link": "https://www.foxnews.com/live-news/ai-artificial-super-intelligence-regulation-midterms-congress-october-21",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Quartz",
+            "link": "https://qz.com/trump-data-center-dividend-communities-102126"
+          },
+          {
+            "veiculo": "Breitbart",
+            "link": "https://www.breitbart.com/tech/2026/10/21/trump-orders-data-centers-to-generate-their-own-power-amid-growing-local-backlash/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i5",
+      "chapeu": "",
+      "titulo": "Com ajuda de agentes de IA, pesquisadores provam conjectura matemática de 31 anos",
+      "linha_fina": "Microsoft Research detalha como humanos guiaram a IA na prova da conjectura KLS, proposta em 1995",
+      "texto": "A Microsoft Research publicou na quarta-feira (21) como Xinzhi Zhang e Zhao Song provaram a conjectura de Kannan-Lovász-Simonovits, problema de geometria em altas dimensões aberto desde 1995. Agentes de IA exploraram em paralelo cerca de 100 linhas de pesquisa, e os pesquisadores escolheram as ideias promissoras e verificaram a prova. Segundo os autores, tentativas só com IA, sem orientação humana, não chegaram ao resultado.",
+      "fonte": "Microsoft Research",
+      "link": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "WebProNews",
+            "link": "https://www.webpronews.com/microsoft-research-kls-conjecture-proof-human-directed-ai"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t1",
+      "chapeu": "",
+      "titulo": "Falhas críticas no PHP obrigam milhões de sites a atualizar com urgência",
+      "linha_fina": "Duas brechas, achadas com ajuda de IA, permitem executar código no servidor sem login e afetam versões desde 2004",
+      "texto": "O projeto PHP publicou na quarta-feira (21) correções de emergência (8.5.12, 8.4.27, 8.3.36 e 8.2.35) para duas falhas críticas que permitem a um invasor executar código no servidor sem autenticação. Pesquisadores da Wiz, da Calif e da OpenAI encontraram as brechas com ferramentas de IA. A NSA, nos EUA, e o NCSC, no Reino Unido, orientaram atualizar na hora ou tirar sistemas do ar. Há divergência sobre ataques: a Cloudflare relata tentativas iniciais de exploração, e a OpenAI diz não conhecer casos reais.",
+      "fonte": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Wiz (blog oficial)",
+            "link": "https://www.wiz.io/blog/php2shell-php-rce"
+          },
+          {
+            "veiculo": "TechCrunch",
+            "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/"
+          },
+          {
+            "veiculo": "SecurityWeek",
+            "link": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t2",
+      "chapeu": "",
+      "titulo": "Meta fatura US$ 64,6 bi no trimestre e cria ação sem voto para bancar IA",
+      "linha_fina": "Receita sobe 26%, investimento em data centers supera o caixa gerado e empresa anuncia desdobramento",
+      "texto": "A Meta informou na quarta-feira (21) receita de US$ 64,6 bilhões no 3º trimestre, alta de 26% e acima do esperado. O lucro líquido foi de US$ 9,86 bilhões, já descontada uma despesa jurídica de US$ 9,89 bilhões. Os investimentos do trimestre (US$ 34,9 bilhões) superaram o caixa operacional, e a previsão de capex para 2026 foi para US$ 135 bilhões a US$ 145 bilhões. A empresa também anunciou desdobramento de 2 para 1 com novas ações classe C, sem voto, a partir de 19 de janeiro de 2027.",
+      "fonte": "SiliconANGLE",
+      "link": "https://siliconangle.com/2026/10/21/meta-beats-on-revenue-and-splits-its-stock-two-for-one-with-non-voting-class-c-shares-raise-capital/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Forbes",
+            "link": "https://www.forbes.com/sites/antoniopequenoiv/2026/10/21/meta-posts-64-billion-in-revenue-and-announces-stock-split-in-q3-earnings/"
+          },
+          {
+            "veiculo": "Benzinga",
+            "link": "https://www.benzinga.com/markets/earnings/26/10/62511966/meta-posts-q3-double-beat-were-seeing-velocity-across-the-board"
+          },
+          {
+            "veiculo": "TechCrunch",
+            "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t3",
+      "chapeu": "",
+      "titulo": "Justiça dos EUA condena Meta a pagar US$ 25 bi no caso Cambridge Analytica",
+      "linha_fina": "Juiz do Novo México fixa a penalidade após júri apontar 43 milhões de infrações; Meta vai recorrer",
+      "texto": "O juiz Francis Mathew, do Novo México, mandou a Meta pagar US$ 25 bilhões em penalidades, o maior valor já imposto à empresa. Em setembro, um júri de Santa Fé concluiu que a dona do Facebook enganou moradores do estado sobre privacidade, o caso Cambridge Analytica e o combate à desinformação. O estado pedia de US$ 35 bilhões a US$ 40 bilhões; a Meta propunha no máximo US$ 3,45 bilhões e disse que vai recorrer.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Engadget",
+            "link": "https://www.engadget.com/2293597/new-mexico-court-order-meta-pay-25-billion-privacy-case/"
+          },
+          {
+            "veiculo": "KOB 4",
+            "link": "https://www.kob.com/news/top-news/new-mexico-judge-orders-meta-to-pay-25-billion-over-cambridge-analytica-data-scandal/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t4",
+      "chapeu": "",
+      "titulo": "Chaves vazadas da certificadora eMudhra deixam navegadores em alerta",
+      "linha_fina": "Oito certificados intermediários foram comprometidos; Google, Mozilla, Apple e Microsoft bloquearam o acesso",
+      "texto": "A certificadora indiana eMudhra teve comprometidas as chaves privadas de oito certificados intermediários, seis de HTTPS e dois de assinatura de código. Com elas, seria possível emitir certificados falsos e se passar por sites legítimos. Chrome e Firefox bloquearam os certificados, seguidos por Apple e Microsoft, e o Google vai remover uma raiz da empresa. Segundo a eMudhra, cerca de 30 mil certificados de clientes terão de ser trocados; não há relato de uso em ataques.",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/falha-em-certificados-digitais-coloca-internet-em-alerta/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Google (blog oficial)",
+            "link": "https://blog.google/security/protecting-chrome-and-android-users-from-compromised-emudhra-intermediate-ca-certificates/"
+          },
+          {
+            "veiculo": "Help Net Security",
+            "link": "https://www.helpnetsecurity.com/2026/10/21/emudhra-certificates-private-keys-compromised/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t5",
+      "chapeu": "",
+      "titulo": "Ransomware SafePay já atingiu mais de 600 organizações, alertam CISA e FBI",
+      "linha_fina": "Alerta conjunto de EUA, Reino Unido e Alemanha detalha táticas do grupo, que apaga backups das vítimas",
+      "texto": "Em alerta conjunto, CISA, FBI, Serviço Secreto dos EUA e polícias do Reino Unido e da Alemanha informaram que o grupo SafePay atacou ao menos 600 organizações de infraestrutura crítica desde agosto de 2024, inclusive na América do Sul. O grupo entra nas redes com credenciais vazadas e falhas em VPNs, apaga cópias de segurança e cobra resgate. As agências recomendam autenticação multifator e backups offline.",
+      "fonte": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Infosecurity Magazine",
+            "link": "https://www.infosecurity-magazine.com/news/safepay-compromised-critical/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t6",
+      "chapeu": "",
+      "titulo": "AT&T eleva projeção de lucro, mas ações caem com celular pós-pago fraco",
+      "linha_fina": "Operadora fatura US$ 32,3 bi e bate recorde de novos clientes de internet",
+      "texto": "A AT&T divulgou receita de US$ 32,3 bilhões no 3º trimestre, alta de 5,3%, e elevou a previsão de lucro ajustado de 2026 para cerca de US$ 2,40 por ação. Foram 769 mil novos clientes de internet, recorde, mas só 379 mil novas linhas de celular pós-pago, o que decepcionou o mercado. As ações caíram cerca de 6%.",
+      "fonte": "Reuters (via CP24)",
+      "link": "https://www.cp24.com/news/money/2026/10/21/atts-fiber-revenue-per-user-to-keep-sliding-as-bundle-discounts-weigh/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "AT&T (release na SEC)",
+            "link": "https://www.sec.gov/Archives/edgar/data/0000732717/000073271726000370/t-3q2026exhibit991.htm"
+          },
+          {
+            "veiculo": "Quartz",
+            "link": "https://qz.com/att-record-internet-net-adds-fiber-fixed-wireless-102126"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h1",
+      "chapeu": "",
+      "titulo": "Samsung e SK Hynix modernizam fábricas na China para NAND mais avançada",
+      "linha_fina": "Fábrica de Xi'an passa para NAND de 286 camadas e a de Dalian mira 240 camadas ou mais, segundo a Reuters",
+      "texto": "Samsung e SK Hynix estão atualizando suas fábricas de NAND na China para produzir chips mais avançados, voltados a data centers de IA; as duas confirmaram as obras. Em Xi'an, que responde por cerca de 40% da produção de NAND da Samsung, a meta é passar para 286 camadas, com 40 mil wafers por mês até dezembro de 2027. A SK Hynix quer levar Dalian de 192 para 240 camadas ou mais. A pressão vem da chinesa YMTC.",
+      "fonte": "Tom's Hardware",
+      "link": "https://www.tomshardware.com/pc-components/dram/samsung-and-sk-hynix-are-upgrading-chinese-factories-to-produce-advanced-ram-chips-as-ai-data-center-competition-ramps-up-big-players-move-to-fight-off-the-threat-from-cxmt-and-co",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "SBS News",
+            "link": "https://news.sbs.co.kr/english/article.do?news_id=N1008808616"
+          },
+          {
+            "veiculo": "TweakTown",
+            "link": "https://www.tweaktown.com/news/114204/samsung-and-sk-hynix-are-upgrading-chinese-nand-plants-as-local-rival-ymtc-closes-in/index.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h2",
+      "chapeu": "",
+      "titulo": "Intel começa a instalar equipamentos na Fab 62, no Arizona",
+      "linha_fina": "Fábrica deve entrar em operação até o fim de 2028; obra em Ohio chega a novo marco",
+      "texto": "A Intel começou a instalar ferramentas de produção na Fab 62, sua sexta fábrica de alto volume no campus de Ocotillo, no Arizona, com operação prevista até o fim de 2028. A empresa não informou processo, capacidade nem investimento. Disse ainda que já integrou a litografia High-NA EUV à produção em volume, a partir de Oregon, e que a obra da Ohio One recebeu a primeira grande treliça estrutural.",
+      "fonte": "Tom's Hardware",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Intel Newsroom",
+            "link": "https://www.intel.com/content/www/us/en/newsroom/opinion/building-america-capacity-to-innovate.html"
+          },
+          {
+            "veiculo": "TrendForce",
+            "link": "https://www.trendforce.com/news/2026/10/22/news-intel-begins-equipment-installation-at-arizona-fab-62-targeting-2028-operations-ohio-one-advances/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h3",
+      "chapeu": "",
+      "titulo": "Na GTC Berlim, NVIDIA libera clusters de até oito DGX Spark com 1 TB",
+      "linha_fina": "Versão de 64 GB do mini PC de IA chega aos parceiros na sexta-feira (23)",
+      "texto": "A NVIDIA anunciou que o DGX Spark pode ser agrupado em clusters de até oito unidades. Com oito máquinas de 128 GB, a memória unificada somada chega a 1 TB; com o modelo de 64 GB, a 512 GB. A versão de 64 GB começa a ser vendida pelos parceiros em 23 de outubro, a partir de US$ 4.999 segundo a Notebookcheck. A empresa também prometeu o DGX Station para Windows em dezembro.",
+      "fonte": "NVIDIA Blog",
+      "link": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Notebookcheck",
+            "link": "https://www.notebookcheck.net/Nvidia-s-DGX-Spark-can-now-join-forces-with-seven-others-to-deliver-1-TB-of-memory.1430472.0.html"
+          },
+          {
+            "veiculo": "Guru3D",
+            "link": "https://www.guru3d.com/story/nvidia-dgx-spark-clusters-can-now-scale-to-eight-systems-and-1tb-of-unified-memory"
+          },
+          {
+            "veiculo": "Wccftech",
+            "link": "https://wccftech.com/nvidia-gives-dgx-rtx-systems-a-ai-inference-boost-dgx-spark-now-clusters-up-to-8-units/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h4",
+      "chapeu": "",
+      "titulo": "Lam Research tem receita recorde de US$ 8,22 bi com a demanda por IA",
+      "linha_fina": "Fornecedora de equipamentos para chips prevê US$ 8,6 bi no trimestre de dezembro; ações caem após o balanço",
+      "texto": "A Lam Research, que fornece equipamentos a fabricantes de chips e memórias, teve receita recorde de US$ 8,22 bilhões no trimestre encerrado em 27 de setembro, alta de 22% sobre o trimestre anterior. Para o trimestre de dezembro, projeta US$ 8,6 bilhões, com margem de US$ 400 milhões. O CEO Tim Archer atribuiu o resultado à demanda impulsionada pela IA; mesmo assim, as ações caíram cerca de 6% após o fechamento.",
+      "fonte": "Investing.com (via Yahoo Finance)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lam-research-tops-first-quarter-205228912.html",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Lam Research (comunicado oficial)",
+            "link": "https://newsroom.lamresearch.com/2026-10-21-Lam-Research-Corporation-Reports-Financial-Results-for-the-Quarter-Ended-September-27,-2026?asPDF="
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h5",
+      "chapeu": "",
+      "titulo": "Gigabyte registra 24 placas-mãe Z990 para o Intel Nova Lake",
+      "linha_fina": "Registro na Eurásia, ainda não confirmado pela fabricante, indica linha completa, mas sem especificações",
+      "texto": "Um registro na base da União Econômica Eurasiática lista 40 entradas de placas-mãe Gigabyte com chipset Z990, que somam 24 modelos distintos. É a plataforma da próxima geração de CPUs desktop da Intel, a Nova Lake. A lista inclui linhas AORUS, Elite, Eagle e AERO, mas não traz especificações, preço nem data, e a Gigabyte não confirmou.",
+      "fonte": "Club386",
+      "link": "https://www.club386.com/gigabyte-z990-motherboard-lineup-leak/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Guru3D",
+            "link": "https://www.guru3d.com/story/gigabyte-registers-more-than-20-z990-motherboards-for-intel-nova-lake/"
+          },
+          {
+            "veiculo": "eTeknix",
+            "link": "https://www.eteknix.com/gigabyte-registers-up-to-40-motherboards-with-the-z990-chipset-for-intel-nova-lake/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h6",
+      "chapeu": "",
+      "titulo": "AMD envia driver oficial de overclock de Ryzen para o kernel Linux",
+      "linha_fina": "Driver AOD permite ajustar limites de energia e corrente, mas ainda não há aplicativo oficial",
+      "texto": "A AMD enviou para revisão no kernel Linux o AOD, driver oficial de overclock para processadores Ryzen recentes. A primeira versão permite ajustar os limites PPT, TDC e EDC, ligar ou desligar o SMT e ler o clock da memória; mudanças de energia só valem após reiniciar. Não há equivalente ao Ryzen Master para Linux, e os controles ficam expostos via sysfs.",
+      "fonte": "Phoronix",
+      "link": "https://www.phoronix.com/news/AMD-AOD-Overclocking-Linux",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Tom's Hardware",
+            "link": "https://www.tomshardware.com/software/linux/amd-brings-official-ryzen-overclocking-to-linux-with-aod-driver-support-no-official-app-but-third-party-options-should-arrive-soon"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c1",
+      "chapeu": "",
+      "titulo": "Tesla supera previsões de lucro no 3º trimestre, mas receita com carros recua",
+      "linha_fina": "Receita foi de US$ 28,05 bilhões; energia decepcionou e o fluxo de caixa veio positivo",
+      "texto": "A Tesla divulgou na quarta-feira (21) lucro por ação ajustado de US$ 0,48 no 3º trimestre, acima do consenso de cerca de US$ 0,45, e receita de US$ 28,05 bilhões. A receita automotiva caiu cerca de 3% em um ano, para US$ 20,6 bilhões, e a de energia recuou 16%. O fluxo de caixa livre ficou positivo em cerca de US$ 1,5 bilhão. A empresa reduziu a previsão de investimentos do ano para cerca de US$ 20 bilhões e disse que a produção inicial do robô Optimus começou em Fremont.",
+      "fonte": "Investing.com",
+      "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-tesla-beats-q3-2026-estimates-as-stock-slips-after-hours-93CH-4964365",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "investingLive",
+            "link": "https://investinglive.com/stocks/tesla-q3-earnings-beat-as-margins-and-cash-flow-surprise-revenue-narrowly-misses/"
+          },
+          {
+            "veiculo": "Tech Insider",
+            "link": "https://tech-insider.org/tesla-earnings-beat-energy-storage-hardware-auto-decline-2026/"
+          },
+          {
+            "veiculo": "Tesla (8-K na SEC)",
+            "link": "https://www.sec.gov/Archives/edgar/data/0001318605/000162828026064366/exhibit991111111.htm"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c2",
+      "chapeu": "",
+      "titulo": "VW Polo Track 2027 sobe R$ 1.300 e passa a ter sensor de ré de série",
+      "linha_fina": "Versão de entrada do hatch feito em Taubaté passa a custar R$ 97.990; com pacote opcional, supera R$ 100 mil",
+      "texto": "A Volkswagen atualizou o Polo Track para a linha 2027, e o preço passou de R$ 96.690 para R$ 97.990, com sensores de estacionamento traseiros de série. Um pacote de R$ 2.660 inclui vidros elétricos nas quatro portas, retrovisores elétricos e multimídia de 10 polegadas com Android Auto e Apple CarPlay sem fio, levando o carro a R$ 100.650. O motor 1.0 MPI flex e o câmbio manual de cinco marchas não mudam.",
+      "fonte": "Vrum (Estado de Minas)",
+      "link": "https://www.vrum.com.br/mercado/2026/10/7525008-vw-polo-track-2027-fica-mais-caro-e-ganha-sensor-de-estacionamento.html",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "AutoPapo",
+            "link": "https://autopapo.com.br/curta/volkswagen-polo-track-2027-sobre-para-r-97-990-e-ganha-vidro-eletrico-atras-com-opcionais-hatch-passa-de-r-100-mil/"
+          },
+          {
+            "veiculo": "Mix Vale",
+            "link": "https://www.mixvale.com.br/2026/10/21/volkswagen-polo-track-2027-estreia-no-brasil-por-r-97-990/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c3",
+      "chapeu": "",
+      "titulo": "GM leva direção autônoma em rodovias a picapes e SUVs a combustão",
+      "linha_fina": "No GM Forward, em Nova York, montadora apresenta computador central e assistente de IA no OnStar",
+      "texto": "A General Motors apresentou na quarta-feira (21) uma central de processamento refrigerada a líquido, com cerca de 40 vezes a capacidade do sistema atual e 30% menos fiação. A arquitetura estreia no Cadillac Escalade IQ 2028 e depois chega a SUVs grandes e picapes a gasolina, como a Silverado, que também ganharão direção autônoma em rodovias. A empresa também anunciou o assistente de IA Hey OnStar.",
+      "fonte": "InsideEVs",
+      "link": "https://insideevs.com/news/812806/gm-not-walking-away-evs",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Motor Illustrated",
+            "link": "https://motorillustrated.com/gm-autonomous-highway-driving-trucks-suvs/199581/"
+          },
+          {
+            "veiculo": "CarExpert",
+            "link": "https://www.carexpert.com.au/car-news/gms-next-gen-brain-coming-to-petrol-suvs-and-utes-and-itll-get-new-chips-every-two-years"
+          },
+          {
+            "veiculo": "ANTI/HYPE",
+            "link": "https://antihype.com.br/c/futurismo/gm-inteligencia-artificial-onstar-computador-central/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c4",
+      "chapeu": "",
+      "titulo": "Fiat Titano será o papamóvel de Leão XIV na visita ao Uruguai",
+      "linha_fina": "Picape média foi adaptada em Montevidéu pela Nordex, parceira da Stellantis, seguindo exigências do Vaticano",
+      "texto": "A Stellantis anunciou que uma Fiat Titano será o veículo oficial do papa Leão XIV na visita ao Uruguai, prevista de 6 a 8 de novembro. A adaptação inclui laterais abertas, banco giratório com altura ajustável, escada elétrica e cobertura transparente para chuva. Em 2013, Francisco usou um Fiat Idea modificado na Jornada Mundial da Juventude, no Rio.",
+      "fonte": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/auto/picape-da-fiat-sera-papamovel-no-uruguai-veja-qual/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "ANSA Brasil",
+            "link": "https://ansabrasil.com.br/brasil/noticias/empresas/2026/10/21/leao-xiv-tera-fiat-titano-como-papamovel-durante-visita-ao-uruguai_55a1a1ac-c73b-43e9-b119-1f2354bdf4d3.html"
+          },
+          {
+            "veiculo": "Parabrisas (Perfil)",
+            "link": "https://parabrisas.perfil.com/noticias/novedades/la-fiat-titano-sera-el-nuevo-papamovil-del-papa-leon-xiv.phtml"
+          },
+          {
+            "veiculo": "AutoEntusiastas",
+            "link": "https://autoentusiastas.com.br/2026/10/fiat-titano-sera-o-carro-oficial-do-papa-leao-xiv-no-uruguai/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c5",
+      "chapeu": "",
+      "titulo": "Omoda revela conceito X, misto de SUV e off-road, em evento na China",
+      "linha_fina": "Modelo foi mostrado no encontro global do Grupo Chery; não há confirmação de produção nem de vendas no Brasil",
+      "texto": "A Omoda, marca do Grupo Chery, apresentou na quarta-feira (21) o conceito Omoda X no User Summit 2026, em Wuhu. A marca informa 200 mm de altura livre do solo, travessia de áreas alagadas com mais de 700 mm e reboque de até 1.800 kg. Motorização, data de produção e eventual venda no Brasil não foram divulgadas.",
+      "fonte": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/auto/omoda-x-estreia-na-china-com-suspensao-elevada-e-inteligencia-artificial/",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "AutoData",
+            "link": "https://www.autodata.com.br/mobility/2026/10/21/omoda-apresenta-o-conceito-x-em-evento-na-china/138174/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p1",
+      "chapeu": "",
+      "titulo": "Flávio impõe condições para abrir sigilos; Lula diz aceitar o desafio",
+      "linha_fina": "Disputa sobre a quebra de sigilos bancário, fiscal e telefônico domina a reta final antes do debate da Globo",
+      "texto": "Flávio Bolsonaro (PL) protocolou no TSE na quarta-feira (21) autorização para abrir seus sigilos bancário, fiscal e telefônico dos últimos 20 anos e cobrou de Lula a abertura de dados de familiares, do Instituto Lula, do ex-chefe de gabinete Marco Aurélio Santana Ribeiro e do cartão corporativo da Presidência. A proposta respondeu a documento entregue por Lula na véspera ao TSE e ao STF, que condicionava a abertura dos próprios sigilos à reciprocidade. À noite, em Belo Horizonte, Lula disse aceitar as condições. O debate da TV Globo está marcado para sexta-feira (23).",
+      "fonte": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-impoe-condicoes-para-aceitar-desafio-de-lula-sobre-sigilo/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "CartaCapital",
+            "link": "https://www.cartacapital.com.br/politica/flavio-bolsonaro-impoe-condicoes-para-aceitar-desafio-de-lula-e-abrir-sigilos/"
+          },
+          {
+            "veiculo": "Jovem Pan",
+            "link": "https://jovempan.com.br/politica/flavio-diz-que-aceita-abrir-sigilos-apos-desafio-de-lula-ate-as-ultimas-consequencias/"
+          },
+          {
+            "veiculo": "O Tempo",
+            "link": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/10/21/lula-arrasta-apoiadores-em-bh-exalta-pacote-de-bondades-e-dobra-aposta-de-sigilo-com-flavio"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p2",
+      "chapeu": "",
+      "titulo": "Campanha de Lula pede ao TSE a cassação da chapa de Flávio Bolsonaro",
+      "linha_fina": "Ação acusa abuso de poder econômico e uso indevido de redes sociais; Meta já negou favorecimento",
+      "texto": "A coligação de Lula (PT) entrou na quarta-feira (21) com ação de investigação judicial eleitoral no TSE pedindo a cassação da chapa de Flávio Bolsonaro (PL) e Alfredo Gaspar (PL) e oito anos de inelegibilidade. A campanha alega abuso de poder econômico e uso indevido dos meios de comunicação, afirmando que algoritmos e ferramentas de IA da Meta e do X teriam beneficiado o adversário. O relator é o ministro Ricardo Villas Bôas Cueva. A campanha de Flávio não havia se manifestado; em caso anterior, a Meta classificou como falsa a acusação de favorecimento.",
+      "fonte": "Poder360",
+      "link": "https://www.poder360.com.br/poder-eleicoes/campanha-de-lula-pede-ao-tse-cassacao-da-chapa-de-flavio-bolsonaro/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "O Antagonista",
+            "link": "https://oantagonista.com.br/brasil/campanha-de-lula-pede-cassacao-da-chapa-de-flavio-por-abuso-de-poder-economico/"
+          },
+          {
+            "veiculo": "Agência Brasil (via Sem Pauta News)",
+            "link": "https://sempauta.com.br/noticia/51552/campanha-de-lula-entra-com-acao-no-tse-para-cassar-chapa-de-flavio.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p3",
+      "chapeu": "",
+      "titulo": "Lula sanciona perdão de dívidas de MEIs e eleva teto de faturamento",
+      "linha_fina": "Lei aprovada quase por unanimidade no Congresso foi assinada a quatro dias do segundo turno",
+      "texto": "O presidente Lula sancionou na quarta-feira (21) a lei que perdoa dívidas federais de microempreendedores individuais acumuladas até 13 de outubro e amplia o teto de faturamento anual de R$ 81 mil para R$ 110 mil em 2027 e R$ 140 mil a partir de 2028. O governo estima 3,6 milhões de beneficiados; o valor perdoado varia entre as fontes, de R$ 12,6 bilhões a R$ 18,7 bilhões. O texto passou na Câmara por 461 a 4 e no Senado por 78 a 0.",
+      "fonte": "Gazeta do Povo",
+      "link": "https://www.gazetadopovo.com.br/republica/lula-sanciona-perdao-de-dividas-de-meis-e-amplia-teto-a-quatro-dias-do-2o-turno/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "SBT News",
+            "link": "https://sbtnews.sbt.com.br/noticia/politica/lula-sanciona-novo-teto-do-mei-e-perdao-de-dividas"
+          },
+          {
+            "veiculo": "Movimento Econômico",
+            "link": "https://movimentoeconomico.com.br/trabalho/2026/10/21/governo-federal-sanciona-perdao-de-dividas-e-teto-de-ate-r-140-mil-para-meis/"
+          },
+          {
+            "veiculo": "Diário do Nordeste",
+            "link": "https://diariodonordeste.verdesmares.com.br/pontopoder/lula-sanciona-lei-que-preve-perdao-de-dividas-dos-meis-e-aumenta-teto-de-faturamento-1.3800081"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p4",
+      "chapeu": "",
+      "titulo": "Rússia liberta americano Stephen Hubbard durante visita de Witkoff a Putin",
+      "linha_fina": "Enviado dos EUA esteve em São Petersburgo para tentar retomar negociações trilaterais sobre a guerra na Ucrânia",
+      "texto": "A Rússia libertou na quarta-feira (21) o americano Stephen Hubbard, de 74 anos, capturado na Ucrânia em 2022 e condenado em 2024 sob acusação de atuar como mercenário. Putin anunciou a soltura em encontro com o enviado americano Steve Witkoff em São Petersburgo. Trump disse que não houve troca de prisioneiros. Witkoff pediu a retomada das negociações trilaterais com a Ucrânia; a mídia estatal russa não registrou compromisso.",
+      "fonte": "CBS News",
+      "link": "https://www.cbsnews.com/news/russia-stephen-hubbard-freed-american-ukraine-war-witkoff-putin/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Kyiv Independent",
+            "link": "https://kyivindependent.com/russia-releases-us-prisoner-stephen-hubbard-during-witkoff-visit/"
+          },
+          {
+            "veiculo": "CNN",
+            "link": "https://www.cnn.com/2026/10/21/europe/stephen-hubbard-prisoner-release-russia-trump-intl"
+          },
+          {
+            "veiculo": "NPR",
+            "link": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p5",
+      "chapeu": "",
+      "titulo": "Irã defende diplomacia, mas promete reagir; EUA veem acordo como muito difícil",
+      "linha_fina": "Tensão no Estreito de Hormuz e programa nuclear seguem como principais pontos de impasse",
+      "texto": "Autoridades iranianas afirmaram na quarta-feira (21) que o país prefere a via diplomática, mas responderá a qualquer ataque. O secretário de Estado dos EUA, Marco Rubio, disse que um acordo é \"extremamente difícil\" e que a pressão econômica seguirá enquanto houver ataques a navios no Estreito de Hormuz. Segundo o chanceler iraniano, Abbas Araghchi, conversas indiretas continuam via Paquistão e Catar.",
+      "fonte": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "China Daily",
+            "link": "http://global.chinadaily.com.cn/a/202610/22/WS6ad963dfe4b06d4aa05641a4.html"
+          },
+          {
+            "veiculo": "UNI India",
+            "link": "https://www.uniindia.com/world/conflict-tehran-us/220788"
+          }
+        ]
+      }
+    }
+  ]
+}
