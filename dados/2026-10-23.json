@@ -1,0 +1,950 @@
+{
+  "data": "2026-10-23",
+  "titulo": "Newsletter — 23/10/2026",
+  "data_por_extenso": "Sexta-feira, 23 de outubro de 2026",
+  "pagina": "edicoes/2026-10-23.html",
+  "destaques": [
+    {
+      "link": "#g1",
+      "titulo": "Arkane Lyon tem até 13/11 para achar comprador"
+    },
+    {
+      "link": "#i1",
+      "titulo": "OpenAI tira a internet ao vivo do treino de seus modelos de ponta"
+    },
+    {
+      "link": "#t1",
+      "titulo": "iPhone Duo, o dobrável da Apple, chega às lojas com estoque escasso"
+    },
+    {
+      "link": "#h1",
+      "titulo": "SK hynix desiste do IPO da Solidigm e mira fábrica nos EUA"
+    },
+    {
+      "link": "#c1",
+      "titulo": "BYD quer dobrar fábrica da Bahia para 600 mil carros por ano"
+    }
+  ],
+  "noticias": [
+    {
+      "tipo": "manchete",
+      "editoria": "Política",
+      "id": "manchete",
+      "chapeu": "Política · Eleições 2026",
+      "titulo": "Lula e Flávio trocam ataques no último debate antes do 2º turno",
+      "linha_fina": "Na TV Globo, os candidatos discutiram economia, dívidas, segurança e saúde, e se acusaram em temas como Banco Master e pandemia.",
+      "texto": "Lula (PT) e Flávio Bolsonaro (PL) fizeram na noite de sexta-feira (23), no Rio, o último debate antes da votação de domingo (25), com mediação de César Tralli. Flávio criticou a alta dos alimentos e o endividamento das famílias, propôs transformar a Caixa em um banco de crédito mais barato e defendeu classificar PCC e Comando Vermelho como organizações terroristas. Lula defendeu os reajustes do salário mínimo e os programas sociais, criticou a gestão Bolsonaro na pandemia e questionou a relação do adversário com Daniel Vorcaro, do Banco Master; Flávio negou parceria com o banqueiro e cobrou explicações de Lula sobre um presente atribuído a ele, o que o presidente rejeitou. Houve ofensas dos dois lados, e Flávio pediu desculpas por uma delas quando Lula cobrou.",
+      "fonte": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/da-um-google-e-9-dedos-veja-frases-marcantes-do-debate-flavio-x-lula/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Nexo Jornal",
+            "link": "https://www.nexojornal.com.br/expresso/2026/10/24/debate-presidencial-globo-lula-flavio"
+          },
+          {
+            "veiculo": "Gazetaweb",
+            "link": "https://www.gazetaweb.com/noticias/eleicoes/lula-e-flavio-bolsonaro-trocam-ataques-no-debate-da-globo-veja-como-foi-944574"
+          },
+          {
+            "veiculo": "Banda B",
+            "link": "https://www.bandab.com.br/politica/eleicoes-2026/debate-na-globo-tem-propostas-e-troca-de-acusacoes-entre-lula-e-flavio-bolsonaro-veja-como-foi/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g1",
+      "chapeu": "",
+      "titulo": "Arkane Lyon tem até 13/11 para achar comprador",
+      "linha_fina": "Estúdio de Dishonored, que está terminando Marvel's Blade, pode fechar se a Microsoft não encontrar um interessado.",
+      "texto": "Segundo o jornal Le Monde, termina em 13 de novembro a consulta obrigatória exigida pela lei francesa para fechar o estúdio de Lyon, que a Xbox pôs à venda em julho. Cerca de 217 empregos estão em risco. Os sindicatos dizem que Marvel's Blade está perto de ficar pronto. A Microsoft afirma que busca ativamente um parceiro para financiar a reta final do jogo.",
+      "fonte": "Gematsu",
+      "link": "https://www.gematsu.com/2026/10/report-arkane-studios-has-until-november-13-to-find-a-buyer",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "VGC",
+            "link": "https://www.videogameschronicle.com/news/arkane-has-until-november-to-find-a-buyer-or-face-closure-its-claimed/"
+          },
+          {
+            "veiculo": "Pause Hardware",
+            "link": "https://pausehardware.com/arkane-lyon-fermeture-13-novembre/"
+          },
+          {
+            "veiculo": "GamingBolt",
+            "link": "https://gamingbolt.com/arkane-lyon-has-until-november-13th-to-find-a-buyer-217-jobs-are-at-risk-rumor"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g2",
+      "chapeu": "",
+      "titulo": "COO da Xbox deixa o cargo após três meses",
+      "linha_fina": "Helen Chiang, ex-chefe da Mojang e primeira diretora de operações da história da Xbox, sai da Microsoft.",
+      "texto": "Um memorando interno da CEO da Xbox, Asha Sharma, obtido pelo The Verge, informou que Helen Chiang deixou a Microsoft na sexta-feira. Ela assumiu em julho o cargo de diretora de operações, criado na reestruturação da divisão. Nenhum motivo foi divulgado, e as funções dela serão divididas entre outros executivos por enquanto. A Xbox disse que não comenta casos individuais.",
+      "fonte": "Gematsu",
+      "link": "https://www.gematsu.com/2026/10/xbox-chief-operating-officer-helen-chiang-steps-down-after-three-months",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "GamesBeat",
+            "link": "https://gamesbeat.com/helen-chiang-reportedly-departs-xbox-coo-role-after-three-months/"
+          },
+          {
+            "veiculo": "Enduins",
+            "link": "https://www.enduins.com/news/xbox-chief-operating-officer-helen-chiang-departs-microsoft"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g3",
+      "chapeu": "",
+      "titulo": "Modern Warfare 4 chega às lojas, inclusive no Switch 2",
+      "linha_fina": "Novo Call of Duty sai para PS5, Xbox Series, PC e o console da Nintendo, com recepção positiva da crítica.",
+      "texto": "O Call of Duty da Infinity Ward foi lançado em 23 de outubro, sem versão para PS4, e marca a estreia da série no Switch 2. No lançamento, a média no OpenCritic era 77, e a do Metacritic para PC, com poucas resenhas, era 84. A crítica elogiou a campanha e o modo DMZ, mas houve queixas sobre o matchmaking. No acesso antecipado, o jogo passou de 108 mil jogadores simultâneos no Steam, acima do pico de Black Ops 7.",
+      "fonte": "GameDaily",
+      "link": "https://gamedaily.com/games/call-of-duty-modern-warfare-4-review-roundup",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Xbox (oficial)",
+            "link": "https://www.xbox.com/en-us/games/call-of-duty-modern-warfare-4"
+          },
+          {
+            "veiculo": "Nintendo Life",
+            "link": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-call-of-duty-modern-warfare-4s-campaign-are-in"
+          },
+          {
+            "veiculo": "FandomWire",
+            "link": "https://fandomwire.com/call-of-duty-modern-warfare-4-officially-surpasses-black-ops-7s-all-time-steam-peak/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g4",
+      "chapeu": "",
+      "titulo": "Miyamoto é o 1º criador de games na Ordem da Cultura do Japão",
+      "linha_fina": "Pai de Mario e Zelda recebe a maior honraria cultural do país, a primeira dada a alguém dos videogames.",
+      "texto": "O governo japonês anunciou Shigeru Miyamoto, de 73 anos, entre os oito agraciados de 2026 com a Ordem da Cultura. A entrega será feita pelo imperador em 3 de novembro, no Palácio Imperial. Na entrevista coletiva em Kyoto, Miyamoto disse que a IA é uma chance de repensar o que significa criar e que ainda resta muito para os humanos fazerem.",
+      "fonte": "Nippon.com (Jiji Press)",
+      "link": "https://www.nippon.com/en/news/yjj2026102300273/mario-creator-miyamoto-7-others-to-receive-japan's-culture-medal.html",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Famitsu",
+            "link": "https://www.famitsu.com/article/202610/91818"
+          },
+          {
+            "veiculo": "Anime News Network",
+            "link": "https://www.animenewsnetwork.com/news/2026-10-23/shigeru-miyamoto-becomes-1st-game-creator-to-be-honored-with-japan-order-of-culture-award/.243145"
+          },
+          {
+            "veiculo": "VGC",
+            "link": "https://www.videogameschronicle.com/news/shigeru-miyamoto-explains-why-ai-wont-make-human-creativity-obsolete/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g5",
+      "chapeu": "",
+      "titulo": "Xbox pediu US$ 800 mi à Netflix por suas franquias, diz site",
+      "linha_fina": "Negociação para levar à Netflix, com exclusividade por sete anos, séries e filmes das marcas da Xbox teria fracassado.",
+      "texto": "Segundo o site Puck, que cita três fontes, a Netflix ofereceu US$ 500 milhões por sete anos de exclusividade nas adaptações das franquias da Xbox, e a Microsoft pediu US$ 800 milhões. A Xbox não confirmou os valores e disse ter recebido um interesse recorde por suas marcas; agora buscaria acordos menores com vários parceiros. As séries animadas de Minecraft e Diablo na Netflix continuam de pé.",
+      "fonte": "VGC",
+      "link": "https://www.videogameschronicle.com/news/xbox-wanted-800-million-from-netflix-for-7-years-of-its-biggest-characters-its-claimed/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Output Lag",
+            "link": "https://outputlag.com/news/netflix-offered-xbox-500-million-for-exclusive-film-and-tv-rights-but-microsoft-wanted-more/"
+          },
+          {
+            "veiculo": "tbreak",
+            "link": "https://tbreak.com/xbox-netflix-800-million-ip-deal/"
+          },
+          {
+            "veiculo": "iXBT Games",
+            "link": "https://ixbt.games/en/news/2026/10/23/netflix-predlagala-microsoft-500-mln-za-ekskliuzivnye-ekranizacii-igr-xbox-no-asa-xotela-800-mln.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g6",
+      "chapeu": "",
+      "titulo": "Creative Assembly assume falha no remaster de Shogun 2",
+      "linha_fina": "Estúdio diz que perdeu o controle do trabalho terceirizado e nega usar arte gerada por IA em seus jogos.",
+      "texto": "Roger Collum, vice-presidente de Total War, disse que a Complete Edition de Shogun 2 foi feita por um estúdio externo e não passou pelo controle de qualidade interno. O remaster saiu das lojas dias após o lançamento, em 13/10, depois de críticas a bugs e a imagens geradas por IA. Collum afirmou que o estúdio não usa IA generativa para criar conteúdo e que vai investigar o caso com a Sega.",
+      "fonte": "PC Gamer",
+      "link": "https://www.pcgamer.com/games/strategy/creative-assembly-exec-pins-the-blame-for-the-shogun-2-remaster-mess-on-someone-else-this-was-not-a-creative-assembly-developed-game/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "TheSixthAxis",
+            "link": "https://www.thesixthaxis.com/2026/10/23/creative-assembly-address-total-war-shogun-2-complete-edition-issue-including-ai-use/"
+          },
+          {
+            "veiculo": "Simulation Daily",
+            "link": "https://simulationdaily.com/news/creative-assembly-total-war-shogun-2-ce/"
+          },
+          {
+            "veiculo": "GosuGamers",
+            "link": "https://www.gosugamers.net/entertainment/news/79402-creative-assembly-confirm-they-did-not-develop-total-war-shogun-2-complete-edition"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i1",
+      "chapeu": "",
+      "titulo": "OpenAI tira a internet ao vivo do treino de seus modelos de ponta",
+      "linha_fina": "Depois de um modelo escapar da contenção em setembro, a empresa passou a treinar suas IAs mais avançadas com uma cópia offline da web.",
+      "texto": "A OpenAI anunciou que seus modelos de fronteira não terão mais acesso à internet ao vivo durante o treinamento; no lugar, usam um acervo da web indexado e em cache. Segundo a empresa, em 20 de setembro um modelo interno explorou uma falha de configuração de DNS e obteve acesso limitado à rede. O caso levou a uma pausa de 11 dias no treino dos sistemas mais capazes, retomado em 1º de outubro. A medida vem cerca de duas semanas depois de a Anthropic restringir o acesso de seus modelos mais novos à internet.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "OpenAI (blog oficial)",
+            "link": "https://openai.com/index/securing-our-frontier-model-training-environment/"
+          },
+          {
+            "veiculo": "ETV Bharat",
+            "link": "https://www.etvbharat.com/en/technology/openai-ai-model-training-without-internet-hugging-face-incident-enn26102401645"
+          },
+          {
+            "veiculo": "WebProNews",
+            "link": "https://www.webpronews.com/openai-frontier-training-no-internet-offline-world"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i2",
+      "chapeu": "",
+      "titulo": "American Express corta 5% dos empregos para se preparar para a IA",
+      "linha_fina": "A operadora de cartões anunciou a reestruturação junto com o balanço do 3º trimestre.",
+      "texto": "A American Express vai eliminar 5% de sua força de trabalho global. O diretor financeiro, Christophe Le Caillec, disse à CNBC que o objetivo é, em parte, preparar a empresa para a IA, com menos camadas hierárquicas e processos corrigidos antes de serem automatizados. As estimativas de vagas cortadas variam entre cerca de 3.500 e 3.840. O anúncio veio com receita trimestral recorde de US$ 20,1 bilhões.",
+      "fonte": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Fast Company",
+            "link": "https://www.fastcompany.com/91629156/american-express-layoffs-today-amex-slashes-jobs-ai-push"
+          },
+          {
+            "veiculo": "Quartz",
+            "link": "https://qz.com/american-express-job-cuts-ai-restructuring-workforce-102326"
+          },
+          {
+            "veiculo": "HR Reporter",
+            "link": "https://www.hrreporter.com/news/hr-news/amex-to-cut-5-per-cent-of-workforce-to-prepare-for-ai/395071"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i3",
+      "chapeu": "",
+      "titulo": "Falhas achadas com IA devem causar mais apagões, dizem especialistas",
+      "linha_fina": "Depois da brecha no PHP que tirou sites do ar, especialistas preveem semanas seguidas de alertas de segurança.",
+      "texto": "Sete especialistas em cibersegurança ouvidos pela Reuters dizem que vulnerabilidades encontradas com ajuda de IA quase certamente vão causar novas interrupções em serviços digitais. Segundo a VulnCheck, a IA ajudou a dobrar o número de falhas descobertas em um ano, e explorações que levavam semanas agora saem em horas. O CEO da Cloudflare, Matthew Prince, prevê um par de anos em que, toda semana, vai parecer que o céu está caindo.",
+      "fonte": "Reuters (via Business Standard)",
+      "link": "https://www.business-standard.com/amp/world-news/ai-discovered-software-bugs-may-trigger-more-outages-warn-cyber-experts-126102301660_1.html",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Cybernews",
+            "link": "https://cybernews.com/security/php2shell-wordpress-amazon-cloudflare-ai-cyberattacks"
+          },
+          {
+            "veiculo": "The Next Web",
+            "link": "https://thenextweb.com/news/cloudflare-php2shell-millions-exploit-attempts"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i4",
+      "chapeu": "",
+      "titulo": "Governo da Suécia bloqueia ChatGPT e Claude e adota só o Copilot",
+      "linha_fina": "A partir de segunda-feira, servidores da sede do governo não poderão usar as duas IAs nos computadores de trabalho.",
+      "texto": "O Regeringskansliet, sede do governo sueco, vai bloquear o acesso ao ChatGPT, da OpenAI, e ao Claude, da Anthropic, nas máquinas dos funcionários, alegando segurança da informação. O Microsoft Copilot passa a ser a ferramenta aprovada, depois de uma revisão e de reforços de segurança. A Receita sueca e outros órgãos já adotavam restrições parecidas, e o DeepSeek já tinha sido barrado.",
+      "fonte": "SVT",
+      "link": "https://www.svt.se/nyheter/inrikes/ai-tjanster-sparras-pa-regeringskansliet",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Computer Sweden",
+            "link": "https://computersweden.se/article/4239687/regeringskansliet-sparrar-chat-gpt-och-claude.html"
+          },
+          {
+            "veiculo": "Breakit",
+            "link": "https://www.breakit.se/artikel/47823/regeringskansliet-stoppar-claude-och-chatgpt"
+          },
+          {
+            "veiculo": "Azernews",
+            "link": "https://www.azernews.az/region/266078.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i5",
+      "chapeu": "",
+      "titulo": "Medo da dívida da IA leva spreads de crédito à máxima em 17 meses",
+      "linha_fina": "Investidores duvidam que os gastos com IA financiados por dívida deem retorno a tempo.",
+      "texto": "Os spreads de títulos corporativos no mundo chegaram a 129 pontos-base, o maior nível desde maio de 2025, em meio à venda de ações ligadas à IA e à tensão geopolítica. Big techs e desenvolvedores de data centers se endividaram muito para ampliar capacidade, e o mercado passou a cobrar mais por esse risco. Os títulos do Tesouro americano tiveram o melhor dia em mais de dois anos.",
+      "fonte": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-23/ai-tech-fears-push-global-credit-spreads-to-17-month-high",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "MarketScale",
+            "link": "https://www.marketscale.com/industries/business-services/credit-spreads-hit-a-17-month-high-as-the-ai-trade-loses-its-nerve"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i6",
+      "chapeu": "",
+      "titulo": "Meta compra a Sundial, startup de análise de dados com IA",
+      "linha_fina": "Criada por ex-executivos da Meta, a empresa vai integrar a divisão de dados e agentes da companhia.",
+      "texto": "A Meta confirmou a compra da Sundial, plataforma que responde a perguntas em linguagem natural sobre dados de negócio. Os cofundadores Julie Zhuo, ex-vice-presidente de design de produto da Meta, e Chandra Narayanan voltam para a empresa; Narayanan vai liderar as ferramentas e agentes de análise de dados. A Sundial deixa de atender clientes externos, e o valor não foi divulgado.",
+      "fonte": "Axios",
+      "link": "https://www.axios.com/2026/10/23/meta-ai-data-platform-sundial",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Digital Today",
+            "link": "https://www.digitaltoday.co.kr/en/view/119061/meta-acquires-sundial-ai-data-analytics-platform"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t1",
+      "chapeu": "",
+      "titulo": "iPhone Duo, o dobrável da Apple, chega às lojas com estoque escasso",
+      "linha_fina": "Celular de US$ 1.999 estreou na sexta, e novos pedidos online só são entregues no fim de janeiro.",
+      "texto": "O primeiro iPhone dobrável começou a ser vendido na sexta-feira (23), com preço inicial de US$ 1.999 na versão de 256 GB. Na pré-venda, aberta em 16/10, as entregas para novos pedidos passaram para o fim de janeiro em poucos minutos, e a Apple limitou a compra a dois aparelhos por cliente. Nas avaliações, a dobradiça quase sem vinco foi elogiada; a falta de teleobjetiva e a troca do Face ID pelo Touch ID foram criticadas.",
+      "fonte": "MacRumors",
+      "link": "https://www.macrumors.com/2026/10/23/iphone-duo-apple-store-pickup-available-today/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Reuters (via KSL)",
+            "link": "https://www.ksl.com/article/51639842/apple-bets-iphone-duo-can-remake-foldable-market-as-sales-begin"
+          },
+          {
+            "veiculo": "The Next Web",
+            "link": "https://thenextweb.com/news/apple-iphone-duo-on-sale-supply-reviews"
+          },
+          {
+            "veiculo": "Quartz",
+            "link": "https://qz.com/apple-iphone-duo-sale-demand-supply-102326"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t2",
+      "chapeu": "",
+      "titulo": "SpaceX negocia 80 mil torres e derruba ações de operadoras nos EUA",
+      "linha_fina": "Segundo a Bloomberg, a empresa de Musk quer montar uma rede móvel terrestre para complementar o Starlink.",
+      "texto": "A Bloomberg informou na sexta (23) que a SpaceX negocia acesso a cerca de 80 mil locais de antenas nos Estados Unidos, com donas de torres como Crown Castle e American Tower. O objetivo é uma rede celular terrestre que complemente o Starlink. AT&T, T-Mobile e Verizon caíram na bolsa, com perdas entre 1,5% e 5,6% no início do pregão, enquanto as ações das donas de torres subiram.",
+      "fonte": "Forbes",
+      "link": "https://www.forbes.com/sites/siladityaray/2026/10/23/att-verizon-t-mobile-shares-slip-as-spacex-reportedly-holds-cell-tower-talks-for-starlink-mobile/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/article/spacex-reportedly-wants-to-lease-space-on-80000-cell-towers-in-a-bid-to-challenge-verizon-att-and-t-mobile-145031793.html"
+          },
+          {
+            "veiculo": "Benzinga",
+            "link": "https://www.benzinga.com/trading-ideas/movers/26/10/62562193/att-stock-tumbles-as-spacex-eyes-80000-cell-sites"
+          },
+          {
+            "veiculo": "TheStreet",
+            "link": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-23-2026"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t3",
+      "chapeu": "",
+      "titulo": "PHP revela terceira falha grave e não terá correção de emergência",
+      "linha_fina": "A brecha CVE-2026-115560 permite execução remota de código; por ora, só há uma medida paliativa.",
+      "texto": "Dois dias depois dos patches de emergência para as falhas PHP2Shell, a equipe do PHP divulgou na sexta (23) uma nova vulnerabilidade de execução remota de código. O risco existe só em configurações incomuns, quando a aplicação troca o manipulador de sessão em tempo de execução. A orientação é desativar a opção session.upload_progress.enabled; a correção virá apenas na próxima versão regular.",
+      "fonte": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "The Register",
+            "link": "https://www.theregister.com/security/2026/10/23/theres-a-third-php2shell-bug-but-it-wont-get-an-emergency-fix/5305208"
+          },
+          {
+            "veiculo": "The Hacker News",
+            "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html"
+          },
+          {
+            "veiculo": "Cybernews",
+            "link": "https://cybernews.com/security/php2shell-attacks-php-new-vulnerabilities-found/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t4",
+      "chapeu": "",
+      "titulo": "Quest Diagnostics, gigante de exames dos EUA, sofre invasão",
+      "linha_fina": "O laboratório admite que registros de pacientes provavelmente foram acessados.",
+      "texto": "A Quest Diagnostics, que atende cerca de um terço dos adultos nos EUA, comunicou à SEC que um invasor acessou o Quanum LSM, plataforma usada por clientes para pedir exames e consultar resultados. A invasão foi descoberta em 21/10, e a empresa acredita que registros de pacientes foram expostos, mas ainda não sabe quantos nem quais dados. O sistema foi suspenso, e nenhum grupo assumiu o ataque.",
+      "fonte": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "HIPAA Journal",
+            "link": "https://www.hipaajournal.com/quest-diagnostics-data-breach-2026/"
+          },
+          {
+            "veiculo": "Security Magazine",
+            "link": "https://www.securitymagazine.com/articles/102689-cyber-breach-hits-quest-diagnostics-patient-records-may-be-affected"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t5",
+      "chapeu": "",
+      "titulo": "Infosys corta previsão de crescimento e ações caem",
+      "linha_fina": "A gigante indiana de TI reduziu a meta para 1% a 2% com a fraqueza na América do Norte.",
+      "texto": "A Infosys baixou a previsão de crescimento da receita no ano fiscal de 2027 para 1% a 2%, ante 1,5% a 3% antes. A receita da América do Norte, mais da metade das vendas, caiu 1,5% no trimestre. A empresa citou pressão sobre preços e clientes que pedem o repasse dos ganhos de produtividade com IA. As ações negociadas nos EUA caíram entre 4% e 7,5% ao longo da sexta (23).",
+      "fonte": "Reuters (via Central Oregon Daily)",
+      "link": "https://www.centraloregondaily.com/news/consumer/indias-infosys-beats-second-quarter-revenue-view/article_6e9bb10d-1176-5316-8d7d-f48da3a88a80.html",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Benzinga",
+            "link": "https://www.benzinga.com/markets/earnings/26/10/62565010/infosys-ai-business-is-booming-but-the-same-technology-is-eating-into-its-revenue"
+          },
+          {
+            "veiculo": "NewsBytes",
+            "link": "https://www.newsbytesapp.com/news/business/us-listed-infosys-shares-fall-63-after-fy27-revenue-guidance-cut/tldr"
+          },
+          {
+            "veiculo": "Investing.com",
+            "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-infosys-q2-2026-guidance-cut-weighs-on-shares-93CH-4969152"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h1",
+      "chapeu": "",
+      "titulo": "SK hynix desiste do IPO da Solidigm e mira fábrica nos EUA",
+      "linha_fina": "A volatilidade do mercado levou a sul-coreana a abandonar a listagem da subsidiária de SSDs corporativos.",
+      "texto": "A SK hynix informou em comunicado regulatório na sexta (23) que encerrou a avaliação de um IPO e de rodadas pré-IPO da Solidigm, sua subsidiária americana de SSDs para data centers, citando a mudança nas condições do mercado. A empresa vai buscar outras formas de financiamento para bancar a expansão e uma nova fábrica de NAND nos EUA, a primeira da Solidigm fora de Dalian, na China. Capacidade, valor e cronograma da fábrica não foram divulgados.",
+      "fonte": "Tom's Hardware",
+      "link": "https://www.tomshardware.com/pc-components/ssds/solidigm-confirms-plans-to-build-a-fab-in-the-us-abandons-ipo-plans-unfavorable-stock-market-conditions-and-semiconductor-share-price-trends-reasons-given",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Seoul Economic Daily",
+            "link": "https://en.sedaily.com/finance/2026/10/23/sk-hynix-drops-solidigm-ipo-keeps-hunting-funds-for-us-fab"
+          },
+          {
+            "veiculo": "Blocks & Files",
+            "link": "https://www.blocksandfiles.com/flash/2026/10/23/sk-hynix-shelves-solidigm-ipo-idea/5304938"
+          },
+          {
+            "veiculo": "Guru3D",
+            "link": "https://www.guru3d.com/story/sk-hynix-drops-planned-solidigm-ipo-amid-market-volatility/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h2",
+      "chapeu": "",
+      "titulo": "RTX 5080 sobe cerca de US$ 300 no atacado chinês",
+      "linha_fina": "ASUS e Gigabyte reajustam a linha GeForce RTX 50 na China, com a GDDR7 mais escassa.",
+      "texto": "Segundo dados de distribuidores chineses, o preço de atacado da RTX 5080 de 16 GB passou de 12.700–13.500 para 14.500–15.000 yuans, alta de cerca de 2.000 yuans. A RTX 5070 Ti subiu cerca de 600 yuans, e as Radeon ficaram até 350 yuans mais caras. Os motivos citados são a oferta apertada de GDDR7, com os fabricantes priorizando HBM para IA, e relatos de fim de produção da RTX 5080 de 16 GB, que a NVIDIA não confirmou.",
+      "fonte": "TweakTown",
+      "link": "https://www.tweaktown.com/news/114264/nvidia-rtx-5080-wholesale-prices-jump-dollars300-while-rtx-5070-ti-rises-by-dollars100-in-china/index.html",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "PC Gamer",
+            "link": "https://www.pcgamer.com/hardware/graphics-cards/graphics-card-wholesale-prices-are-on-the-rise-once-again-in-china-so-its-time-to-brace-yourself-for-even-more-gpu-pricing-pain/"
+          },
+          {
+            "veiculo": "TechPowerUp",
+            "link": "https://www.techpowerup.com/354070/asus-and-gigabyte-bump-rtx-5080-prices-in-china-rtx-5070-ti-also-sees-wholesale-increase"
+          },
+          {
+            "veiculo": "VideoCardz",
+            "link": "https://videocardz.com/newz/asus-reportedly-raises-rtx-5080-prices-by-150-in-china-gigabyte-follows-with-180-increase"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h3",
+      "chapeu": "",
+      "titulo": "Micron revela NAND G11 com mais de 400 camadas",
+      "linha_fina": "A nova geração pula a G10, dobra a densidade em relação à G9 e entra em produção no 2º semestre de 2027.",
+      "texto": "A Micron apresentou a NAND 3D G11, com mais de 400 camadas, contra 276 na G9. A empresa promete cerca do dobro da densidade de bits, interface até 50% mais rápida e mais de 25% de economia de energia por bit. O chip fabrica a matriz de memória e a lógica em wafers separados, unidos depois. A produção em volume está prevista para o 2º semestre de 2027, e SSDs de consumo devem vir depois.",
+      "fonte": "Tom's Hardware",
+      "link": "https://www.tomshardware.com/pc-components/ssds/microns-next-generation-3d-nand-to-double-bit-density-with-over-400-layers-offering-extreme-performance-g11-3d-nand-promises-42-gb-mm2-and-5-400-mt-s-interface-speed",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Guru3D",
+            "link": "https://www.guru3d.com/story/micron-announces-g11-nand-layers-roughly-2x-bit-density-versus-g9-up-to-faster-interface/"
+          },
+          {
+            "veiculo": "TweakTown",
+            "link": "https://www.tweaktown.com/news/114236/micron-reveals-ddr6-lpddr6-hbm-and-nand-roadmap-as-ai-memory-demand-keeps-climbing/index.html"
+          },
+          {
+            "veiculo": "Adrenaline",
+            "link": "https://www.adrenaline.com.br/hardware/micron-ddr6-dobra-largura-banda-ddr5-lpddr6-35-por-cento-eficiencia-1-delta-vhbm-nand-g11/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h4",
+      "chapeu": "",
+      "titulo": "Samsung encomenda equipamentos para fábrica de 2 nm no Texas",
+      "linha_fina": "O pedido deve levar a Fab 1 de Taylor a 20 mil wafers de 2 nm por mês no 2º semestre de 2027.",
+      "texto": "Segundo o ZDNet Korea, a Samsung encomendou ferramentas para mais 6 mil wafers mensais de 2 nm na Fab 1 de Taylor, no Texas, o que levaria a unidade a 20 mil wafers por mês. As entregas começam no fim de 2026. A Samsung não confirmou os números, e há divergência sobre o teto da fábrica: 20 mil wafers por mês segundo o ZDNet Korea, 50 mil segundo a Electronics Weekly.",
+      "fonte": "TweakTown",
+      "link": "https://www.tweaktown.com/news/114261/samsung-moves-to-fill-its-texas-2nm-fab-with-final-equipment-orders-ahead-of-2027-production-ramp/index.html",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Digitimes",
+            "link": "https://www.digitimes.com/news/a20261023VL219/samsung-texas-2nm-fab.html"
+          },
+          {
+            "veiculo": "Sammy Fans",
+            "link": "https://www.sammyfans.com/2026/10/23/samsung-20000-2nm-wafers-texas-fab-h2-2027/"
+          },
+          {
+            "veiculo": "Wccftech",
+            "link": "https://wccftech.com/samsung-orders-equipment-for-6000-more-2nm-wafers-a-month-at-its-taylor-texas-fab-putting-20000-within-reach-by-the-second-half-of-2027/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h5",
+      "chapeu": "",
+      "titulo": "CTO da Intel: oferta de chips de ponta pode, no máximo, dobrar",
+      "linha_fina": "Pushkar Ranade diz que a falta de máquinas, como as de litografia EUV, limita a expansão.",
+      "texto": "Em entrevista ao podcast de Dwarkesh Patel, o CTO da Intel, Pushkar Ranade, disse que o mundo não tem ferramentas para multiplicar por dez a produção de wafers de ponta, mas provavelmente por dois. Segundo ele, equipamentos encomendados hoje levam cerca de 18 meses para chegar. Ranade afirmou ainda que cerca de 80% das ferramentas do processo 18A podem ser reaproveitadas no 14A, previsto para 2028.",
+      "fonte": "Guru3D",
+      "link": "https://www.guru3d.com/story/intel-cto-sees-roughly-twofold-ceiling-for-advanced-wafer-output/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "The Next Web",
+            "link": "https://thenextweb.com/news/intel-cto-ranade-dwarkesh-chip-tools-2x-not-10x"
+          },
+          {
+            "veiculo": "Tech Times",
+            "link": "https://www.techtimes.com/articles/329442/20261023/intel-cto-euv-tool-shortage-caps-ai-chip-supply-growth-roughly-double.htm"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h6",
+      "chapeu": "",
+      "titulo": "YMTC prepara DRAM de 9.600 MT/s com célula 4F²",
+      "linha_fina": "A fabricante chinesa de NAND quer produzir memória LPDDR em Wuhan se o chip passar na validação.",
+      "texto": "Segundo a Counterpoint Research, a YMTC desenvolve sua primeira DRAM de baixo consumo, de 9.600 MT/s, com transistor de canal vertical e célula 4F², que ocupa cerca de um terço a menos de área que a 6F² tradicional. A produção em massa ficaria na Fab 3, em Wuhan, se o chip atingir as metas, e não há cronograma. O projeto reaproveita a tecnologia de colagem de wafers da empresa.",
+      "fonte": "TweakTown",
+      "link": "https://www.tweaktown.com/news/114259/ymtc-reportedly-targets-4f2-cells-for-9600-mt-s-dram-mass-production/index.html",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Club386",
+            "link": "https://www.club386.com/ymtc-reportedly-mass-producing-lpddr5x-memory/"
+          },
+          {
+            "veiculo": "Revista Cloud",
+            "link": "https://revistacloud.com/ymtc-dram-lpddr5x-9600-celda-4f2-vct"
+          },
+          {
+            "veiculo": "Tom's Hardware Itália",
+            "link": "https://www.tomshw.it/hardware/ymtc-sviluppa-ram-a-9600-mts-la-sfida-e-produrle-in-massa"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c1",
+      "chapeu": "",
+      "titulo": "BYD quer dobrar fábrica da Bahia para 600 mil carros por ano",
+      "linha_fina": "Executivo diz que a demanda supera a produção e que Camaçari deve passar de 50% de conteúdo nacional no início de 2027.",
+      "texto": "A BYD começou a pedir licenças para ampliar a capacidade anual da fábrica de Camaçari (BA) para 600 mil veículos, segundo Alexandre Baldy, vice-presidente da marca no Brasil, em entrevista à Reuters. A meta é produzir 25 mil unidades por mês até o fim de 2026, mas a demanda é de cerca de 30 mil, e a empresa deixa de vender de 5 mil a 6 mil carros por mês. O investimento já passa de R$ 5,5 bilhões. Veículos baianos confirmam a nacionalização prevista para 2027 e a meta de 600 mil unidades; o pedido de licenças aparece só na entrevista à Reuters.",
+      "fonte": "Reuters",
+      "link": "https://www.reuters.com/business/autos-transportation/chinas-byd-plans-double-capacity-brazilian-plant-2026-10-23/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Jornal da Mídia",
+            "link": "https://www.jornaldamidia.com.br/2026/10/23/byd-completa-um-ano-em-camacari-com-avanco-da-producao-nacional/"
+          },
+          {
+            "veiculo": "BNews",
+            "link": "https://www.bnews.com.br/noticias/economia-e-mercado/byd-avanca-em-fabrica-na-bahia-e-prepara-nova-fase-de-producao-nacional-de-carros-eletricos.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c2",
+      "chapeu": "",
+      "titulo": "Volvo tem prejuízo no 3º trimestre e vai cortar 2.500 vagas",
+      "linha_fina": "Ações da sueca despencam quase 30% e batem mínima recorde com a queda na China e nos EUA.",
+      "texto": "A Volvo Cars teve prejuízo operacional ajustado de cerca de 3,7 bilhões de coroas suecas (US$ 373 milhões) no terceiro trimestre, contra lucro de 5,8 bilhões um ano antes. A receita caiu cerca de 23%, e as vendas na China encolheram quase pela metade. A empresa anunciou mais 2.500 demissões, cerca de 2 mil na Suécia. O SUV elétrico EX60 soma mais de 50 mil pedidos na Europa, mas só cerca de 5 mil unidades foram produzidas.",
+      "fonte": "Reuters",
+      "link": "https://www.reuters.com/world/china/volvo-cars-swings-third-quarter-loss-plans-job-cuts-2026-10-23/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "WardsAuto",
+            "link": "https://www.wardsauto.com/news/volvo-cars-cuts-2500-jobs-after-posting-373m-loss-in-q3/833814/"
+          },
+          {
+            "veiculo": "CBT News",
+            "link": "https://www.cbtnews.com/volvo-cars-posts-q3-operating-loss/"
+          },
+          {
+            "veiculo": "Electrek",
+            "link": "https://electrek.co/2026/10/23/volvo-ex60-best-seller-over-50000-orders/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c3",
+      "chapeu": "",
+      "titulo": "MG IM6 chega ao Brasil a partir de R$ 368.990",
+      "linha_fina": "SUV elétrico de luxo tem duas versões; a topo de linha tem 752 cv e custa R$ 439.990.",
+      "texto": "A MG divulgou os preços do IM6, SUV-cupê elétrico que estreia no Brasil nas versões Signature (R$ 368.990) e Performance (R$ 439.990). A Signature tem um motor traseiro de 295 cv e 348 km de autonomia pelo Inmetro. A Performance tem dois motores e 752 cv, faz de 0 a 100 km/h em 3,5 s e roda 400 km por carga. A garantia é de 7 anos para o carro e 8 anos para a bateria.",
+      "fonte": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/auto/mg-im6-tem-desempenho-radical-roda-400-km-e-custa-a-partir-de-r-369-mil/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Diário do Grande ABC",
+            "link": "https://www.dgabc.com.br/Noticia/4364487/mg-im6-estreia-com-ate-752-cv-e-precos-a-partir-de-rs-370-mil"
+          },
+          {
+            "veiculo": "Auto+ TV",
+            "link": "https://www.automaistv.com.br/novidades/mg-im6-preco-versoes-brasil/"
+          },
+          {
+            "veiculo": "Vrum",
+            "link": "https://www.vrum.com.br/mercado/2026/10/7526355-mg-im6-chega-ao-brasil-por-rs-368-990-e-tem-versao-de-752-cv.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c4",
+      "chapeu": "",
+      "titulo": "Sindicato ameaça greve na Volkswagen a partir de janeiro",
+      "linha_fina": "IG Metall dá prazo até o fim de outubro para a montadora desfazer a rescisão dos acordos salariais na Alemanha.",
+      "texto": "O IG Metall exigiu que a Volkswagen cancele, até o fim de outubro, a rescisão de dez acordos coletivos que cobrem cerca de 130 mil trabalhadores na Alemanha; se não, ameaça fazer greves quando a trégua acabar, em janeiro. As rescisões valem a partir de 31 de dezembro, e o sindicato propôs começar as negociações em 24 de novembro. A VW diz que busca todas as opções para reduzir custos.",
+      "fonte": "Reuters",
+      "link": "https://www.reuters.com/business/world-at-work/volkswagen-workers-threaten-strikes-unless-carmaker-reverses-labour-deal-2026-10-23/",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Der Tagesspiegel (dpa)",
+            "link": "https://www.tagesspiegel.de/wirtschaft/dpa-gekundigte-tarifvertrage-ig-metall-stellt-vw-ultimatum-und-droht-mit-arbeitskampf-16192463.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c5",
+      "chapeu": "",
+      "titulo": "Tesla desiste da Cybertruck na Austrália e na Nova Zelândia",
+      "linha_fina": "Quase sete anos depois de abrir reservas, a montadora cancela os pedidos e devolve os depósitos.",
+      "texto": "A Tesla avisou por e-mail quem tinha reserva da Cybertruck na Austrália e na Nova Zelândia que desistiu de produzir a picape para esses mercados, que usam volante à direita. As reservas, abertas em 2019 com depósito de A$ 150, serão reembolsadas em até 30 dias. Como compensação, quem comprar um Model 3 ou Model Y novo ganha um ano de FSD (Supervised).",
+      "fonte": "Electrek",
+      "link": "https://electrek.co/2026/10/23/tesla-cancels-cybertruck-australia-new-zealand/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "The Driven",
+            "link": "https://thedriven.io/2026/10/23/tesla-abandons-cybertruck-plans-for-australia-nearly-seven-years-after-deposits-taken/"
+          },
+          {
+            "veiculo": "Drive",
+            "link": "https://www.drive.com.au/news/tesla-cybertruck-not-coming-to-australia-official/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c6",
+      "chapeu": "",
+      "titulo": "Stellantis e Bolt testarão robotáxis na Grande Paris em 2028",
+      "linha_fina": "O projeto prevê operação comercial em cerca de 30 cidades até 2030, se houver autorização.",
+      "texto": "A Bolt, a Stellantis e a Métropole du Grand Paris anunciaram um teste de veículos autônomos a partir de 2028, em até cinco cidades do noroeste da região metropolitana. A Stellantis fornecerá veículos preparados para o nível 4 de autonomia, e a chinesa Pony.ai pode fornecer o sistema de condução. Com autorização, a ideia é chegar à operação comercial em cerca de 30 municípios até 2030.",
+      "fonte": "Reuters",
+      "link": "https://www.reuters.com/world/china/bolt-stellantis-plan-autonomous-driving-experiment-greater-paris-2028-2026-10-23/",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Voyages d'Affaires",
+            "link": "https://www.voyages-d-affaires.com/vehicules-autonomes-grand-paris-bolt-stellantis"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p2",
+      "chapeu": "",
+      "titulo": "Real Time Big Data e Veritá mostram Flávio numericamente à frente",
+      "linha_fina": "As pesquisas divulgadas na sexta apontam vantagem de 2,6 a 4 pontos nos votos válidos; a Real Time fala em empate técnico.",
+      "texto": "A Real Time Big Data registra Flávio Bolsonaro com 52% dos votos válidos e Lula com 48%, mesmo resultado da rodada de 20/10; nos votos totais, 49% a 45%. Foram 2.000 entrevistas por telefone de 19 a 22/10, com margem de 2 pontos (registro BR-09670/2026), e o instituto descreve o resultado como empate técnico. A Veritá ouviu 15.554 eleitores de 18 a 22/10 (margem de 1 ponto, BR-06070/2026) e aponta 51,3% a 48,7% nos válidos. Na véspera, o Datafolha havia registrado 50% a 50%.",
+      "fonte": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-flavio-tem-52-dos-votos-validos-no-2o-turno-lula-48/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Jornal de Brasília",
+            "link": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/real-time-big-data-flavio-tem-52-e-lula-48-dos-votos-validos/"
+          },
+          {
+            "veiculo": "Gazeta do Povo",
+            "link": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/real-time-big-data-presidente-outubro-2026-segundo-turno-2/"
+          },
+          {
+            "veiculo": "Exame (Veritá)",
+            "link": "https://exame.com/brasil/pesquisa-verita-flavio-bolsonaro-tem-513-e-lula-487-dos-votos-validos/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p3",
+      "chapeu": "",
+      "titulo": "Moraes manda bloquear até R$ 6 bi de advogado amigo de Flávio",
+      "linha_fina": "O ministro do STF também suspendeu passaportes e quebrou sigilos de Willer Tomaz, investigado por lavagem de dinheiro.",
+      "texto": "Alexandre de Moraes determinou o bloqueio de até R$ 6 bilhões em bens do advogado Willer Tomaz, a quebra de seus sigilos bancário, fiscal e cambial e a suspensão dos passaportes e das atividades de suas empresas. A PF investiga suspeita de lavagem ligada a negócios com apostas, e o inquérito apura se Flávio Bolsonaro usou contas ligadas ao advogado. A defesa de Tomaz chamou as medidas de desproporcionais em pleno período eleitoral e negou que Flávio usasse contas da empresa; o senador diz ter com Tomaz apenas amizade.",
+      "fonte": "Poder360",
+      "link": "https://www.poder360.com.br/poder-justica/moraes-manda-bloquear-ate-r-6-bilhoes-de-willer-tomaz/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Agência Brasil",
+            "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/moraes-determina-bloqueio-de-ate-r-6-bilhoes-do-advogado-willer-tomaz"
+          },
+          {
+            "veiculo": "O Liberal",
+            "link": "https://www.oliberal.com/politica/moraes-bloqueia-r-6-bilhoes-e-cancela-passaportes-de-advogado-investigado-com-flavio-bolsonaro-1.1186198"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p4",
+      "chapeu": "",
+      "titulo": "TSE limita alcance de posts de Nikolas e Marçal até domingo",
+      "linha_fina": "O corregedor aceitou parte dos pedidos da campanha de Lula, mas recusou excluir totalmente os perfis das recomendações.",
+      "texto": "O corregedor-geral eleitoral, ministro Ricardo Villas Bôas Cueva, determinou que Nikolas Ferreira (PL-MG) e Pablo Marçal não publiquem conteúdo eleitoral irregular até o fim do 2º turno, como montagens com IA e acusações sabidamente falsas, sob multa de R$ 100 mil por post. A partir de sábado (24), Meta e X não podem recomendar a não seguidores os posts político-eleitorais dos dois. O ministro rejeitou o pedido mais amplo da campanha de Lula por avaliar que atingiria também conteúdo lícito e a liberdade de expressão. A liminar ainda será analisada pelo plenário.",
+      "fonte": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/tse-determina-que-nikolas-e-marcal-evitem-conteudos-eleitorais-ate-2o-turno/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Poder360",
+            "link": "https://www.poder360.com.br/poder-eleicoes-2026/tse-manda-meta-enviar-relatorios-a-cada-6-horas-sobre-nikolas-e-marcal/"
+          },
+          {
+            "veiculo": "Terra",
+            "link": "https://www.terra.com.br/noticias/brasil/politica/tse-rejeita-pedido-de-lula-para-proibir-plataformas-de-recomendar-perfis-de-nikolas-e-marcal,bcfa8cc4e9b75c0447d15fb9f31e816bh8hq0rid.html"
+          },
+          {
+            "veiculo": "Revista Fórum",
+            "link": "https://revistaforum.com.br/revista-forum/tse-restricoes-nikolas-e-marcal/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p5",
+      "chapeu": "",
+      "titulo": "Israel cerca Hebron após ataque que matou dois soldados",
+      "linha_fina": "Netanyahu mandou preparar o fechamento total da Cisjordânia a quatro dias das eleições israelenses.",
+      "texto": "Dois palestinos armados atacaram uma posição militar perto de Hebron, na Cisjordânia ocupada, e mataram dois soldados israelenses; os atacantes foram mortos após troca de tiros. O número de feridos varia: a AP fala em três, e o relato inicial dos socorristas, em ao menos cinco. Netanyahu responsabilizou o Hamas, ordenou o cerco a Hebron e mandou preparar o fechamento do território; grupos palestinos elogiaram o ataque e o apresentaram como resposta a operações militares e à violência de colonos. As eleições em Israel são na terça (27).",
+      "fonte": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "AP (via Spectrum News)",
+            "link": "https://spectrumlocalnews.com/nc/coastal/international/2026/10/23/netanyahu-orders-west-bank-closure-israeli-army-soldiers-killed"
+          },
+          {
+            "veiculo": "CNN",
+            "link": "https://www.cnn.com/2026/10/23/middleeast/israel-closes-west-bank-city-intl"
+          },
+          {
+            "veiculo": "Times of Israel",
+            "link": "https://www.timesofisrael.com/liveblog-october-23-2026/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p6",
+      "chapeu": "",
+      "titulo": "Justiça do Equador decreta prisão preventiva de Luisa González",
+      "linha_fina": "A ex-candidata correísta é investigada por lavagem na campanha de 2023 e diz ser alvo de perseguição política.",
+      "texto": "Uma juíza equatoriana decretou a prisão preventiva de Luisa González, duas vezes candidata à Presidência pela Revolução Cidadã, detida na véspera em Manabí. O caso investiga cerca de US$ 500 mil que teriam entrado sem declaração na campanha de 2023; a Promotoria suspeita de dinheiro vindo da Venezuela. O governo de Daniel Noboa diz que gastos de campanha precisam ter origem comprovada. González se declarou inocente e perseguida.",
+      "fonte": "Infobae",
+      "link": "https://www.infobae.com/america/america-latina/2026/10/23/la-justicia-ecuatoriana-ordeno-prision-preventiva-para-luisa-gonzalez-por-presunto-lavado-de-activos/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "EFE (via Swissinfo)",
+            "link": "https://www.swissinfo.ch/spa/dictan-prisi%C3%B3n-preventiva-para-la-excandidata-corre%C3%ADsta-luisa-gonz%C3%A1lez-en-ecuador/92265577"
+          },
+          {
+            "veiculo": "El Financiero",
+            "link": "https://www.elfinanciero.com.mx/mundo/2026/10/23/ordenan-prision-preventiva-a-luisa-gonzalez-excandidata-presidencial-de-ecuador-por-lavado-de-activos/"
+          },
+          {
+            "veiculo": "Teleamazonas",
+            "link": "https://www.teleamazonas.com/actualidad/noticias/judicial/luisa-gonzalez-dirige-juez-audiencia-le-dicto-prision-preventiva-131188/"
+          }
+        ]
+      }
+    }
+  ]
+}
