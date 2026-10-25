@@ -1,0 +1,858 @@
+{
+  "data": "2026-10-24",
+  "titulo": "Newsletter — 24/10/2026",
+  "data_por_extenso": "Sábado, 24 de outubro de 2026",
+  "pagina": "edicoes/2026-10-24.html",
+  "destaques": [
+    {
+      "link": "#g1",
+      "titulo": "Filme de Elden Ring deve custar quase US$ 200 milhões"
+    },
+    {
+      "link": "#i1",
+      "titulo": "Estudo: Grok indica republicanos e GPT, democratas"
+    },
+    {
+      "link": "#t1",
+      "titulo": "Starshield, da SpaceX, volta a funcionar na Ucrânia"
+    },
+    {
+      "link": "#h1",
+      "titulo": "RTX 5090 são desmontadas na China para virar placas de IA"
+    },
+    {
+      "link": "#c1",
+      "titulo": "HB20 lidera vendas de outubro; Dolphin Mini é o 2º"
+    }
+  ],
+  "noticias": [
+    {
+      "tipo": "manchete",
+      "editoria": "Política",
+      "id": "manchete",
+      "chapeu": "Política · Eleições 2026",
+      "titulo": "Datafolha final: Flávio tem 51% e Lula, 49% dos votos válidos",
+      "linha_fina": "Na véspera do 2º turno, a última rodada do instituto mostra empate técnico; a Quaest trouxe o mesmo placar",
+      "texto": "O Datafolha divulgou no sábado (24) sua última pesquisa antes da votação deste domingo. Flávio Bolsonaro (PL) aparece com 51% dos votos válidos e Lula (PT), com 49%; na rodada de quinta-feira (22), os dois estavam com 50% cada. Nos votos totais, Flávio tem 48% e Lula, 47%, com 3% de brancos e nulos e 2% de indecisos. Foram ouvidos 4.050 eleitores em 23 e 24 de outubro, com margem de erro de 2 pontos (registro BR-09540/2026). A Quaest, também divulgada no sábado, registrou 51% a 49% nos válidos e 46% a 45% nos totais, com 3.702 entrevistados (BR-09158/2026).",
+      "fonte": "Exame",
+      "link": "https://exame.com/brasil/pesquisa-datafolha-flavio-bolsonaro-tem-51-e-lula-49-dos-votos-validos/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "CartaCapital",
+            "link": "https://www.cartacapital.com.br/politica/datafolha-na-vespera-do-2o-turno-flavio-bolsonaro-51-lula-49/"
+          },
+          {
+            "veiculo": "RDNews",
+            "link": "https://www.rdnews.com.br/eleicoes-2026/quaest-e-datafolha-mostram-flavio-com-51-dos-votos-validos-e-lula-com-49-no-segundo-turno/251208"
+          },
+          {
+            "veiculo": "Metrópoles (Quaest)",
+            "link": "https://www.metropoles.com/brasil/ultima-pesquisa-quaest-flavio-bolsonaro-lula"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g1",
+      "chapeu": "",
+      "titulo": "Filme de Elden Ring deve custar quase US$ 200 milhões, recorde da A24",
+      "linha_fina": "Segundo o Wall Street Journal, o orçamento é quase o triplo do maior que a produtora já bancou.",
+      "texto": "A adaptação de Elden Ring, escrita e dirigida por Alex Garland, deve custar perto de US$ 200 milhões, segundo reportagem do Wall Street Journal repercutida no sábado (24). Quando as filmagens começaram, em abril, falava-se em um orçamento acima de US$ 100 milhões. O maior gasto da A24 até agora era o de Marty Supreme, estimado em US$ 70 milhões. A estreia está marcada para 3 de março de 2028, e a A24 não comentou o valor.",
+      "fonte": "Insider Gaming",
+      "link": "https://insider-gaming.com/a24-elden-ring-movie-budget/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Dark Horizons",
+            "link": "https://www.darkhorizons.com/elden-ring-film-budget-is-nearly-200m/"
+          },
+          {
+            "veiculo": "Output Lag",
+            "link": "https://outputlag.com/news/a24s-elden-ring-movie-now-costs-nearly-200-million-almost-triple-its-old-record/"
+          },
+          {
+            "veiculo": "World of Reel",
+            "link": "https://www.worldofreel.com/blog/2026/10/24/alex-garlands-elden-ring-now-costs-around-200m-a24-isnt-an-indie-studio-anymore"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g2",
+      "chapeu": "",
+      "titulo": "Mundial de LoL: DK vence a T1, e quatro times chegam a 2-0 no suíço",
+      "linha_fina": "Gen.G, Dplus KIA, Movistar KOI e LYON lideram a fase suíça; os times chineses venceram pela primeira vez.",
+      "texto": "No segundo dia da fase suíça do Mundial de League of Legends, em Allen, no Texas, a Dplus KIA venceu a T1 e a Gen.G derrotou a Hanwha Life no sábado (24). As duas chegaram a 2-0, junto com Movistar KOI e LYON. A liga chinesa, que havia zerado a primeira rodada, somou três vitórias, com Top Esports, Invictus Gaming e Bilibili Gaming. Anyone's Legend, LØS, Team Secret Whales e Team Liquid estão com 0-2, a uma derrota da eliminação.",
+      "fonte": "Dot Esports",
+      "link": "https://dotesports.com/league-of-legends/news/dk-beats-t1-as-lpl-picks-up-its-first-wins-on-day-2-of-worlds-2026-swiss-stage",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Hotspawn",
+            "link": "https://www.hotspawn.com/league-of-legends/news/worlds-2026-swiss-stage-day-2"
+          },
+          {
+            "veiculo": "GosuGamers",
+            "link": "https://www.gosugamers.net/lol/news/79411-gen-g-dplus-kia-lyon-and-mkoi-improve-to-2-0-records-in-worlds-2026-swiss-stage-day-2"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g3",
+      "chapeu": "",
+      "titulo": "Fortnite confirma parceria com One Piece em teaser oficial",
+      "linha_fina": "O crossover chega em uma minitemporada de piratas prevista para começar em 1º de novembro.",
+      "texto": "A Epic Games confirmou no sábado (24) a colaboração entre Fortnite e One Piece, com um teaser em que o Ônibus de Batalha vira navio pirata. O vídeo de revelação também foi exibido dentro do jogo, quando um baú no mapa se abriu. A nova minitemporada deve começar em 1º de novembro, com o fim da temporada atual. Ainda não foram mostradas skins nem a data exata do conteúdo de One Piece.",
+      "fonte": "Insider Gaming",
+      "link": "https://insider-gaming.com/fortnite-x-one-piece-confirmed/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Hotspawn",
+            "link": "https://www.hotspawn.com/fortnite/news/one-piece-fortnite-collab"
+          },
+          {
+            "veiculo": "Final Weapon",
+            "link": "https://finalweapon.net/2026/10/24/fortnite-one-piece-collaboration-teaser/"
+          },
+          {
+            "veiculo": "Epicflix",
+            "link": "https://epicflix.com/fortnite-confirms-one-piece-for-its-treasure-hunters-mini-season-as-the-going-merry-sails-into-the-reveal-trailer"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g4",
+      "chapeu": "",
+      "titulo": "Eiji Aonuma, produtor de Zelda, é condecorado cavaleiro na França",
+      "linha_fina": "O japonês recebeu em Paris a insígnia da Ordem das Artes e das Letras, anunciada em 2023.",
+      "texto": "Eiji Aonuma, produtor de longa data da série The Legend of Zelda, recebeu o título de Cavaleiro da Ordem das Artes e das Letras em cerimônia no Ministério da Cultura da França, na sexta (23), com repercussão no sábado. A homenagem tinha sido anunciada em 2023, e a entrega coincidiu com a Paris Games Week. Aonuma discursou em francês. Na mesma semana, Shigeru Miyamoto foi anunciado como o primeiro criador de games a receber a Ordem da Cultura do Japão.",
+      "fonte": "Kotaku",
+      "link": "https://kotaku.com/legend-of-zelda-producer-eiji-aonuma-knighted-by-french-ministry-of-culture-2000749331",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Big N",
+            "link": "https://big-n.fr/actualites/46906-eiji-aonuma-chevalier-arts-lettres-paris/"
+          },
+          {
+            "veiculo": "O Vício",
+            "link": "https://ovicio.com.br/eiji-aonuma-produtor-de-the-legend-of-zelda-e-consagrado-cavaleiro-na-franca/"
+          },
+          {
+            "veiculo": "StartupItalia",
+            "link": "https://startupitalia.eu/lifestyle/miyamoto-aonuma-onorificenze-zelda-mario/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g5",
+      "chapeu": "",
+      "titulo": "Factorio recebe a versão 2.1, sua última grande atualização",
+      "linha_fina": "A Wube encerra o desenvolvimento ativo do jogo de automação depois de 14 anos.",
+      "texto": "A Wube Software lançou na sexta (23) a versão estável 2.1 de Factorio, que o estúdio apresenta como a última grande atualização do jogo. O pacote traz melhorias de logística espacial na expansão Space Age, como foguetes com vários tipos de item, mudanças no comportamento dos biters, gráficos novos e uma versão nativa para Linux ARM64. O estúdio disse que o jogo chegou a um bom ponto para encerrar o desenvolvimento ativo.",
+      "fonte": "PC Gamer",
+      "link": "https://www.pcgamer.com/games/survival-crafting/after-14-years-of-development-factorios-final-major-update-is-out-now/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "GamingOnLinux",
+            "link": "https://www.gamingonlinux.com/2026/10/factorio-2-1-is-out-now-with-the-native-arm64-linux-build-to-run-on-steam-frame-raspberry-pi-and-more/"
+          },
+          {
+            "veiculo": "SteamDB (notas oficiais da Wube)",
+            "link": "https://steamdb.info/patchnotes/26076417/"
+          },
+          {
+            "veiculo": "Inven Global",
+            "link": "https://www.invenglobal.com/articles/27671/automated-factory-building-game-factorio-receives-final-major-update"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i1",
+      "chapeu": "",
+      "titulo": "Forçados a escolher, Grok indica republicanos e GPT, democratas",
+      "linha_fina": "Estudo com quase 500 disputas das eleições de meio de mandato nos EUA mostra os modelos em lados opostos.",
+      "texto": "O estudo é do estúdio Convovo, liderado pelo professor Tapan Parikh, de Cornell, que pediu pelas APIs que os modelos apontassem um único candidato em quase 500 disputas para Câmara, Senado e governos estaduais. O Grok 4.7, da xAI, indicou o republicano em 92% das respostas válidas, e o GPT-6.1 Sol, da OpenAI, o democrata em 97%. Os dois concordaram em menos de 10% das disputas. A OpenAI disse que o teste não reflete a experiência do ChatGPT; a eleição americana é em 3 de novembro.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "TokenPost",
+            "link": "https://www.tokenpost.com/news/technology/40272"
+          },
+          {
+            "veiculo": "Mezha",
+            "link": "https://mezha.net/eng/news/mezha-e7a80d87e8606cee69a815d0_grok_favored_republicans"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i2",
+      "chapeu": "",
+      "titulo": "Queda das neoclouds põe à prova a Nvidia como financiadora da IA",
+      "linha_fina": "CoreWeave, Nebius e IREN despencam em outubro, e o risco de crédito da CoreWeave dispara.",
+      "texto": "A CNBC estima em cerca de US$ 171,5 bilhões a exposição da Nvidia às neoclouds, provedores de nuvem de GPU, somando investimentos, garantias e compromissos. CoreWeave, Nebius e IREN acumulam quedas de 30% ou mais em outubro. O swap de crédito de cinco anos da CoreWeave chegou a 1.115 pontos-base, e seus títulos já rendem mais de 15%. A Nvidia tem cerca de 10% da CoreWeave e é também sua fornecedora de chips.",
+      "fonte": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Benzinga",
+            "link": "https://www.benzinga.com/markets/bonds/26/10/62541064/coreweave-debt-stress-mounts-bond-yield-hits-record-as-stock-suffers-44-billion-wipeout"
+          },
+          {
+            "veiculo": "Startup Fortune",
+            "link": "https://startupfortune.com/ai-neocloud-stocks-sink-as-coreweave-debt-fears-spread-to-equities/"
+          },
+          {
+            "veiculo": "The Next Web",
+            "link": "https://thenextweb.com/news/huang-coreweave-backstop-stockholm"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i3",
+      "chapeu": "",
+      "titulo": "Block, de Jack Dorsey, apresenta Dessa, IA de voz quase humana",
+      "linha_fina": "O modelo foi treinado só com conversas faladas e consegue ouvir e falar ao mesmo tempo.",
+      "texto": "A Block, empresa de pagamentos de Jack Dorsey, apresentou o Dessa, modelo de fala para fala treinado apenas com conversas humanas, sem texto nem modelos pré-treinados. Ele processa o áudio diretamente, ri, faz pausas e aceita interrupções. Segundo a empresa, foi treinado em um único sistema Nvidia GB200 NVL72 e roda localmente em um MacBook Pro com M4 Max ou superior. Por ora, só um pequeno grupo de pesquisadores de segurança tem acesso, e há temor de uso em golpes.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "CoinDesk",
+            "link": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears"
+          },
+          {
+            "veiculo": "The Tribune (ANI)",
+            "link": "https://www.tribuneindia.com/news/business/jack-dorseys-block-launches-dessa-ai-voice-model-trained-entirely-on-human-conversation"
+          },
+          {
+            "veiculo": "The Verge",
+            "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i4",
+      "chapeu": "",
+      "titulo": "Dois engenheiros do Claude Code deixam a Anthropic",
+      "linha_fina": "Thariq Shihipar e Anthony Morris anunciaram a saída com um dia de diferença.",
+      "texto": "Thariq Shihipar, engenheiro do Claude Code, anunciou no sábado (24) que deixou a Anthropic após mais de um ano no projeto; ele era conhecido pelo sistema de skills da ferramenta. Um dia antes, saiu Anthony Morris, que diz ter criado o app de desktop do Claude Code. Nenhum dos dois revelou o próximo passo. As saídas ocorrem semanas antes da abertura de capital que a empresa prepara.",
+      "fonte": "OfficeChai",
+      "link": "https://officechai.com/ai/thariq-shihipar-anthony-morris-announce-theyre-leaving-anthropic-weeks-before-its-ipo/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Thariq Shihipar (post oficial no X)",
+            "link": "https://x.com/trq212/status/2113844051938054167"
+          },
+          {
+            "veiculo": "Mezha",
+            "link": "https://mezha.net/eng/news/e690c716_claude_code_developer_tarik"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t1",
+      "chapeu": "",
+      "titulo": "Starshield volta a funcionar na Ucrânia após dias de restrição",
+      "linha_fina": "Ministro da Defesa ucraniano diz que o serviço militar da Starlink parece normalizado, mas sem explicação da SpaceX.",
+      "texto": "A SpaceX aparentemente suspendeu as restrições ao Starshield, versão militar da Starlink, usado pelas Forças Armadas ucranianas. Por cerca de dez dias, drones em alta velocidade perdiam a conexão, o que levou a perda de aparelhos e missões canceladas. O ministro da Defesa, Evgeniy Khmara, disse que o sistema voltou a operar normalmente, mas os testes continuam. Segundo o Wall Street Journal, Donald Trump ligou para Elon Musk na quarta (21) pedindo a volta do serviço; Musk acusa Kiev de violar os termos de uso em ataques ofensivos.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "CNBC",
+            "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html"
+          },
+          {
+            "veiculo": "CNN",
+            "link": "https://www.cnn.com/2026/10/23/world/trump-musk-restored-ukraines-starshield-intl"
+          },
+          {
+            "veiculo": "U.S. News (Reuters/WSJ)",
+            "link": "https://www.usnews.com/news/world/articles/2026-10-22/trump-asks-musk-to-lift-ukraine-starlink-restrictions-wsj-reports"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t2",
+      "chapeu": "",
+      "titulo": "Instacart discutiu venda com DoorDash e Uber, dizem reportagens",
+      "linha_fina": "A empresa teria contratado um banco para avaliar opções, e as ações subiram mais de 9%.",
+      "texto": "A Instacart contratou um banco de investimento para estudar alternativas e conversou com a DoorDash sobre uma possível aquisição, segundo o The Information. A Bloomberg informou que também houve conversas com a Uber, que teria desistido. As negociações são descritas como preliminares e podem não resultar em venda. A empresa vale mais de US$ 13 bilhões em bolsa, e suas ações subiram mais de 9% na sexta (23).",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Bloomberg",
+            "link": "https://www.bloomberg.com/news/articles/2026-10-23/instacart-rallies-on-report-of-sale-talks-with-uber-doordash"
+          },
+          {
+            "veiculo": "TIKR",
+            "link": "https://www.tikr.com/blog/uber-stock-fell-as-instacarts-sale-talks-with-uber-and-doordash-surfaced-heres-where-the-stock-could-go-by-2030"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t3",
+      "chapeu": "",
+      "titulo": "Apple fecha sete lojas na França por temor de novos protestos",
+      "linha_fina": "As três unidades de Paris ficaram fechadas no sábado, uma semana após saques em Lille e Bordeaux.",
+      "texto": "A Apple fechou sete lojas de rua na França no sábado (24), dia de nova mobilização contra o custo de vida: as três de Paris (Champs-Élysées, Opéra e Saint-Germain), além de Bordeaux, Lille, Estrasburgo e Aix-en-Provence. As lojas de Lille e Bordeaux foram saqueadas nos protestos de 17 de outubro, e os iPhones roubados passaram a exibir aviso de bloqueio e rastreamento. As unidades em shoppings funcionaram normalmente.",
+      "fonte": "MacRumors",
+      "link": "https://www.macrumors.com/2026/10/24/apple-closes-french-stores/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Sortiraparis",
+            "link": "https://www.sortiraparis.com/actualites/a-paris/articles/355516-manifestation-du-24-octobre-les-apple-store-de-paris-fermes-samedi"
+          },
+          {
+            "veiculo": "World Is Small",
+            "link": "https://worldissmall.fr/2026/10/24/apple-ferme-sept-apple-store-en-france-ce-samedi-24-octobre-dont-trois-a-paris/"
+          },
+          {
+            "veiculo": "iPhoneAddict",
+            "link": "https://iphoneaddict.fr/post/news-438101-apple-store-fermes-samedi-lien-manifestations"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t4",
+      "chapeu": "",
+      "titulo": "iPhone Duo é reprovado em teste de resistência do JerryRigEverything",
+      "linha_fina": "Poeira travou a dobradiça, e a tela interna parou de responder depois do teste de dobra.",
+      "texto": "O dobrável da Apple não passou no teste de durabilidade do youtuber Zack Nelson. Apesar da certificação IP68, a poeira entrou na dobradiça e impediu que os ímãs mantivessem o aparelho fechado. No teste de dobra, surgiu uma linha verde permanente na tela interna, que depois deixou de responder ao toque. A tela externa só arranhou no nível 7 da escala Mohs; a interna, no nível 2.",
+      "fonte": "MacRumors",
+      "link": "https://www.macrumors.com/2026/10/24/iphone-duo-fails-jerryrigeverything-test/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Dexerto",
+            "link": "https://www.dexerto.com/entertainment/apples-iphone-duo-fails-jerryrigeverythings-durability-test-3421515/"
+          },
+          {
+            "veiculo": "tbreak",
+            "link": "https://tbreak.com/iphone-duo-jerryrigeverything-durability-test/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t5",
+      "chapeu": "",
+      "titulo": "Desmontagens do iPhone Duo mostram duas baterias e USB-C modular",
+      "linha_fina": "As duas células somam 4.883 mAh, e os vídeos apontam reparo difícil no botão do Touch ID.",
+      "texto": "Vídeos de desmontagem dos canais REWA Technology e Phone Repair Guru mostram que o iPhone Duo tem duas baterias, de 2.962 mAh e 1.921 mAh, presas com adesivo que se solta com corrente elétrica. A porta USB-C é totalmente modular, e o botão do Touch ID sai, mas com dificuldade. Os vídeos também mostram o chip A20 Pro e o modem C2 da Apple.",
+      "fonte": "MacRumors",
+      "link": "https://www.macrumors.com/2026/10/24/iphone-duo-teardown-videos/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "iPhone in Canada",
+            "link": "https://www.iphoneincanada.ca/2026/10/24/iphone-duo-teardown-two-batteries-modular-usb-c/"
+          },
+          {
+            "veiculo": "iClarified",
+            "link": "https://www.iclarified.com/103014/iphone-duo-teardowns-reveal-dual-battery-design-and-repair-challenges-video"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t6",
+      "chapeu": "",
+      "titulo": "Bootkit BlackX burla o Secure Boot do Windows com falha antiga",
+      "linha_fina": "A Kaspersky atribui o malware, usado contra órgãos diplomáticos da Ásia Central, ao grupo chinês APT41.",
+      "texto": "O bootkit UEFI BlackX explora a falha Baton Drop (CVE-2022-21894) para contornar o Secure Boot e carregar um driver malicioso no kernel do Windows, que desativa proteções e instala um trojan de acesso remoto. Segundo a Kaspersky, os alvos foram órgãos diplomáticos do Tajiquistão, do Uzbequistão e do Turcomenistão. O ataque funciona até em máquinas atualizadas porque a correção exige um passo manual, a revogação de um certificado da Microsoft.",
+      "fonte": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Kaspersky Securelist (fonte primária)",
+            "link": "https://securelist.com/uefi-bootkit-blackx/121539/"
+          },
+          {
+            "veiculo": "Cyber Security News",
+            "link": "https://cybersecuritynews.com/hackers-use-new-blackx-bootkit/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h1",
+      "chapeu": "",
+      "titulo": "Vídeo mostra oficinas chinesas desmontando RTX 5090 para servidores de IA",
+      "linha_fina": "Chip GB202 e memórias GDDR7 de placas novas são transplantados para modelos blower de dois slots.",
+      "texto": "Um vídeo divulgado pelo site HKEPC, de Hong Kong, mostra técnicos na China desmontando GeForce RTX 5090 novas, inclusive Founders Edition e modelos de ASUS, Gigabyte e PNY. O chip GB202 e os 32 GB de GDDR7 são soldados em placas blower de dois slots para servidores de IA. O número de unidades não foi confirmado de forma independente. O caso coincide com a falta da RTX 5090 nas lojas dos EUA; a NVIDIA nega que a placa tenha sido descontinuada.",
+      "fonte": "Tom's Hardware",
+      "link": "https://www.tomshardware.com/pc-components/gpus/leaked-video-exposes-how-chinese-factories-are-stripping-rtx-5090s-to-fuel-ai-custom-partner-cards-to-nvidia-founders-editions-on-the-chopping-block",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Guru3D",
+            "link": "https://www.guru3d.com/story/hkepc-footage-shows-rtx-5090-cards-being-rebuilt-for-ai-systems-in-china/"
+          },
+          {
+            "veiculo": "Wccftech",
+            "link": "https://wccftech.com/the-discontinued-rtx-5090s-are-entering-chinese-labs-where-they-are-turned-into-ai-gpus/"
+          },
+          {
+            "veiculo": "Hardware.com.br",
+            "link": "https://www.hardware.com.br/tecnologia/rtx-5090-fabrica-chinesa-ia/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h2",
+      "chapeu": "",
+      "titulo": "Funcionários da Micron em Taiwan rejeitam proposta de bônus",
+      "linha_fina": "Cerca de 70% do sindicato de Taoyuan votou contra, e a negociação volta na terça (27).",
+      "texto": "Cerca de 70% dos mais de 2.300 membros do sindicato da fábrica da Micron em Taoyuan rejeitaram o novo modelo de participação nos lucros, que prevê bônus trimestrais a partir do ano fiscal de 2027. Os trabalhadores pedem 15% do lucro operacional e um bônus único equivalente a 83 salários. O sindicato de Taichung já fechou acordo. A Micron produz de 50% a 60% de seus chips de memória em Taiwan.",
+      "fonte": "The Manila Times (AFP)",
+      "link": "https://www.manilatimes.net/2026/10/24/business/foreign-business/micron-taiwan-workers-reject-bonus-proposal/2452756",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "DigiTimes",
+            "link": "https://www.digitimes.com/news/a20261023PD239/strike-taiwan-micron-management-2026.html"
+          },
+          {
+            "veiculo": "FinanceFeeds",
+            "link": "https://financefeeds.com/micron-mu-stock-856-taoyuan-union-rejects-offer-talks-27-october-bull-950-bear-800/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h3",
+      "chapeu": "",
+      "titulo": "NVIDIA confirma bug de tela preta no driver GeForce 621.01",
+      "linha_fina": "Vídeos travam e monitores apagam por alguns segundos; voltar ao driver 617.42 resolve.",
+      "texto": "A NVIDIA reconheceu no fórum oficial um bug no driver Game Ready 621.01, lançado em 21/10, e abriu investigação. Usuários relatam vídeos congelando e telas pretas por alguns segundos no Chrome, no Edge e às vezes no VLC, principalmente com a RTX 5080. O sistema se recupera sozinho. Não há data para a correção.",
+      "fonte": "ComputerBase",
+      "link": "https://www.computerbase.de/news/grafikkarten/geforce-treiber-621-01-nvidia-bestaetigt-blackscreens-nach-update.99982/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "NVIDIA (fórum oficial)",
+            "link": "https://www.nvidia.com/en-us/geforce/forums/game-ready-drivers/13/591981/geforce-grd-62101-feedback-thread-released-102126/"
+          },
+          {
+            "veiculo": "PC Games Hardware",
+            "link": "https://www.pcgameshardware.de/Grafikkarten-Grafikkarte-97980/News/Geforce-62101-Nvidia-bestaetigt-Probleme-1557703/"
+          },
+          {
+            "veiculo": "Adrenaline",
+            "link": "https://www.adrenaline.com.br/nvidia/nvidia-registra-bug-no-driver-621-01-que-causa-travamentos-na-tela/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h4",
+      "chapeu": "",
+      "titulo": "Ferramenta gratuita libera até 80% mais desempenho de IA nas RTX 30",
+      "linha_fina": "Módulo para Linux remove o limite dos Tensor Cores em FP16 e BF16 das GeForce Ampere.",
+      "texto": "O projeto de código aberto gpu-unlock, do desenvolvedor Zagitta, libera nas GeForce RTX 30 a mesma taxa de instruções FP16 e BF16 das placas profissionais, sem gravar nova VBIOS. Em testes, a RTX 3090 Ti passou de 87,5 para 157,4 TFLOPS em BF16. Em uso real, o processamento de prompts em LLMs fica de 14% a 36% mais rápido, mas a geração de tokens não muda. A ferramenta é experimental e não traz ganho comprovado em jogos.",
+      "fonte": "Notebookcheck",
+      "link": "https://www.notebookcheck.net/Nvidia-RTX-3090-performance-nearly-doubles-with-free-GPU-unlock-but-there-s-a-catch.1432805.0.html",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "GitHub (Zagitta/gpu-unlock, fonte primária)",
+            "link": "https://github.com/Zagitta/gpu-unlock"
+          },
+          {
+            "veiculo": "Wccftech",
+            "link": "https://wccftech.com/nvidia-rtx-30-40-gpus-get-faster-in-ai-llms-with-new-unlock-tool-but-prices-surge-too/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h5",
+      "chapeu": "",
+      "titulo": "Mod faz o FSR 4.1.2 Lite da AMD rodar nas placas Intel Arc",
+      "linha_fina": "Via OptiScaler, o upscaler da AMD empata com o XeSS em desempenho nos núcleos XMX.",
+      "texto": "Modders da comunidade OptiScaler fizeram o FSR 4.1.2 Lite rodar nos núcleos XMX das placas Intel Arc, em versão experimental só para DirectX 12. Na Arc B580, o upscaling levou cerca de 0,59 ms, contra 0,58 ms do XeSS. No The Witcher 3 com a Arc A770, foram 101,5 fps contra 101,1 fps. Usuários dizem que a imagem é melhor que a do XeSS, o que ainda não foi medido em testes controlados.",
+      "fonte": "TweakTown",
+      "link": "https://www.tweaktown.com/news/114275/modders-port-fsr-4-1-2-lite-to-intel-arcs-xmx-ai-cores-matching-xess-upscaling-performance/index.html",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Hardware Busters",
+            "link": "https://hwbusters.com/news/fsr-4-1-2-on-intel-arc-now-runs-on-xmx-cores-and-the-lite-model-keeps-pace-with-xess/"
+          },
+          {
+            "veiculo": "VideoCardz",
+            "link": "https://videocardz.com/newz/amd-fsr-4-1-2-now-runs-on-intel-arc-xmx-cores-matching-xess-performance-with-better-image-quality"
+          },
+          {
+            "veiculo": "Wccftech",
+            "link": "https://wccftech.com/amd-fsr-4-1-2-now-runs-on-intel-arc-xmx-cores-delivering-better-image-quality-than-xess-upscaling-with-similar-performance/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c1",
+      "chapeu": "",
+      "titulo": "HB20 lidera outubro, e Dolphin Mini é o vice entre os carros",
+      "linha_fina": "Parcial de emplacamentos até o dia 23 mostra o elétrico da BYD à frente de Argo e T-Cross.",
+      "texto": "Com os emplacamentos de 1º a 23 de outubro, o Hyundai HB20 lidera entre os automóveis, com 7.984 unidades. O BYD Dolphin Mini vem em segundo, com 6.200, seguido de Fiat Argo (6.097), VW T-Cross (5.279) e Renault Kwid (4.978). Entre os comerciais leves, a Fiat Strada soma 11.370 unidades. As parciais são de dados da Fenabrave e ainda podem mudar até o fechamento do mês.",
+      "fonte": "Diário da Mídia",
+      "link": "https://diariodamidia.com.br/hyundai-hb20-lidera-vendas-com-7984-unidades-e-alta-de-66",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Notícias Automotivas",
+            "link": "https://www.noticiasautomotivas.com.br/byd-dolphin-mini-acelera-e-pode-ser-o-primeiro-eletrico-a-liderar-o-ranking-mensal-em-outubro-enquanto-hyundai-hb20-segue-a-frente/"
+          },
+          {
+            "veiculo": "Car.Blog.BR",
+            "link": "https://www.car.blog.br/2026/10/carros-mais-vendidos-brasil-outubro-dia-23.html"
+          },
+          {
+            "veiculo": "Motor Vício",
+            "link": "https://www.motorvicio.com/2026/10/carros-mais-vendidos-no-dia-23-outubro-2026.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c2",
+      "chapeu": "",
+      "titulo": "Entorno do DF quase não emplaca elétricos, e suspeita de fraude cresce",
+      "linha_fina": "Levantamento aponta 57 eletrificados para 1,2 milhão de moradores, contra índice muito maior no DF.",
+      "texto": "Segundo levantamento do AutoPapo com dados da ABVE e do IBGE, as oito maiores cidades goianas do Entorno de Brasília, com cerca de 1,2 milhão de habitantes, emplacaram só 57 elétricos e híbridos desde 2022. No Distrito Federal, único lugar que isenta esses carros de IPVA sem limite de valor, são 2.539 por 100 mil habitantes. A diferença reforça a suspeita de que moradores de Goiás registrem os carros no DF para não pagar o imposto; Goiás investiga a prática desde 2024 na Operação Quíron.",
+      "fonte": "AutoPapo",
+      "link": "https://autopapo.com.br/noticia/fraude-cidades-vizinhas-de-brasilia-tem-12-milhao-de-moradores-e-quase-nenhum-carro-eletrico/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Governo de Goiás (Secretaria da Economia)",
+            "link": "https://goias.gov.br/economia/?p=63930"
+          },
+          {
+            "veiculo": "Metrópoles",
+            "link": "https://www.metropoles.com/distrito-federal/fraudes-explodem-apos-df-virar-atrativo-para-compra-de-carros-eletricos"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c3",
+      "chapeu": "",
+      "titulo": "Governo abre consulta para preparar a rede elétrica para carros elétricos",
+      "linha_fina": "O Ministério de Minas e Energia recebe contribuições sobre infraestrutura de recarga até 22 de novembro.",
+      "texto": "O Ministério de Minas e Energia abriu consulta pública de 30 dias sobre a infraestrutura de recarga de veículos elétricos e sua ligação com as redes de distribuição. A portaria é de 22 de outubro. O objetivo é fazer um diagnóstico da eletromobilidade no país, mapear barreiras regulatórias e incluir a demanda dos elétricos no planejamento das redes. A consulta não anuncia obras nem regras novas.",
+      "fonte": "Piranot",
+      "link": "https://www.piranot.com.br/2026/10/24/noticias/economia/recarga-carros-eletricos-consulta-mme/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Jornal de Brasília",
+            "link": "https://jornaldebrasilia.com.br/noticias/economia/mme-abre-consulta-sobre-infraestrutura-de-recarga-de-veiculos-eletricos-no-brasil/"
+          },
+          {
+            "veiculo": "Agência iNFRA",
+            "link": "https://agenciainfra.com/blog/mme-abre-consulta-para-incluir-veiculos-eletricos-no-planejamento-das-redes/"
+          },
+          {
+            "veiculo": "Cenário Energia",
+            "link": "https://cenarioenergia.com.br/2026/10/23/mme-consulta-publica-recarga-veiculos-eletricos-planejamento-redes/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c4",
+      "chapeu": "",
+      "titulo": "VW lança na China o sedã elétrico ID. UNYX 09, feito com a Xpeng",
+      "linha_fina": "O segundo modelo da parceria tem bateria CATL com recarga 5C e até 755 km de autonomia.",
+      "texto": "A Volkswagen Anhui lançou no sábado (24) o sedã elétrico ID. UNYX 09, segundo modelo desenvolvido com a Xpeng. Os preços vão de 179.900 a 249.900 yuans (cerca de US$ 26,8 mil a US$ 37,3 mil). A bateria LFP da CATL, de cerca de 92 kWh, aceita recarga 5C, com autonomia de até 755 km no ciclo chinês CLTC.",
+      "fonte": "CnEVPost",
+      "link": "https://cnevpost.com/2026/10/24/vw-anhui-launches-id-unyx-09/",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "CarNewsChina",
+            "link": "https://carnewschina.com/2026/10/24/volkswagen-launches-id-unyx-09-with-5c-fast-charging-in-china-starting-from-26800-usd/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c5",
+      "chapeu": "",
+      "titulo": "EUA propõem luz ciano para indicar carro em modo autônomo",
+      "linha_fina": "A proposta da NHTSA prevê lanternas opcionais e afrouxa regras para veículos sem volante.",
+      "texto": "A NHTSA, agência de segurança viária dos EUA, propôs mudar a norma de iluminação FMVSS 108 para criar luzes de marcação ciano, acesas só quando um sistema de direção automatizada estiver no controle. O item seria opcional, com cor, posição e visibilidade padronizadas. O texto também dispensa exigências pensadas para motoristas humanos em carros sem volante e terá 30 dias de consulta pública.",
+      "fonte": "Electrek",
+      "link": "https://electrek.co/2026/10/24/nhtsa-proposes-cyan-lights-for-robotaxis-following-mercedes-china/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Shattered.io",
+            "link": "https://shattered.io/nhtsa-cyan-ads-marker-lamps-self-driving-cars-2026/"
+          },
+          {
+            "veiculo": "Wilson's Media",
+            "link": "https://www.wilsonsmedia.com/feds-want-robotaxis-to-signal-im-driving-with-cyan-colored-lights/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c6",
+      "chapeu": "",
+      "titulo": "CATL confirma bateria Qilin no Nio Firefly com 560 km de autonomia",
+      "linha_fina": "O novo pacote de 60 kWh amplia o alcance em 140 km e pode ser trocado em carros já vendidos.",
+      "texto": "A CATL confirmou no sábado (24) que o pacote de 60 kWh do compacto elétrico Firefly, da Nio, usa sua bateria Qilin com células NCM. A autonomia sobe para 560 km no ciclo chinês, ante 420 km do pacote original de 42 kWh. Quem já tem o modelo pode fazer a troca nas estações de substituição de bateria da Nio.",
+      "fonte": "CnEVPost",
+      "link": "https://cnevpost.com/2026/10/24/catl-qilin-battery-nio-firefly-60-kwh/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Motor.es",
+            "link": "https://www.motor.es/noticias/nio-firefly-bateria-60-kwh-china-2026117143.html"
+          },
+          {
+            "veiculo": "CarNewsChina",
+            "link": "https://carnewschina.com/2026/10/19/nios-firefly-upgrades-lineup-with-new-60kwh-battery-model-launching-october-23-report-says/?source=newscura"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p1",
+      "chapeu": "",
+      "titulo": "Lula e Flávio encerram campanha com atos no Rio, em SP e em BH",
+      "linha_fina": "No último dia de propaganda de rua, os dois candidatos passaram pelos maiores colégios eleitorais do país.",
+      "texto": "No sábado (24), Lula fez caminhada em Copacabana, no Rio, pela manhã e encerrou a campanha à tarde na Avenida Paulista, em São Paulo. Flávio Bolsonaro participou de carreata e ato em Belo Horizonte, com Nikolas Ferreira e Tarcísio de Freitas, e à tarde foi à Barra da Tijuca, no Rio. Lula acusou o adversário de não ter compromisso com a verdade; no ato de BH, Flávio não discursou. Pelo calendário do TSE, caminhadas e carreatas eram permitidas até as 22h de sábado.",
+      "fonte": "Metrópoles",
+      "link": "https://www.metropoles.com/brasil/lula-flavio-bolsonaro-fazem-atos-de-campanha-as-vespera-segundo-turno",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Correio (BA)",
+            "link": "https://www.correio24horas.com.br/eleicoes/vespera-de-eleicao-lula-e-flavio-bolsonaro-fazem-ultimos-atos-de-campanha-neste-sabado-24-1026"
+          },
+          {
+            "veiculo": "Gazeta do Povo",
+            "link": "https://www.gazetadopovo.com.br/eleicoes/2026/lula-flavio-agenda-sabado-vespera-segundo-turno/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p2",
+      "chapeu": "",
+      "titulo": "TSE proíbe Meta de impulsionar contas de Flávio e Nikolas",
+      "linha_fina": "Liminar do corregedor eleitoral vale até o fim do 2º turno e prevê multa de R$ 500 mil por descumprimento.",
+      "texto": "Na noite de sábado (24), o corregedor-geral eleitoral, ministro Ricardo Villas Bôas Cueva, determinou que a Meta não amplie de forma artificial, no Instagram, as contas de Flávio Bolsonaro e do deputado Nikolas Ferreira (PL-MG); a distribuição orgânica segue permitida. O ministro disse que a medida é preventiva e não conclui que houve irregularidade. Na sexta (23), em ação da coligação de Lula, ele já havia mandado a Meta enviar relatórios a cada 6 horas sobre posts de Nikolas e Pablo Marçal. Nikolas afirma que seu engajamento vem dos seguidores.",
+      "fonte": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/blogs/caio-junqueira/eleicoes/tse-ordena-que-meta-nao-impulsione-manualmente-contas-de-flavio-e-nikolas/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Diário do Centro do Mundo",
+            "link": "https://www.diariodocentrodomundo.com.br/tse-proibe-meta-favorecer-flavio-bolsonaro-nikolas-ferreira"
+          },
+          {
+            "veiculo": "Poder360",
+            "link": "https://www.poder360.com.br/poder-eleicoes-2026/tse-manda-meta-enviar-relatorios-a-cada-6-horas-sobre-nikolas-e-marcal/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p3",
+      "chapeu": "",
+      "titulo": "DF: Celina tem 59% e Grass, 41% dos válidos, diz Datafolha",
+      "linha_fina": "O Distrito Federal é um dos seis lugares com 2º turno para governador neste domingo.",
+      "texto": "O Datafolha divulgado no sábado (24) mostra Celina Leão (PP) com 59% dos votos válidos e Leandro Grass (PT) com 41% na disputa pelo governo do DF; na quinta (22), o placar era de 60% a 40%. A pesquisa ouviu 1.619 eleitores em 23 e 24 de outubro (registro DF-03453/2026); os veículos divergem sobre a margem de erro, de 2 ou 3 pontos. A Quaest registrou 61% a 39%. Também há 2º turno para governador no Acre, no Amazonas, no Espírito Santo, no Rio Grande do Norte e no Tocantins.",
+      "fonte": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/datafolha-df-celina-tem-59-dos-votos-validos-no-2o-turno-grass-41/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Poder360",
+            "link": "https://www.poder360.com.br/poder-eleicoes-2026/celina-tem-59-dos-votos-validos-e-grass-41-no-df-diz-datafolha/"
+          },
+          {
+            "veiculo": "Gazeta do Povo",
+            "link": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/datafolha-governador-distrito-federal-outubro-2026-vespera-segundo-turno/"
+          },
+          {
+            "veiculo": "Gazeta do Povo (Quaest)",
+            "link": "https://www.gazetadopovo.com.br/eleicoes/2026/pesquisa-eleitoral-2026/quaest-governador-distrito-federal-outubro-2026-vespera-segundo-turno/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p4",
+      "chapeu": "",
+      "titulo": "Irã ameaça navios dos EUA enquanto Trump fala em novos ataques",
+      "linha_fina": "Chefe das Forças Armadas iranianas diz que não permitirá a entrada de navios americanos no Golfo Pérsico.",
+      "texto": "No sábado (24), o chefe do Estado-Maior iraniano, Ali Abdollahi, disse que o país não deixará navios militares dos EUA entrarem no Golfo Pérsico. Na sexta (23), em comício na Flórida, Donald Trump disse que os EUA podem repetir em menor escala a ofensiva Epic Fury, iniciada em fevereiro, se não houver acordo. A Guarda Revolucionária afirmou que dois superpetroleiros atingiram minas perto do Estreito de Ormuz, o que não foi verificado de forma independente. Segundo a Al Jazeera, o barril do Brent chegou a cerca de US$ 117.",
+      "fonte": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "The New Arab",
+            "link": "https://www.newarab.com/news/iran-vows-block-us-warships-gulf-amid-trump-threats"
+          },
+          {
+            "veiculo": "ANI",
+            "link": "https://aninews.in/news/world/middle-east/iran-warns-us-against-entering-persian-gulf-as-irgc-claims-2-supertankers-hit-naval-mines-near-strait-of-hormuz20261024123023/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p5",
+      "chapeu": "",
+      "titulo": "Protestos levam centenas de milhares às ruas na França",
+      "linha_fina": "Os atos contra o custo de vida terminaram com confrontos em Paris e em outras cidades.",
+      "texto": "A França teve no sábado (24) mais um dia de protestos contra o custo de vida e a falta de verbas para a educação, movimento que começou no mês passado em escolas de Paris. O Ministério do Interior contou 410 mil manifestantes; os organizadores falam em mais de 800 mil. Houve confrontos com a polícia em Paris, Marselha e Lyon, e cerca de mil pessoas foram detidas. O ministro do Interior, Laurent Nuñez, atribuiu a violência a grupos de extrema esquerda.",
+      "fonte": "Euronews",
+      "link": "https://www.euronews.com/2026/10/24/new-round-of-protests-underway-in-france-as-police-fire-tear-gas-at-demonstrators",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Reuters (via The Spokesman-Review)",
+            "link": "https://www.spokesman.com/stories/2026/oct/24/violence-flares-in-paris-after-largely-peaceful-pr/"
+          },
+          {
+            "veiculo": "Al Jazeera",
+            "link": "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert"
+          },
+          {
+            "veiculo": "CNN",
+            "link": "https://www.cnn.com/2026/10/24/europe/france-weekend-protests-detained-latam-intl"
+          }
+        ]
+      }
+    }
+  ]
+}
