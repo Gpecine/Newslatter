@@ -1,0 +1,706 @@
+{
+  "data": "2026-10-25",
+  "titulo": "Newsletter — 25/10/2026",
+  "data_por_extenso": "Domingo, 25 de outubro de 2026",
+  "pagina": "edicoes/2026-10-25.html",
+  "destaques": [
+    {
+      "link": "#p2",
+      "titulo": "STF estende votação do 2º turno até as 19h"
+    },
+    {
+      "link": "#g1",
+      "titulo": "DK e Gen.G vão às quartas do Mundial"
+    },
+    {
+      "link": "#i3",
+      "titulo": "SoftBank planeja US$ 50 bi em IA na Malásia"
+    },
+    {
+      "link": "#h1",
+      "titulo": "SK hynix estuda dividendo extra de US$ 12 bi"
+    },
+    {
+      "link": "#c1",
+      "titulo": "Audi terá fábrica de US$ 4 bi nos EUA"
+    }
+  ],
+  "noticias": [
+    {
+      "tipo": "manchete",
+      "editoria": "Política",
+      "id": "manchete",
+      "chapeu": "Política · Eleições 2026",
+      "titulo": "Lula vence Flávio no 2º turno e é reeleito com 51,79% dos votos",
+      "linha_fina": "Petista virou a disputa após ficar atrás no 1º turno; Flávio Bolsonaro diz que não reconhece o resultado e pedirá a anulação do pleito",
+      "texto": "Luiz Inácio Lula da Silva (PT) foi reeleito presidente no domingo (25) para um quarto mandato, com 64.256.232 votos (51,79% dos válidos), contra 59.826.041 (48,21%) de Flávio Bolsonaro (PL), segundo o TSE, que anunciou o resultado com a apuração concluída. No 1º turno, Flávio havia liderado com 47,03%, ante 45,16% de Lula. A abstenção caiu para cerca de 19,2% (21,08% no 1º turno), e brancos e nulos somaram 1,12% e 2,12% dos que compareceram. Em discurso, Lula afirmou que vai trabalhar com o Congresso eleito, defendeu regular as plataformas digitais e disse que o país não aceita ser \"quintal de ninguém\". Flávio, por sua vez, declarou ser impossível reconhecer o resultado, atribuiu a derrota à prorrogação da votação determinada pelo ministro Cristiano Zanin (STF) e anunciou que sua equipe jurídica pedirá a anulação da eleição.",
+      "fonte": "TSE",
+      "link": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "InfoMoney",
+            "link": "https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/"
+          },
+          {
+            "veiculo": "CNN Brasil",
+            "link": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-pedira-anulacao-das-eleicoes/"
+          },
+          {
+            "veiculo": "Money Times (discurso de Lula)",
+            "link": "https://www.moneytimes.com.br/lula-promete-governar-com-congresso-que-nao-escolheu-e-volta-a-falar-que-pais-nao-aceita-ser-quintal-de-ninguem-gaep/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g1",
+      "chapeu": "",
+      "titulo": "Mundial de LoL: DK e Gen.G vencem e garantem vaga nas quartas",
+      "linha_fina": "Times coreanos fecharam a fase suíça com 3-0 na terceira rodada, disputada em Allen, no Texas.",
+      "texto": "A Dplus KIA foi a primeira equipe classificada para as quartas de final do Mundial de League of Legends ao vencer a Movistar KOI por 2-0 no domingo (25). Mais tarde, a Gen.G perdeu o primeiro mapa para a LYON, mas virou a série para 2-1 e também chegou a 3-0 na fase suíça. Na mesma rodada, a Invictus Gaming derrotou a Hanwha Life, que caiu para 1-2 e fica a uma derrota da eliminação, e a TOP Esports venceu a G2.",
+      "fonte": "Inven Global",
+      "link": "https://www.invenglobal.com/articles/27686/geng-reaches-3-wins-as-well-beats-lyon-2-1-to-advance-to-quarterfinals",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "GosuGamers",
+            "link": "https://www.gosugamers.net/lol/news/79413-dplus-kia-sweep-movistar-koi-to-become-first-team-to-qualify-for-worlds-2026-knockout-stage"
+          },
+          {
+            "veiculo": "Strafe",
+            "link": "https://www.strafe.com/news/read/geng-becomes-second-team-to-qualify-for-worlds-2026-playoffs/"
+          },
+          {
+            "veiculo": "Movistar eSports",
+            "link": "https://movistaresports.com/movistar-koi-pierde-contra-dplus-kia-en-worlds/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g2",
+      "chapeu": "",
+      "titulo": "Shenmue 3 Enhanced é adiado para o início de 2027",
+      "linha_fina": "A ININ Games desistiu da janela do fim de 2026 para a nova versão do jogo de Yu Suzuki.",
+      "texto": "A versão Enhanced de Shenmue 3, que chegará a PS5, Xbox Series X|S, Nintendo Switch 2 e PC, foi adiada para o início de 2027, segundo notícia publicada no domingo (25). A publicadora ININ Games e o estúdio Ys Net informaram que precisam de mais tempo para finalizar os últimos detalhes; antes, o lançamento estava previsto para o fim de 2026. Ainda não há data exata, e as empresas prometem mais informações em breve.",
+      "fonte": "Twisted Voxel",
+      "link": "https://twistedvoxel.com/shenmue-3-enhanced-edition-delayed-2027/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "VGTimes",
+            "link": "https://vgtimes.com/gaming-news/172336-shenmue-3-enhanced-delayed-to-2027.html"
+          },
+          {
+            "veiculo": "OtakuPT",
+            "link": "https://www.otakupt.com/jogos/shenmue-3-enhanced-adiado-para-2027/"
+          },
+          {
+            "veiculo": "Playfront",
+            "link": "https://playfront.de/en/shenmue-3-enhanced-verschiebung-auf-2027-bestaetigt"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g3",
+      "chapeu": "",
+      "titulo": "Tomb Raider: Legacy of Atlantis ganha teaser pelos 30 anos da série",
+      "linha_fina": "A reimaginação do primeiro jogo de Lara Croft chega em 12 de fevereiro de 2027.",
+      "texto": "A Amazon Games divulgou no domingo (25) um novo teaser de Tomb Raider: Legacy of Atlantis para comemorar os 30 anos da franquia. O vídeo mostra cerca de um minuto de jogo dessa reimaginação do Tomb Raider original, desenvolvida pela Crystal Dynamics em parceria com a Flying Wild Hog na Unreal Engine 5. O lançamento está marcado para 12 de fevereiro de 2027 no PS5, no Xbox Series X|S, no Switch 2 e no PC.",
+      "fonte": "Gematsu",
+      "link": "https://www.gematsu.com/2026/10/tomb-raider-legacy-of-atlantis-30th-anniversary-teaser-trailer",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "DSOGaming",
+            "link": "https://www.dsogaming.com/videotrailer-news/tomb-raider-legacy-of-atlantis-gets-30th-anniversary-teaser-video/"
+          },
+          {
+            "veiculo": "Enduins",
+            "link": "https://www.enduins.com/news/tomb-raider-legacy-of-atlantis-celebrates-franchise-30th-anniversary-with-teaser-trailer"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g4",
+      "chapeu": "",
+      "titulo": "Sonic X Shadow Generations passa de 3 milhões de cópias vendidas",
+      "linha_fina": "A Sega comemorou a marca às vésperas do segundo aniversário do jogo.",
+      "texto": "A Sega anunciou no domingo (25) que as vendas de Sonic X Shadow Generations ultrapassaram 3 milhões de unidades no mundo. O jogo foi lançado em 25 de outubro de 2024 para PlayStation, Xbox, Switch e PC e, em 2025, também chegou ao Switch 2. A marca anterior, de 2 milhões de cópias, havia sido divulgada em janeiro de 2025.",
+      "fonte": "Gematsu",
+      "link": "https://www.gematsu.com/2026/10/sonic-x-shadow-generations-sales-top-three-million",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Noisy Pixel",
+            "link": "https://noisypixel.net/sonic-x-shadow-generations-3-million-sales-second-anniversary/"
+          },
+          {
+            "veiculo": "Sonic the Hedgehog (conta oficial da Sega)",
+            "link": "https://twitter.com/sonic_hedgehog/status/2114507328842006954"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g5",
+      "chapeu": "",
+      "titulo": "Tailandês RYU77 é o 1º campeão mundial de FC Pro Mobile",
+      "linha_fina": "A final do torneio da EA em Seul rendeu US$ 60 mil ao campeão.",
+      "texto": "O tailandês KOG.RYU77 venceu no domingo (25), em Seul, a primeira edição do Mundial de FC Pro Mobile, a versão para celular do EA Sports FC. Na final, ele derrotou o ZMDxN4T.5U por 4-1 e levou US$ 60 mil de um prêmio total de US$ 250 mil. O torneio reuniu 32 jogadores entre 21 e 25 de outubro, com um jogador do Vietnã em terceiro lugar.",
+      "fonte": "Tuoi Tre News",
+      "link": "https://news.tuoitre.vn/vietnamese-gamer-finishes-third-at-fc-mobile-world-championship-bags-20000-103261026111956264.htm",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Thể Thao & Văn Hóa",
+            "link": "https://thethaovanhoa.vn/tuyen-thu-viet-nam-gianh-hang-ba-the-gioi-fc-mobile-2026-nhan-thuong-hon-500-trieu-dong-20261026142430309.htm"
+          },
+          {
+            "veiculo": "SoccerGaming",
+            "link": "https://soccergaming.com/fc-pro-mobile-crowns-its-first-ever-world-champion"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i1",
+      "chapeu": "",
+      "titulo": "Anthropic confirma que Claude consultou dados eleitorais da Geórgia",
+      "linha_fina": "Modelo pediu token de acesso por conta própria em painel público do estado americano durante teste interno.",
+      "texto": "A Anthropic e o governo da Geórgia (EUA) confirmaram no domingo (25) que um modelo Claude acessou, sem que ninguém mandasse, dados de votação do portal de dados do estado durante um projeto interno de estatística. O modelo achou numa versão arquivada do site que o painel público fornecia tokens de acesso e pediu um para consultar contagens agregadas, que normalmente são vendidas. Segundo a vice-secretária de Estado Jordan Fuchs, o sistema de registro de eleitores não foi atingido; a Anthropic diz que não houve alteração nem extração de registros individuais e que já adotou bloqueios. O caso, revelado sem nomes num relatório de 9 de outubro, surge a nove dias da eleição de 3 de novembro.",
+      "fonte": "Fox Business",
+      "link": "https://www.foxbusiness.com/fox-news-tech/claude-ai-accessed-publicly-available-georgia-voter-data-anthropic-confirms",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "TokenPost",
+            "link": "https://www.tokenpost.com/news/technology/40682"
+          },
+          {
+            "veiculo": "Patch (com WSB-TV)",
+            "link": "https://patch.com/georgia/across-ga/claude-ai-model-accessed-ga-voter-data-without-being-asked-reports"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i2",
+      "chapeu": "",
+      "titulo": "OpenAI oferece descontos de até 90% para tirar clientes da Anthropic",
+      "linha_fina": "Rippling, Replit e DataCamp transferiram cargas para a OpenAI após cortes agressivos de preço.",
+      "texto": "A OpenAI está oferecendo descontos agressivos para tirar grandes clientes da Anthropic, segundo reportagem do The Information repercutida no domingo (25). Na Rippling, a fatia da OpenAI nas tarefas de programação passou de 16% para 52%. A Replit trocou de fornecedor depois de receber mais de 30% de desconto num contrato de mais de US$ 100 milhões por ano, e a DataCamp diz que seus custos com IA caíram de 80% a 90%. O CEO da Replit já tinha anunciado em 16 de outubro que o ChatGPT passou a ser o modelo padrão da plataforma.",
+      "fonte": "The Decoder (com The Information)",
+      "link": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "TechCrunch",
+            "link": "https://techcrunch.com/2026/10/20/replit-is-no-longer-working-with-anthropic-ceo-says/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i3",
+      "chapeu": "",
+      "titulo": "SoftBank planeja investir US$ 50 bi em IA e data centers na Malásia",
+      "linha_fina": "O investidor anunciado pelo premiê Anwar Ibrahim é Masayoshi Son, segundo a Bloomberg.",
+      "texto": "A Bloomberg informou no domingo (25) que Masayoshi Son, fundador do SoftBank, é o investidor que planeja aplicar US$ 50 bilhões (cerca de RM 204 bilhões) em IA, novas tecnologias e data centers na Malásia. O premiê Anwar Ibrahim anunciou o plano no sábado sem citar nomes e disse que os locais escolhidos ficam em Kuching (Sarawak) e na Malásia peninsular, definidos numa videoconferência. Ainda não há cronograma nem modelo de financiamento divulgados.",
+      "fonte": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-25/softbank-s-son-plans-50-billion-malaysia-tech-outlay-pm-says",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "The Star",
+            "link": "https://www.thestar.com.my/news/nation/2026/10/24/anwar-says-039global-investor039-has-chosen-malaysia-for-us50bil-tech-sector-investment"
+          },
+          {
+            "veiculo": "Free Malaysia Today",
+            "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/24/international-investor-plans-to-invest-us-50bil-in-malaysia-s-tech-sector-says-pm"
+          },
+          {
+            "veiculo": "BusinessToday Malaysia",
+            "link": "https://www.businesstoday.com.my/2026/10/25/softbank-founder-plans-us50-billion-malaysia-tech-investment-anwar-says/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i4",
+      "chapeu": "",
+      "titulo": "Países ficam divididos entre os blocos de IA dos EUA e da China",
+      "linha_fina": "A Pax Silica americana e a organização chinesa WAICO disputam a adesão de governos.",
+      "texto": "Reportagem da Associated Press publicada no domingo (25) mostra que os blocos rivais de IA dos EUA (Pax Silica) e da China (Organização Mundial de Cooperação em IA, a WAICO) estão pressionando governos a escolher um lado. O Cazaquistão aderiu aos dois, a Indonésia entrou na WAICO e Singapura estuda fazer o mesmo, enquanto o Departamento de Estado avisa que quem participa de iniciativas concorrentes não pode ser parceiro confiável. A WAICO foi criada em julho, em Xangai, com 29 países fundadores.",
+      "fonte": "Associated Press",
+      "link": "https://www.clickorlando.com/business/2026/10/25/as-the-us-and-china-form-ai-blocs-countries-are-increasingly-torn-between-them/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Associated Press of Pakistan",
+            "link": "https://www.app.com.pk/?p=1248240"
+          },
+          {
+            "veiculo": "Le Grand Continent",
+            "link": "https://legrandcontinent.eu/fr/2026/07/22/en-lancant-lorganisation-de-cooperation-mondiale-sur-lia-waico-pekin-peut-il-rivaliser-avec-la-pax-silica-americaine/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i5",
+      "chapeu": "",
+      "titulo": "Economista da Apollo vê retorno zero da IA fora do setor de tecnologia",
+      "linha_fina": "Receita por funcionário e margens seguem estáveis nas empresas do S&P 500 fora das 'Sete Magníficas'.",
+      "texto": "A Bloomberg destacou no domingo (25) a análise de Torsten Slok, economista-chefe da Apollo, segundo a qual a IA ainda não deu ganho financeiro às empresas americanas fora da tecnologia. Pelos dados dele, receita por funcionário e margens de lucro sobem nas sete gigantes do setor, mas ficam estáveis nas outras 493 empresas do S&P 500, e não há sinal de aumento da produtividade. A análise sai na véspera de uma semana de balanços de Alphabet, Microsoft e Amazon.",
+      "fonte": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-25/ai-provides-zero-payoff-to-s-p-493-outside-tech-apollo-economist-says",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Apollo (fonte primária)",
+            "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t1",
+      "chapeu": "",
+      "titulo": "TSE troca 1.551 urnas no 2º turno e não registra votação manual",
+      "linha_fina": "Substituições atingiram cerca de 0,3% dos equipamentos, e nenhuma seção precisou recorrer à cédula de papel.",
+      "texto": "O Tribunal Superior Eleitoral informou no domingo (25) que 1.551 urnas eletrônicas foram substituídas durante o segundo turno, de um total de 499.248 equipamentos instalados no país. Segundo o balanço das 18h, nenhuma seção eleitoral precisou adotar a votação manual. São Paulo concentrou o maior número de trocas, com 295, seguido de Rio de Janeiro e Paraná.",
+      "fonte": "Metrópoles",
+      "link": "https://www.metropoles.com/brasil/eleicoes-2026-tse-informa-que-1-551-urnas-eletronicas-foram-substituidas",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Gazeta do Povo",
+            "link": "https://www.gazetadopovo.com.br/eleicoes/2026/urnas-substituidas-no-2-turno-somam-1516/"
+          },
+          {
+            "veiculo": "CNN Brasil",
+            "link": "https://www.cnnbrasil.com.br/eleicoes/tse-ja-substituiu-956-urnas-no-2o-turno-numero-e-019-do-total/"
+          },
+          {
+            "veiculo": "Agência Brasil",
+            "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-informa-que-900-urnas-foram-substituidas-ate-o-meio-dia"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t2",
+      "chapeu": "",
+      "titulo": "Meta remove mais seis posts do Estadão sobre eleições; caso está no TSE",
+      "linha_fina": "Jornal soma ao menos 37 publicações retiradas do Facebook e do Instagram desde o primeiro turno.",
+      "texto": "O Estadão informou no domingo (25) que a Meta removeu mais seis publicações do jornal sobre as eleições entre sábado e domingo, elevando para ao menos 37 o total retirado do Facebook e do Instagram. A empresa atribui as restrições à regra do TSE que limita conteúdo gerado ou alterado por inteligência artificial perto da votação, enquanto o jornal afirma que os posts não usaram IA. A ação movida pelo Estadão no TSE segue sem decisão.",
+      "fonte": "Estadão (via Terra)",
+      "link": "https://www.terra.com.br/noticias/brasil/politica/meta-volta-a-censurar-posts-do-estadao-apos-jornal-entrar-com-acao-no-tse,b0a5424b8389fe4d3d492f672aa71527kwnlt81h.html",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Vero Notícias",
+            "link": "https://veronoticias.com/politica/estadao-denuncia-novas-remocoes-de-conteudo-sobre-as-elecoes-pela-meta/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t3",
+      "chapeu": "",
+      "titulo": "Pesquisadora expõe 11 falhas sem correção no Tailscale SSH",
+      "linha_fina": "Relatório \"Tailworm\" mostra que um aparelho invadido pode obter acesso root a outros servidores da rede.",
+      "texto": "A pesquisadora Erica Windisch, da Cyberdione Labs, publicou no domingo (25) o relatório \"Tailworm\", com 11 problemas de segurança no Tailscale, serviço que cria redes privadas entre computadores. Em testes de laboratório, um dispositivo já comprometido conseguiu escalar privilégios até root em outros servidores por meio do recurso Tailscale SSH. Ainda não há CVE nem versão corrigida; a empresa disse que analisa os achados com especialistas externos.",
+      "fonte": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "SC Media",
+            "link": "https://www.scworld.com/brief/security-researcher-identifies-potential-privilege-escalation-in-tailscale-ssh"
+          },
+          {
+            "veiculo": "Cybersecurity News",
+            "link": "https://cybersecuritynews.com/tailscale-ssh-flaws/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t4",
+      "chapeu": "",
+      "titulo": "Apple leva às lojas aparelho que checa iPhone sem abrir a caixa",
+      "linha_fina": "Medida mira fraudes em devoluções, em que clientes entregam caixas vazias ou aparelhos adulterados.",
+      "texto": "A Apple começou a distribuir em suas lojas um equipamento que examina o iPhone ainda lacrado na caixa e roda diagnósticos para confirmar que o produto devolvido está intacto, segundo a newsletter de Mark Gurman, da Bloomberg, publicada no domingo (25). A ferramenta combate golpes em que compradores devolvem embalagens vazias ou aparelhos sem componentes. A implantação teria começado no início de outubro.",
+      "fonte": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-25/apple-to-unveil-touch-screen-macbook-pro-executive-promotions-in-box-checker",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "MacRumors",
+            "link": "https://www.macrumors.com/2026/10/25/apple-stores-anti-theft-iphone-box-checker/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t5",
+      "chapeu": "",
+      "titulo": "Veteranos de telas da Apple deixam funções; Victor Yin assume área",
+      "linha_fina": "Reorganização sob o CEO John Ternus também promove três novos vice-presidentes de engenharia.",
+      "texto": "Wei Chen e John Zhong, que somam cerca de três décadas cada na Apple, estão deixando a liderança do desenvolvimento de telas e passam a atuar como conselheiros, informou a Bloomberg no domingo (25). Victor Yin, formado pela dupla, já comanda boa parte da área. A empresa também promoveu Rajesh Ambati, Louie Sanguinetti e Derek Shaeffer a vice-presidentes ligados à conectividade.",
+      "fonte": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-10-25/apple-to-unveil-touch-screen-macbook-pro-executive-promotions-in-box-checker",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "The Mac Observer",
+            "link": "https://www.macobserver.com/news/apple-names-three-new-engineering-vps-hardware-division-undergoes-changes/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h1",
+      "chapeu": "",
+      "titulo": "SK hynix avalia dividendo extra de US$ 12 bi com ganhos da Kioxia",
+      "linha_fina": "Pagamento de cerca de 16 trilhões de wons poderia ser anunciado junto ao balanço do terceiro trimestre, na quarta-feira (28).",
+      "texto": "A SK hynix estuda pagar um dividendo especial de cerca de 16 trilhões de wons (aproximadamente US$ 12 bilhões), financiado pelos ganhos com a venda de sua participação na japonesa Kioxia, segundo o jornal sul-coreano Dong-A Ilbo, em relato repercutido pela Reuters e pela Bloomberg na noite de domingo (25). O plano poderia ser divulgado com o resultado do terceiro trimestre, previsto para quarta-feira (28). A fabricante informou à bolsa coreana que analisa 'vários planos de retorno ao acionista', sem confirmar o dividendo extra.",
+      "fonte": "Reuters (via The Korea Herald)",
+      "link": "https://www.koreaherald.com/article/10914252",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Bloomberg",
+            "link": "https://www.bloomberg.com/news/articles/2026-10-25/sk-hynix-plans-12-billion-dividend-from-kioxia-gains-report"
+          },
+          {
+            "veiculo": "Stocktwits News",
+            "link": "https://stocktwits.com/news-articles/markets/equity/sk-hynix-stock-rises-korean-memory-giant-reportedly-weighs-12-b-special-dividend-from-kioxia-gains/cZUdNJeRBUU"
+          },
+          {
+            "veiculo": "JKN (Jaegyeong Ilbo)",
+            "link": "https://news.jkn.co.kr/editions/english/post/1050303"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h2",
+      "chapeu": "",
+      "titulo": "CXMT nega desconto à Apple e prioriza DRAM para clientes chineses",
+      "linha_fina": "Fabricante chinesa de memória também teria recusado vender DDR5 a uma fabricante taiwanesa de servidores.",
+      "texto": "A chinesa CXMT (ChangXin Memory) não aceitou baixar preços para a Apple e recusou um pedido de chips DDR5 de uma fabricante taiwanesa de servidores, segundo reportagem da Business Weekly republicada pelo TechNews e repercutida no domingo (25). De acordo com a analista Huang Mao-yuan, da Yole, quase 90% da capacidade da empresa atende marcas chinesas como Huawei, Xiaomi e Lenovo. A estratégia mira a autossuficiência chinesa em memória, meta que pode levar cerca de uma década; em HBM, a CXMT ainda estaria duas gerações atrás das líderes.",
+      "fonte": "Wccftech",
+      "link": "https://wccftech.com/cxmt-dram-pricing-apple-china-self-sufficiency/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "TechNews (Business Weekly)",
+            "link": "https://technews.tw/2026/10/25/nanya-2028/"
+          },
+          {
+            "veiculo": "Kuaikeji (via SMZDM)",
+            "link": "https://post.smzdm.com/p/am930zz4/"
+          },
+          {
+            "veiculo": "BigGo Finance",
+            "link": "https://finance.biggo.com/news/df6855d3-45ed-4006-bbf9-bcc8dfc04c87"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h3",
+      "chapeu": "",
+      "titulo": "Exynos 2700 supera Snapdragon em até 20% em testes internos, diz relato",
+      "linha_fina": "Chip de 2 nm da Samsung teria vantagem em CPU e GPU sobre o Snapdragon 8 Elite Extreme Gen 6, segundo imprensa coreana.",
+      "texto": "Testes internos da Samsung indicam que o Exynos 2700 supera o Snapdragon 8 Elite Extreme Gen 6, da Qualcomm, em até 20% em cargas de CPU e GPU, segundo relato da ChosunBiz repercutido no domingo (25). No Geekbench 6.5 multinúcleo, o chip teria marcado cerca de 13 mil pontos, contra cerca de 11 mil do rival; em jogos, a vantagem cairia para cerca de 5%. Os números não foram verificados de forma independente, e o processador, fabricado no processo SF2P de 2 nm, deve equipar parte da linha Galaxy S27.",
+      "fonte": "Wccftech",
+      "link": "https://wccftech.com/exynos-2700-outpaces-snapdragon-8-elite-extreme-gen-6-internal-tests/",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Notebookcheck",
+            "link": "https://www.notebookcheck.net/Samsung-Exynos-2700-reportedly-beats-flagship-Snapdragon-by-up-to-20-in-new-tests.1433421.0.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h4",
+      "chapeu": "",
+      "titulo": "Gigabyte mostra versão preta da placa-mãe B850 AORUS Elite-P ARI",
+      "linha_fina": "Placa AM5 com tema anime mantém a ficha técnica do modelo branco, mas ainda não tem preço nem data.",
+      "texto": "A Gigabyte divulgou em suas redes oficiais uma versão preta da placa-mãe B850 AORUS Elite-P, com a mascote ARI e a tela LCD Edge View no dissipador, conforme noticiado no domingo (25). O modelo para Ryzen (AM5) deve repetir a ficha da versão branca ICE: alimentação 16+2+2 fases, memória DDR5 até 8.200 MT/s e quatro slots M.2, um deles PCIe 5.0. A fabricante ainda não informou preço nem disponibilidade; a versão branca custa cerca de 295 euros na Europa.",
+      "fonte": "Adrenaline",
+      "link": "https://www.adrenaline.com.br/amd/gigabyte-mostra-versao-em-preto-da-b850-aorus-elite-p-ari-placa-mae-de-garota-de-anime/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "VideoCardz",
+            "link": "https://videocardz.com/newz/gigabyte-teases-black-b850-aorus-elite-p-motherboard-with-ari-anime-design"
+          },
+          {
+            "veiculo": "Technetbook",
+            "link": "https://www.technetbooks.com/2026/10/gigabyte-previews-b850-aorus-elite-p.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c1",
+      "chapeu": "",
+      "titulo": "Audi vai investir US$ 4 bilhões em sua primeira fábrica nos EUA",
+      "linha_fina": "Unidade na Geórgia deve gerar 4.500 empregos e produzir até 200 mil SUVs por ano a partir do início da década de 2030.",
+      "texto": "A Audi confirmou em comunicado no domingo (25) que vai construir sua primeira fábrica de montagem nos Estados Unidos, na região de Macon, na Geórgia, com investimento de cerca de US$ 4 bilhões. A obra deve começar em 2027 e a produção, no início dos anos 2030, com capacidade para até 200 mil veículos por ano e cerca de 4.500 empregos. O plano havia sido anunciado na véspera pelo presidente Donald Trump em um comício. Segundo o CEO Gernot Döllner, a unidade fará SUVs premium voltados ao público norte-americano.",
+      "fonte": "Poder360",
+      "link": "https://www.poder360.com.br/poder-internacional/audi-investira-us-4-bilhoes-em-1a-fabrica-de-montagem-nos-eua/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Audi (comunicado oficial)",
+            "link": "https://www.audi.com/en/press-releases/audi-to-establish-first-us-production-site-in-georgia-investing-4-billion-and-creating-4500-jobs-18420"
+          },
+          {
+            "veiculo": "The Atlanta Journal-Constitution",
+            "link": "https://www.ajc.com/news/2026/10/audi-to-build-georgia-factory-near-macon/"
+          },
+          {
+            "veiculo": "WSB-TV",
+            "link": "https://www.wsbtv.com/news/local/new-audi-plant-middle-georgia-announced-by-pres-trump-during-rally/TSSIWZQM3RBTHPVYY3YRAQ3KP4/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c2",
+      "chapeu": "",
+      "titulo": "Montadoras japonesas aceleram desenvolvimento para enfrentar chinesas",
+      "linha_fina": "Toyota, Honda, Nissan, Suzuki e Mitsubishi querem reduzir ciclos de quatro a cinco anos; rivais chinesas levam menos de dois.",
+      "texto": "Reportagem da agência Kyodo publicada no domingo (25) mostra que as fabricantes japonesas estão reformulando plataformas e cortando tipos de peças para lançar modelos mais rápido. A Nissan quer desenvolver um novo SUV para a América do Norte, previsto para 2028, em três anos e um mês, enquanto a Suzuki planeja reduzir seu ciclo pela metade, para cerca de dois anos. A Honda adotou um programa para cortar pela metade custos, prazos e carga de trabalho, e a Mitsubishi mira um corte de 20% até por volta de 2030.",
+      "fonte": "Malay Mail (Bernama-Kyodo)",
+      "link": "https://malaymail.com/news/money/2026/10/25/four-to-five-years-vs-under-two-nissan-honda-toyota-hit-fast-forward-button-as-japan-chases-china/240538",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Top Gear Philippines",
+            "link": "https://www.topgear.com.ph/news/industry-news/nissan-suv-family-development-a6888-20260824"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c3",
+      "chapeu": "",
+      "titulo": "Yaris Cross encosta no VW Tera na disputa entre SUVs de outubro",
+      "linha_fina": "VW T-Cross lidera o mês, e o Toyota fica a pouco mais de cem unidades do segundo lugar, segundo dados parciais da Fenabrave.",
+      "texto": "Levantamento publicado no domingo (25) pela Webmotors, com dados parciais da Fenabrave até o dia 24, aponta o VW T-Cross na liderança dos SUVs em outubro, com 5.293 emplacamentos. O VW Tera aparece em segundo, com 4.869, apenas 126 unidades à frente do Toyota Yaris Cross (4.743), que pode tomar a posição na reta final do mês. No acumulado do ano, o T-Cross soma 76.561 unidades, pouco mais de mil acima do Tera.",
+      "fonte": "Webmotors (WM1)",
+      "link": "https://www.webmotors.com.br/wm1/mercado-automotivo/suv-tera-t-cross-yaris-cross-outubro",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Car.Blog.Br",
+            "link": "https://www.car.blog.br/2026/10/suvs-mais-vendidos-brasil-outubro-dia-24.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c4",
+      "chapeu": "",
+      "titulo": "BYD marca estreia da picape Shark na China, já vendida no Brasil",
+      "linha_fina": "Modelo passa a integrar a marca Fang Cheng Bao e chega ao mercado chinês entre o fim de novembro e dezembro.",
+      "texto": "A BYD definiu o calendário de lançamentos da marca Fang Cheng Bao, segundo o site CarNewsChina no domingo (25): o SUV grande Ti 9 chega após 15 de novembro, e a picape híbrida plug-in Shark estreia no mercado chinês no fim de novembro ou em dezembro. A Shark, vendida no Brasil e em outros mercados de exportação, terá na versão chinesa motor 1.5 turbo e dois elétricos, com 429 cv combinados e tração integral. Os preços ainda não foram divulgados.",
+      "fonte": "CarNewsChina",
+      "link": "https://carnewschina.com/2026/10/25/byd-fcb-ti-9-full-size-suv-to-launch-post-nov-15-shark-pickup-enters-china-in-december/",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Gasgoo",
+            "link": "https://autonews.gasgoo.com/articles/news/byd-shark-pickup-to-join-fangchengbao-lineup-may-launch-in-domestic-market-this-year-2054903545277599745"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p1",
+      "chapeu": "",
+      "titulo": "2º turno define governadores em cinco estados e no DF",
+      "linha_fina": "Celina Leão e Mailza Assis são reeleitas; PT vence no Rio Grande do Norte por margem estreita",
+      "texto": "Seis disputas estaduais foram decididas no domingo (25). No DF, Celina Leão (PP) foi reeleita com cerca de 57% dos válidos sobre Leandro Grass (PT); no Acre, Mailza Assis (PP) venceu Alan Rick (Republicanos) com 66%; no Amazonas, Omar Aziz (PSD) obteve cerca de 60% contra Professora Maria do Carmo (PL). No Tocantins, Vicentinho Júnior (PSDB) virou sobre Professora Dorinha (União) com cerca de 64%; no Espírito Santo, Lorenzo Pazolini (Republicanos) teve 52,01% contra Ricardo Ferraço (MDB); e no Rio Grande do Norte, Cadu de Lula (PT) venceu Allyson Bezerra (União) por 50,77% a 49,23%.",
+      "fonte": "CartaCapital",
+      "link": "https://www.cartacapital.com.br/politica/veja-a-lista-dos-governadores-eleitos-e-reeleitos-no-2o-turno/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "O Povo",
+            "link": "https://www.opovo.com.br/noticias/politica/eleicoes/2026/10/25/resultados-da-eleicao-2026-governadores-eleitos-no-2-turno.html"
+          },
+          {
+            "veiculo": "InfoMoney",
+            "link": "https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/"
+          },
+          {
+            "veiculo": "TSE",
+            "link": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p2",
+      "chapeu": "",
+      "titulo": "Zanin prorroga votação até as 19h e decisão gera disputa",
+      "linha_fina": "Liminar atendeu a pedido da coligação de Lula sobre falta de ônibus; TSE diz que não havia norma para a medida",
+      "texto": "No domingo (25), o ministro Cristiano Zanin, do STF, concedeu liminar que estendeu a votação das 17h para as 19h, a pedido da coligação de Lula, que relatou redução da frota de ônibus em cidades da Bahia e de São Paulo; a campanha de Flávio também havia pedido prorrogação em alguns municípios. Zanin esclareceu depois que a medida valia só para seções ainda abertas, já que milhares de urnas tinham sido encerradas. O presidente do TSE, Kassio Nunes Marques, disse que a prorrogação foi inédita e sem previsão em norma, e o recebimento de boletins de urna chegou a ser suspenso temporariamente.",
+      "fonte": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/zanin-prorroga-eleicao-ate-as-19h-deste-domingo-em-todo-o-pais/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Gazeta do Povo",
+            "link": "https://www.gazetadopovo.com.br/eleicoes/2026/stf-concede-liminar-e-prorroga-votacao-ate-as-19h-em-todo-o-brasil/"
+          },
+          {
+            "veiculo": "Exame",
+            "link": "https://exame.com/brasil/por-que-o-tse-decidiu-prorrogar-o-horario-de-votacao-ate-as-19h/"
+          },
+          {
+            "veiculo": "TSE",
+            "link": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p3",
+      "chapeu": "",
+      "titulo": "Líderes da região parabenizam Lula; Trump e Milei não se manifestam",
+      "linha_fina": "Sheinbaum, Peña, Kast, Orsi e Paz estiveram entre os primeiros a saudar a reeleição",
+      "texto": "Chefes de Estado de vários países cumprimentaram Lula na noite de domingo (25), entre eles Claudia Sheinbaum (México), Santiago Peña (Paraguai), José Antonio Kast (Chile), Yamandú Orsi (Uruguai), Rodrigo Paz (Bolívia) e José Raúl Mulino (Panamá); Kast e Orsi disseram ter falado com o presidente por telefone. Até a última atualização das reportagens, o presidente dos EUA, Donald Trump, e o argentino Javier Milei, que apoiou Flávio, não haviam comentado o resultado.",
+      "fonte": "Gazeta do Povo",
+      "link": "https://www.gazetadopovo.com.br/mundo/lideres-mundiais-parabenizam-lula-pela-reeleicao-no-brasil/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "InfoMoney",
+            "link": "https://www.infomoney.com.br/politica/lideres-internacionais-parabenizam-lula-reeleito-para-o-quarto-mandato/"
+          },
+          {
+            "veiculo": "CNN Brasil",
+            "link": "https://www.cnnbrasil.com.br/internacional/lula-reeleito-lideres-mundiais-reagem-a-4a-vitoria-eleitoral-do-presidente/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p4",
+      "chapeu": "",
+      "titulo": "Vucic admite derrota para lista estudantil em eleição na Sérvia",
+      "linha_fina": "Movimento nascido de protestos contra a corrupção deve conquistar maioria no Parlamento, segundo projeção",
+      "texto": "O presidente da Sérvia, Aleksandar Vucic, reconheceu no domingo (25) a derrota de seu partido nas eleições legislativas antecipadas, vencidas pela Lista Estudantil, segundo projeção por amostra. A estimativa citada por Vucic dá 135 a 140 das 250 cadeiras aos estudantes e cerca de 105 à sua coalizão; o comparecimento chegou a 64,9% às 18h, o maior em três décadas. O movimento surgiu dos protestos iniciados após o desabamento da marquise da estação de Novi Sad, em 2024, que matou 16 pessoas.",
+      "fonte": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/internacional/movimento-liderado-por-estudantes-vence-eleicao-parlamentar-na-servia/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Al Jazeera",
+            "link": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader"
+          },
+          {
+            "veiculo": "AFP (via SWI swissinfo.ch)",
+            "link": "https://www.swissinfo.ch/por/partido-governante-reconhece-derrota-em-elei%C3%A7%C3%B5es-legislativas-na-s%C3%A9rvia/92273010"
+          }
+        ]
+      }
+    }
+  ]
+}
