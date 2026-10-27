@@ -1,0 +1,818 @@
+{
+  "data": "2026-10-26",
+  "titulo": "Newsletter — 26/10/2026",
+  "data_por_extenso": "Segunda-feira, 26 de outubro de 2026",
+  "pagina": "edicoes/2026-10-26.html",
+  "destaques": [
+    {
+      "link": "#i1",
+      "titulo": "Anthropic pede abertura de capital e revela receita de US$ 16,3 bilhões no semestre"
+    },
+    {
+      "link": "#p2",
+      "titulo": "Flávio desiste de pedir anulação e diz que buscará cassar a chapa de Lula"
+    },
+    {
+      "link": "#t1",
+      "titulo": "Microsoft oferece demissão voluntária a cerca de 60 mil funcionários"
+    },
+    {
+      "link": "#g1",
+      "titulo": "Xbox perde sua primeira COO após apenas três meses"
+    },
+    {
+      "link": "#c1",
+      "titulo": "Audi confirma primeira fábrica nos EUA, de US$ 4 bilhões"
+    }
+  ],
+  "noticias": [
+    {
+      "tipo": "manchete",
+      "editoria": "Política",
+      "id": "p1",
+      "chapeu": "Política · Eleições 2026",
+      "titulo": "Lula é reeleito com 51,79% dos votos válidos e terá quarto mandato",
+      "linha_fina": "Com 100% das urnas totalizadas, petista soma 64,26 milhões de votos; Flávio Bolsonaro (PL) tem 59,83 milhões",
+      "texto": "A totalização do 2º turno pela Justiça Eleitoral confirmou a vitória de Luiz Inácio Lula da Silva (PT) sobre Flávio Bolsonaro (PL) por 4.430.191 votos de diferença. No 1º turno, Lula havia terminado em segundo lugar (45,16% contra 47,03%). A abstenção foi de 19,22%, com 128,2 milhões de eleitores nas urnas, 1,43 milhão de votos brancos e 2,72 milhões de nulos. O novo mandato, com o vice Geraldo Alckmin (PSB), começa em 5 de janeiro de 2027.",
+      "fonte": "Revista Oeste",
+      "link": "https://revistaoeste.com/politica/confira-os-numeros-do-2o-turno-com-100-da-apuracao-concluida/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "TRE-SP (Justiça Eleitoral)",
+            "link": "https://www.tre-sp.jus.br/comunicacao/noticias/2026/Outubro/eleicoes-2026-lula-e-reeleito-presidente-da-republica-confira-resultado-do-2o-turno-em-sp"
+          },
+          {
+            "veiculo": "Gazeta do Povo",
+            "link": "https://www.gazetadopovo.com.br/eleicoes/2026/as-dez-cidades-onde-lula-teve-maior-percentual-de-votos-no-segundo-turno/"
+          },
+          {
+            "veiculo": "TIME",
+            "link": "https://time.com/article/2026/10/26/brazil-lula-bolsonaro-presidential-election-trump/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g1",
+      "chapeu": "",
+      "titulo": "Xbox perde sua primeira COO após apenas três meses",
+      "linha_fina": "Helen Chiang, há 21 anos na Microsoft e ex-chefe de Minecraft, deixa o cargo em meio à reestruturação da divisão",
+      "texto": "Helen Chiang, nomeada em julho como a primeira diretora de operações da história do Xbox, deixou a Microsoft cerca de três meses depois de assumir. A saída foi comunicada em memorando interno da CEO Asha Sharma, que não indicou sucessor. Fontes ouvidas por Eurogamer e The Verge dizem que ela foi desligada por violações de políticas internas; a Microsoft não comenta casos individuais.",
+      "fonte": "Game Developer",
+      "link": "https://www.gamedeveloper.com/console/xbox-coo-helen-chiang-leaves-role-shortly-after-its-creation",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "GameSpot",
+            "link": "https://www.gamespot.com/articles/xbox-veteran-who-just-got-promoted-under-asha-sharma-promptly-leaves-amid-mysterious-circumstances/"
+          },
+          {
+            "veiculo": "Windows Central",
+            "link": "https://www.windowscentral.com/gaming/xbox/former-minecraft-lead-xbox-veteran-and-coo-helen-chiang-fired-for-policy-violations"
+          },
+          {
+            "veiculo": "PC Gamer",
+            "link": "https://www.pcgamer.com/gaming-industry/top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months-in-role/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g2",
+      "chapeu": "",
+      "titulo": "Sucker Punch, de Ghost of Yōtei, faz demissões",
+      "linha_fina": "Estúdio da Sony corta cerca de duas dezenas de vagas semanas antes do balanço trimestral da empresa",
+      "texto": "A Sucker Punch, estúdio da Sony responsável por Ghost of Tsushima e Ghost of Yōtei, demitiu funcionários nesta segunda. Em e-mail interno, a direção citou desafios do mercado e as necessidades do próximo projeto. Os números divergem: Engadget e GamesBeat falam em 24 demitidos; o Aftermath, que publicou primeiro, em 26. O estúdio tem cerca de 200 funcionários.",
+      "fonte": "Aftermath",
+      "link": "https://aftermath.site/sucker-punch-layoffs-sony-ghost-of-yotei/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Engadget",
+            "link": "https://www.engadget.com/2297486/ghost-of-yotei-studio-sucker-punch-lays-off-24-workers/"
+          },
+          {
+            "veiculo": "GamesBeat",
+            "link": "https://gamesbeat.com/ghost-of-yotei-developer-sucker-punch-productions-lays-off-24-staffers/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g3",
+      "chapeu": "",
+      "titulo": "Phantom Blade Zero estreia com nota 88 no Metacritic",
+      "linha_fina": "Jogo de ação da chinesa S-GAME chega em 29/10 para PS5 e PC, com cerca de 92 de média no OpenCritic",
+      "texto": "O embargo das análises de Phantom Blade Zero caiu nesta segunda, e o jogo abriu com média 88 no Metacritic e por volta de 92 no OpenCritic. A crítica destaca o combate e as lutas contra chefes. O lançamento é em 29 de outubro (28 nos fusos dos EUA) para PS5 e PC, e a edição padrão custa US$ 59,99 no Steam.",
+      "fonte": "Beebom",
+      "link": "https://beebom.com/phantom-blade-zero-reviews-live-gets-88-metacritic-score/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "OtakuKart",
+            "link": "https://otakukart.com/phantom-blade-zero-earns-88-on-metacritic-and-92-on-opencritic-as-critics-praise-its-combat-and-boss-battles/"
+          },
+          {
+            "veiculo": "Gagadget",
+            "link": "https://gagadget.com/en/731699-phantom-blade-zero-reviews-land-at-88-on-metacritic-5999/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g4",
+      "chapeu": "",
+      "titulo": "ENCE, tradicional equipe de Counter-Strike, pede falência",
+      "linha_fina": "Organização finlandesa encerra as atividades após 13 anos; receita caiu 79% em dois anos",
+      "texto": "O conselho da ENCE eSports anunciou que a organização finlandesa vai pedir falência depois de 13 anos. Conhecida pelos times de CS:GO e CS2, a equipe foi finalista do Major de Katowice em 2019. Segundo o Esports Observer, a receita caiu 79% em dois anos. O destino de jogadores e comissão técnica ainda não foi informado.",
+      "fonte": "HLTV",
+      "link": "https://www.hltv.org/news/45814/ence-file-for-bankruptcy",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Dot Esports",
+            "link": "https://dotesports.com/counter-strike/news/ence-bankruptcy-13-years-esports"
+          },
+          {
+            "veiculo": "Esports Advocate",
+            "link": "https://esportsadvocate.net/2026/10/ence-bankruptcy-revenue-decline/"
+          },
+          {
+            "veiculo": "Shacknews",
+            "link": "https://www.shacknews.com/article/151150/ence-esports-bankruptcy-ending-operations"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g5",
+      "chapeu": "",
+      "titulo": "Estúdio de Boltgun 2 corta um quarto da equipe",
+      "linha_fina": "A britânica Auroch Digital abre processo de demissões 12 dias após lançar o jogo",
+      "texto": "A Auroch Digital, de Bristol, responsável por Warhammer 40,000: Boltgun 2, iniciou uma reestruturação que atinge cerca de 25% dos funcionários. O estúdio atribuiu a decisão a um mercado instável, e não ao desempenho de algum projeto. O suporte a Boltgun 2 e Warhammer Survivors continua.",
+      "fonte": "Insider Gaming",
+      "link": "https://insider-gaming.com/auroch-digital-layoffs/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Inven Global",
+            "link": "https://www.invenglobal.com/articles/27738/warhammer-40000-boltgun-2-developer-lays-off-25-of-staff-despite-critical-success"
+          },
+          {
+            "veiculo": "Output Lag",
+            "link": "https://outputlag.com/news/auroch-digital-layoffs-quarter-of-staff-boltgun-2/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i1",
+      "chapeu": "",
+      "titulo": "Anthropic pede abertura de capital e revela receita de US$ 16,3 bilhões no semestre",
+      "linha_fina": "Dona do Claude protocolou o prospecto na SEC; prejuízo líquido contábil chega a US$ 80,7 bilhões",
+      "texto": "A Anthropic entrou nesta segunda com o pedido de oferta pública inicial de ações nos EUA. O prospecto mostra receita de US$ 16,3 bilhões no 1º semestre de 2026, ante US$ 1,2 bilhão um ano antes. O prejuízo operacional caiu para US$ 693 milhões, mas o líquido somou US$ 80,7 bilhões, quase todo por ajustes contábeis ligados a dívida conversível. Os sete cofundadores manterão 50,1% do poder de voto.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Fortune",
+            "link": "https://fortune.com/2026/10/26/anthropics-s-1/"
+          },
+          {
+            "veiculo": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html"
+          },
+          {
+            "veiculo": "Bloomberg Línea",
+            "link": "https://www.bloomberglinea.com.br/mercados/anthropic-solicita-abertura-de-capital-e-pode-se-tornar-primeira-empresa-de-ia-na-bolsa/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i2",
+      "chapeu": "",
+      "titulo": "Meta planeja vender até US$ 95 bilhões em ações para bancar a corrida da IA",
+      "linha_fina": "Oferta de cerca de US$ 35 bilhões sai agora; programa de mais US$ 60 bilhões está previsto para 2027",
+      "texto": "A Meta lançou ofertas de cerca de US$ 35 bilhões, que combinam ações ordinárias com venda a termo e ações preferenciais conversíveis obrigatórias. A empresa também prevê um programa de até US$ 60 bilhões em novas ações a partir do 1º trimestre de 2027. O dinheiro vai principalmente para a expansão da infraestrutura de IA.",
+      "fonte": "CNBC",
+      "link": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Meta (comunicado oficial)",
+            "link": "https://www.prnewswire.com/news-releases/meta-announces-launch-of-offering-of-depositary-shares-representing-series-a-mandatory-convertible-preferred-stock-and-offering-of-class-a-common-stock-in-connection-with-forward-sale-agreements-302919267.html"
+          },
+          {
+            "veiculo": "Quartz",
+            "link": "https://qz.com/meta-raising-95-billion-equity-ai-spending-102626"
+          },
+          {
+            "veiculo": "CNN Brasil",
+            "link": "https://www.cnnbrasil.com.br/economia/money/negocios/meta-anuncia-plano-de-ate-us-95-bilhoes-em-ofertas-de-acoes-para-financiar-expansao-em-ia/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i3",
+      "chapeu": "",
+      "titulo": "Bancos e Blackstone montam financiamento de US$ 63 bilhões em chips para a Anthropic",
+      "linha_fina": "Empresa criada para a operação vai comprar aceleradores da Broadcom e alugá-los à dona do Claude a partir de 2027",
+      "texto": "Bank of America, Citi, Morgan Stanley e Blackstone anunciaram uma estrutura de US$ 63 bilhões para financiar capacidade de computação da Anthropic. Uma empresa de propósito específico vai comprar aceleradores e equipamentos de rede da Broadcom e alugá-los à Anthropic, com entregas a partir de 2027. Segundo a Reuters, a dívida sênior soma cerca de US$ 43,5 bilhões.",
+      "fonte": "Reuters (via Investing.com)",
+      "link": "https://www.investing.com/news/stock-market-news/wall-street-banks-blackstone-line-up-63-billion-to-finance-broadcom-chips-for-anthropic-4973662",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Broadcom (comunicado oficial)",
+            "link": "https://www.prnewswire.com/news-releases/bank-of-america-blackstone-citi-and-morgan-stanley-announce-landmark-63-billion-financing-structure-to-enable-ai-compute-capacity-in-partnership-with-broadcom-302919849.html"
+          },
+          {
+            "veiculo": "Blackstone (comunicado oficial)",
+            "link": "https://www.blackstone.com/news/press/bank-of-america-blackstone-citi-and-morgan-stanley-announce-landmark-63-billion-financing-structure-to-enable-ai-compute/"
+          },
+          {
+            "veiculo": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/technology/ai/articles/broadcom-secures-63-billion-banks-205926176.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i4",
+      "chapeu": "",
+      "titulo": "OpenAI lança GPT-6.1 Terra, modelo intermediário que custa metade do anterior",
+      "linha_fina": "Voltado ao uso do computador por agentes, já está no ChatGPT, no Codex e na API",
+      "texto": "A OpenAI lançou o GPT-6.1 Terra, que substitui o GPT-5.6 Terra na faixa intermediária da sua linha. Na API, custa US$ 1 por milhão de tokens de entrada e US$ 5 por milhão de saída, metade do antecessor. Segundo a empresa, conclui tarefas mais de três vezes mais rápido que os modelos GPT-6 Astra e GPT-6.1 Sol.",
+      "fonte": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "9to5Mac",
+            "link": "https://9to5mac.com/2026/10/26/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-1-terra-model/"
+          },
+          {
+            "veiculo": "Decrypt",
+            "link": "https://decrypt.co/381883/openai-launches-gpt-6-1-terra-half-good-half-price"
+          },
+          {
+            "veiculo": "The Next Web",
+            "link": "https://thenextweb.com/news/openai-gpt-6-1-terra-computer-use"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i5",
+      "chapeu": "",
+      "titulo": "SpaceX fecha financiamento recorde de US$ 40 bilhões em GPUs com a Apollo",
+      "linha_fina": "Veículo da gestora vai comprar chips Nvidia Vera Rubin e alugá-los à empresa de Musk por cerca de cinco anos",
+      "texto": "A SpaceX informou em documento regulatório um compromisso de cerca de US$ 40 bilhões para financiar chips de IA e equipamentos de data center. Uma afiliada da Apollo compra o hardware e o aluga à SpaceX, com contratos a partir de 2027. No 3º trimestre, o braço de IA, que inclui o Grok, respondeu por US$ 7,6 bilhões dos US$ 14,6 bilhões de receita da SpaceX.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "CNBC",
+            "link": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html"
+          },
+          {
+            "veiculo": "Reuters",
+            "link": "https://www.reuters.com/business/media-telecom/spacex-enters-40-billion-deal-with-apollo-ai-chip-financing-2026-10-26/"
+          },
+          {
+            "veiculo": "Bloomberg (via Yahoo Finance)",
+            "link": "https://finance.yahoo.com/technology/ai/articles/spacex-agrees-40-billion-chip-121943441.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i6",
+      "chapeu": "",
+      "titulo": "Itaú compra startup brasileira de IA NeoSpace por R$ 2,9 bilhões",
+      "linha_fina": "Banco fica com 100% da empresa, que cria modelos fundacionais para crédito e atendimento; negócio depende de Cade e BC",
+      "texto": "O Itaú anunciou a compra integral da NeoSpace, fundada em 2023, por R$ 2,925 bilhões, com parte paga no fechamento e o restante em cinco anos. A startup desenvolve modelos fundacionais de IA para o setor financeiro e já trabalhava com o banco. Ela seguirá com gestão autônoma, sob o comando de Bruno Pierobon. A operação ainda precisa do aval do Cade e do Banco Central.",
+      "fonte": "Bloomberg Línea",
+      "link": "https://www.bloomberglinea.com.br/2026/10/26/itau-compra-startup-de-ia-neospace-por-r-29-bilhoes-e-reforca-transformacao-digital/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Folha de S.Paulo",
+            "link": "https://c-level.folha.uol.com.br/ia/2026/10/itau-anuncia-compra-da-neospace-startup-de-inteligencia-artificial-por-r-29-bilhoes.shtml"
+          },
+          {
+            "veiculo": "Canaltech",
+            "link": "https://canaltech.com.br/mercado/itau-anuncia-compra-de-startup-brasileira-de-ia-por-r-29-bilhoes/"
+          },
+          {
+            "veiculo": "Tecnoblog",
+            "link": "https://tecnoblog.net/noticias/itau-compra-startup-de-ia-por-r-29-bilhoes/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t1",
+      "chapeu": "",
+      "titulo": "Microsoft oferece demissão voluntária a cerca de 60 mil funcionários",
+      "linha_fina": "Programa inédito alcança cerca de um quarto da força de trabalho, inclusive no Xbox, que já prevê 3.200 cortes",
+      "texto": "A Microsoft confirmou um programa de desligamento voluntário oferecido a aproximadamente 60 mil empregados nos EUA, Canadá, Reino Unido e Índia, cerca de 25% do quadro. Podem aderir funcionários até o nível de vice-presidente em equipes selecionadas, como Xbox, Windows e Copilot; vendas e data centers ficam de fora. Segundo a empresa, o pacote é comparável à sua indenização padrão.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "CNBC",
+            "link": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html"
+          },
+          {
+            "veiculo": "GeekWire",
+            "link": "https://www.geekwire.com/2026/microsoft-makes-new-voluntary-exit-offer-to-more-than-a-quarter-of-its-workforce-including-some-execs/"
+          },
+          {
+            "veiculo": "Axios",
+            "link": "https://www.axios.com/local/seattle/2026/10/26/microsoft-voluntary-buyouts-ai-job-cuts-2026"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t2",
+      "chapeu": "",
+      "titulo": "Apple admite falha na tela interna de parte dos iPhone Duo",
+      "linha_fina": "Dobrável lançado na sexta tem relatos de rachaduras perto da dobradiça; empresa promete troca via AppleCare",
+      "texto": "Dias após a estreia do iPhone Duo, primeiro dobrável da Apple, donos relataram rachaduras na tela interna na região da dobradiça. Na segunda, a Apple disse estar ciente de um problema que afeta um pequeno número de unidades e orientou a troca pelo AppleCare, sem explicar a causa. No Brasil, o aparelho custa a partir de R$ 21.999.",
+      "fonte": "MacRumors",
+      "link": "https://www.macrumors.com/2026/10/26/iphone-duo-crack-apple-response/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "9to5Mac",
+            "link": "https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking/"
+          },
+          {
+            "veiculo": "Tecnoblog",
+            "link": "https://tecnoblog.net/noticias/iphone-duo-tem-relatos-de-tela-rachada-poucos-dias-apos-lancamento"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t3",
+      "chapeu": "",
+      "titulo": "Novo iPad mini ganha tela OLED, chip A20 Pro e resistência à água",
+      "linha_fina": "Tablet custa US$ 699 nos EUA e R$ 8.499 no Brasil, ainda sem data de chegada ao país",
+      "texto": "A Apple apresentou o novo iPad mini, com tela OLED de 8,5 polegadas, chip A20 Pro, certificação IP67 e corpo de 5,4 mm. A câmera frontal de 12 MP fica na lateral, para uso na horizontal. Nos EUA, a pré-venda começa em 28 de outubro e as vendas em 6 de novembro; no Brasil, o preço inicial é R$ 8.499, sem data definida.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "MacRumors",
+            "link": "https://www.macrumors.com/2026/10/26/oled-ipad-mini-pre-orders-launch-date/"
+          },
+          {
+            "veiculo": "MacMagazine",
+            "link": "https://macmagazine.com.br/post/2026/10/26/apple-lanca-ipad-mini-com-chip-a20-pro-display-oled-camera-frontal-na-horizontal-e-mais/"
+          },
+          {
+            "veiculo": "Tecnoblog",
+            "link": "https://tecnoblog.net/noticias/apple-lanca-ipad-mini-com-tela-oled-e-chip-a20-pro-veja-precos-no-brasil/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t4",
+      "chapeu": "",
+      "titulo": "Samsung deve produzir 20% menos celulares Galaxy A no fim de 2026",
+      "linha_fina": "Alta no preço da memória pressiona a linha intermediária, a mais vendida da marca no Brasil",
+      "texto": "Segundo a imprensa sul-coreana, a Samsung planeja reduzir em cerca de 20% a produção da linha Galaxy A no 4º trimestre, cerca de 10 milhões de aparelhos a menos, por causa da alta no custo dos chips de memória. A série responde por cerca de 70% dos embarques da marca. A Samsung não confirmou a informação.",
+      "fonte": "Tecnoblog",
+      "link": "https://tecnoblog.net/noticias/samsung-deve-cortar-producao-da-linha-galaxy-a-em-20",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Android Central",
+            "link": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-may-slash-galaxy-a-production-by-20-percent-in-the-fourth-quarter"
+          },
+          {
+            "veiculo": "SamMobile",
+            "link": "https://www.sammobile.com/news/samsung-plans-make-20-percent-fewer-galaxy-a-phones"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h1",
+      "chapeu": "",
+      "titulo": "Samsung e SK hynix miram 2º tri de 2027 para entregar HBM4 de 8 camadas à NVIDIA",
+      "linha_fina": "Pilhas de 12 camadas esquentam demais e rendem pouco; NVIDIA estuda mistura de memórias para o Rubin Ultra",
+      "texto": "Segundo o ZDNet Korea, Samsung e SK hynix planejam iniciar embarques em massa de HBM4 com 8 camadas para a NVIDIA no 2º trimestre de 2027, pedido que não estava no plano original. O motivo apontado é o calor e o baixo rendimento das pilhas de 12 camadas. A versão de 8 camadas ainda precisa de certificação própria.",
+      "fonte": "ZDNet Korea",
+      "link": "https://zdnet.co.kr/view/?no=20261026115227",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "DigiTimes",
+            "link": "https://digitimes.com/news/a20261027VL215/samsung-sk-hynix-hbm4-shipments-nvidia.html"
+          },
+          {
+            "veiculo": "Adrenaline",
+            "link": "https://www.adrenaline.com.br/hardware/samsung-sk-hynix-hbm4-8-camadas-nvidia-rubin-ultra-segundo-trimestre-2027-calor-rendimento-12-camadas/"
+          },
+          {
+            "veiculo": "TokenPost",
+            "link": "https://www.tokenpost.kr/news/ai/427402"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h2",
+      "chapeu": "",
+      "titulo": "CEO da Intel diz ter conversado com Lisa Su sobre parceria com a AMD",
+      "linha_fina": "Lip-Bu Tan quer retomar a liderança em CPUs e aposta em chips sob medida e no processo 14A",
+      "texto": "Em evento da associação CASPA, o CEO da Intel, Lip-Bu Tan, contou que já discutiu com Lisa Su, da AMD, possíveis áreas de cooperação entre as rivais; nenhum acordo foi anunciado. Tan afirmou que o 18A já está em produção em volume e que o kit de projeto do 14A deve chegar à versão 1.0 no início de 2027.",
+      "fonte": "Tom's Hardware",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Wccftech",
+            "link": "https://wccftech.com/intels-ceo-reportedly-had-a-conversation-with-amds-lisa-su-on-potential-areas-of-collaboration-says-0-9-pdk-on-the-14a-process-coming-soon/"
+          },
+          {
+            "veiculo": "Fudzilla",
+            "link": "https://fudzilla.com/intel-chief-admits-customers-got-lectures-instead-of-fixes/"
+          },
+          {
+            "veiculo": "IT Home",
+            "link": "https://www.ithome.com/1/018/155.htm"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h3",
+      "chapeu": "",
+      "titulo": "Hack de firmware dobra desempenho teórico de IA das GeForce RTX 20, 30 e 40",
+      "linha_fina": "Projetos independentes removem limite que reduz à metade os Tensor Cores com acumulação em FP32",
+      "texto": "Ferramentas de código aberto exploram uma falha no firmware da NVIDIA para liberar o limite de velocidade de operações FP16/BF16 com acumulação em FP32 nas GeForce. Na RTX 4090, o pico teórico em FP16 vai de 165,6 para 331,6 TFLOPS. Em uso real, o ganho fica entre 12% e 34% em multiplicação de matrizes; jogos praticamente não mudam e as RTX 50 não são afetadas.",
+      "fonte": "Tom's Hardware",
+      "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Tech Times",
+            "link": "https://www.techtimes.com/articles/329479/20261026/nvidia-rtx-gpus-were-running-ai-half-speed-free-tool-fixes-firmware-cap-windows.htm"
+          },
+          {
+            "veiculo": "Hardware Busters",
+            "link": "https://hwbusters.com/news/rtx-4090-tensor-unlock-doubles-fp16-throughput-on-linux-and-ampere-cards-gain-up-to-80/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h4",
+      "chapeu": "",
+      "titulo": "Prospecto da Anthropic expõe dependência de memória HBM e da TSMC",
+      "linha_fina": "Empresa diz não haver garantia de que Samsung, SK hynix e Micron atendam à sua demanda",
+      "texto": "No registro de IPO entregue à SEC, a Anthropic lista a falta de memória HBM como risco central e diz não haver garantia de que os três fabricantes entreguem os volumes necessários a tempo. O documento também cita a concentração da fabricação de chips avançados na TSMC, em Taiwan. Os sete maiores contratos de computação da empresa somam cerca de US$ 637 bilhões.",
+      "fonte": "Seoul Economic Daily",
+      "link": "https://en.sedaily.com/finance/2026/10/27/anthropic-flags-hbm-supply-risk-from-samsung-sk-hynix-in",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "CNBC",
+            "link": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html"
+          },
+          {
+            "veiculo": "The Tribune (ANI)",
+            "link": "https://www.tribuneindia.com/news/advanced-chips/anthropic-warns-tsmc-disruptions-could-hit-ai-chip-supply-threaten-business"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c1",
+      "chapeu": "",
+      "titulo": "Audi confirma primeira fábrica nos EUA, de US$ 4 bilhões",
+      "linha_fina": "Unidade na Geórgia deve produzir até 200 mil SUVs por ano; sindicato alemão critica presença do CEO em comício de Trump",
+      "texto": "Autoridades da Geórgia detalharam o projeto da Audi: cerca de US$ 4 bilhões de investimento, até 4.500 empregos e capacidade para 200 mil veículos por ano, principalmente SUVs. A construção começa em 2027 e o plano ainda depende do aval do conselho do grupo. O anúncio foi feito em comício de Trump com a presença do CEO Gernot Döllner, o que gerou críticas do sindicato IG Metall.",
+      "fonte": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/auto/audi-anuncia-1a-fabrica-nos-eua-construcao-comeca-em-2027/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Audi (comunicado oficial)",
+            "link": "https://www.audi.com/en/press-releases/audi-to-establish-first-us-production-site-in-georgia-investing-4-billion-and-creating-4500-jobs-18420"
+          },
+          {
+            "veiculo": "FOX 5 Atlanta",
+            "link": "https://www.fox5atlanta.com/news/kemp-state-officials-detail-planned-4b-audi-factory-georgia"
+          },
+          {
+            "veiculo": "National Herald (Reuters)",
+            "link": "https://www.nationalheraldindia.com/international/audi-ceo-trump-rally-germany-union-backlash-us-plant"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c2",
+      "chapeu": "",
+      "titulo": "Mercedes abre pré-venda do novo CLA no Brasil por R$ 364,9 mil",
+      "linha_fina": "CLA 200 AMG Line é o primeiro compacto da plataforma MMA; motor e prazo de entrega não foram informados",
+      "texto": "A Mercedes-Benz iniciou a pré-venda do novo CLA 200 AMG Line, por R$ 364.900, em toda a rede. O sedã estreia a arquitetura MMA e traz rodas de 18 polegadas, teto panorâmico, central MBUX com Superscreen e assistentes de condução. Motor, desempenho e data de entrega ainda não foram divulgados.",
+      "fonte": "AutoIndústria",
+      "link": "https://www.autoindustria.com.br/2026/10/26/por-r-3649-mil-mercedes-benz-inicia-pre-venda-do-cla-200-amg-line/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Mercedes-Benz Brasil (comunicado oficial)",
+            "link": "https://imprensa.mercedes-benz.com.br/releases/mercedes-benz-inicia-pre-venda-do-novo-cla-200-amg-line-no-brasil"
+          },
+          {
+            "veiculo": "Vrum",
+            "link": "https://www.vrum.com.br/mercado/2026/10/7528253-novo-mercedes-benz-cla-200-chega-ao-brasil-com-visual-e-cabine-inovadores.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c3",
+      "chapeu": "",
+      "titulo": "Hyundai Bayon chega à Índia e antecipa SUV que será feito em Piracicaba",
+      "linha_fina": "Lá, o modelo parte de 10 lakh de rúpias (cerca de R$ 56 mil); produção brasileira começa em 2027",
+      "texto": "A Hyundai divulgou os preços do Bayon na Índia, onde usa motor 1.5 aspirado de 115 cv e tem porta-malas de 505 litros. O SUV será fabricado em Piracicaba (SP) a partir de 2027 e ficará abaixo do Creta. O motor da versão brasileira ainda não foi confirmado.",
+      "fonte": "AUTOO",
+      "link": "https://www.autoo.com.br/futuro-suv-brasileiro-hyundai-bayon-estreia-por-equivalente-a-r-56-mil/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Autocar India",
+            "link": "https://www.autocarindia.com/car-news/hyundai-bayon-launched-at-rs-10-lakh-441124"
+          },
+          {
+            "veiculo": "Vrum",
+            "link": "https://www.vrum.com.br/noticias/2026/10/7528215-hyundai-bayon-estreia-na-india-e-antecipa-futuro-suv-nacional.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c4",
+      "chapeu": "",
+      "titulo": "Audi divide sua operação na China entre FAW e SAIC",
+      "linha_fina": "FAW fica com os quatro anéis; SAIC, com a nova marca elétrica AUDI",
+      "texto": "A Audi anunciou nova divisão de suas joint ventures na China: a FAW Audi cuidará dos modelos com os quatro anéis, a combustão e elétricos, e a SAIC Audi, da marca AUDI, focada em veículos de nova energia. A SAIC ainda poderá vender modelos com os anéis até o fim de 2027. A Audi China terá novo presidente, Jeff Zhang, a partir de 1º de novembro.",
+      "fonte": "CnEVPost",
+      "link": "https://cnevpost.com/2026/10/26/audi-china-business-split/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Reuters (via Yahoo Finance)",
+            "link": "https://uk.finance.yahoo.com/news/audi-splits-chinese-jvs-between-094927512.html"
+          },
+          {
+            "veiculo": "Automotive News",
+            "link": "https://www.autonews.com/volkswagen/audi/ane-audi-logos-china-split-1026/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c5",
+      "chapeu": "",
+      "titulo": "Chery só traz o novo QQ elétrico ao Brasil se puder fabricá-lo aqui",
+      "linha_fina": "Grupo negocia a antiga fábrica da JLR em Itatiaia (RJ), mas o negócio não está fechado",
+      "texto": "Segundo o CEO global do grupo Chery, Guibing Zhang, o QQ3 elétrico, com 122 cv e cerca de 420 km de autonomia no ciclo chinês, só seria competitivo no Brasil com produção local. A empresa negocia a fábrica da Jaguar Land Rover em Itatiaia e avalia reativar a de Jacareí (SP). Questões contratuais com a Caoa, dona dos direitos do nome QQ no país, deixam a chegada indefinida.",
+      "fonte": "AutoPapo",
+      "link": "https://autopapo.com.br/noticia/novo-qq-nacional/",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Carros com Camanzi",
+            "link": "https://carroscomcamanzi.com.br/grupo-chery-negocia-fabrica-de-itatiaia-rj-e-pretende-nacionalizar-novo-qq-eletrico/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c6",
+      "chapeu": "",
+      "titulo": "Lexus faz recall do NX nos EUA por painel que pode esconder alertas",
+      "linha_fina": "Falha de software pode apagar avisos de temperatura e pressão do óleo em modelos 2022 a 2024",
+      "texto": "A Toyota anunciou nos EUA o recall de unidades do Lexus NX 2022 a 2024, inclusive híbridas e plug-in. Um erro na inicialização do painel pode deixar parte da tela em branco e ocultar alertas de pressão do óleo, temperatura e bateria. A correção é uma atualização gratuita de software. Os números divergem: a Cars.com fala em mais de 63,3 mil unidades; o Autoblog soma 68.356.",
+      "fonte": "Cars.com",
+      "link": "https://www.cars.com/articles/63000-plus-lexus-nx-suvs-recalled-over-instrument-panel-display-530502/",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Autoblog",
+            "link": "https://www.autoblog.com/news/lexus-nx-recall-targets-a-fault-that-could-hide-engine-overheating"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p2",
+      "chapeu": "",
+      "titulo": "Flávio desiste de pedir anulação e diz que buscará cassar a chapa de Lula",
+      "linha_fina": "Senador anuncia ação por suposto abuso de poder; partidos que o apoiaram no 2º turno reconhecem o resultado",
+      "texto": "Na noite de domingo, Flávio Bolsonaro (PL) disse que pediria a anulação do pleito, citando a decisão do ministro do STF Cristiano Zanin que prorrogou a votação até as 19h. Na segunda, em vídeo, afirmou que a eleição terminou e anunciou que pedirá uma Ação de Investigação Judicial Eleitoral por suposto abuso de poder político e econômico. Segundo a CNN Brasil, MDB, Republicanos, União Brasil e PSD reconheceram o resultado; o presidente do TSE, Nunes Marques, afirmou que a prorrogação não alterou a apuração.",
+      "fonte": "CNN Brasil",
+      "link": "https://cnnbrasil.com.br/eleicoes/flavio-desiste-de-questionar-vitoria-de-lula-nas-urnas",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Gazeta do Povo",
+            "link": "https://www.gazetadopovo.com.br/republica/flavio-desiste-anular-eleicao-pedira-cassacao-chapa-lula/"
+          },
+          {
+            "veiculo": "Banda B",
+            "link": "https://www.bandab.com.br/politica/eleicoes-2026/nunes-marques-diz-extensao-votacao-nao-afetou-eleicao/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p3",
+      "chapeu": "",
+      "titulo": "Moraes proíbe Flávio Bolsonaro de deixar o país e manda entregar passaportes",
+      "linha_fina": "Decisão sigilosa foi divulgada pelo próprio senador, que a contesta mas diz que vai cumpri-la",
+      "texto": "O ministro do STF Alexandre de Moraes determinou que Flávio Bolsonaro entregue os passaportes à Polícia Federal e não saia do Brasil, no âmbito de inquérito em que o senador e o advogado Willer Tomaz são investigados. Flávio disse que a medida se apoia em declaração do irmão Eduardo Bolsonaro de que ele deveria deixar o país se perdesse. O senador contestou a decisão, mas afirmou que vai cumpri-la.",
+      "fonte": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/moraes-manda-flavio-entregar-passaporte-e-o-proibe-de-deixar-o-pais",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Gazeta do Povo",
+            "link": "https://www.gazetadopovo.com.br/republica/flavio-desiste-anular-eleicao-pedira-cassacao-chapa-lula/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p4",
+      "chapeu": "",
+      "titulo": "Reeleito, Lula recebe chefes do Congresso e o chanceler no Alvorada",
+      "linha_fina": "Presidente se reuniu com Hugo Motta e Davi Alcolumbre e recebeu ligações de líderes estrangeiros",
+      "texto": "No primeiro dia após a reeleição, Lula não teve agenda pública. No Palácio da Alvorada, recebeu o chanceler Mauro Vieira e o assessor Celso Amorim, e os presidentes da Câmara, Hugo Motta, e do Senado, Davi Alcolumbre. Também se reuniu com os ministros da Fazenda e do Planejamento.",
+      "fonte": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/lula-se-reune-com-mauro-vieira-e-recebe-ligacoes-de-lideres-estrangeiros/",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Perfil Brasil",
+            "link": "https://brasil.perfil.com/politica/reeleicao-de-lula-bastidores-primeiro-dia-palacio-da-alvorada.phtml"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p5",
+      "chapeu": "",
+      "titulo": "Governos estrangeiros cumprimentam Lula pela reeleição",
+      "linha_fina": "México, Chile, Uruguai, Bolívia e Conselho Europeu estão entre os que telefonaram ao presidente",
+      "texto": "A vitória de Lula foi reconhecida por governos da região e da Europa ao longo da segunda. A presidente do México, Claudia Sheinbaum, e os presidentes do Chile, José Antonio Kast, do Uruguai, Yamandú Orsi, e da Bolívia, Rodrigo Paz, além do presidente do Conselho Europeu, António Costa, ligaram para o presidente. A TIME registra também mensagem do premiê canadense Mark Carney.",
+      "fonte": "TIME",
+      "link": "https://time.com/article/2026/10/26/brazil-lula-bolsonaro-presidential-election-trump/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "CNN Brasil",
+            "link": "https://www.cnnbrasil.com.br/eleicoes/lula-se-reune-com-mauro-vieira-e-recebe-ligacoes-de-lideres-estrangeiros/"
+          },
+          {
+            "veiculo": "Perfil Brasil",
+            "link": "https://brasil.perfil.com/politica/reeleicao-de-lula-bastidores-primeiro-dia-palacio-da-alvorada.phtml"
+          },
+          {
+            "veiculo": "The Boston Globe (AP)",
+            "link": "https://www.bostonglobe.com/2026/10/26/world/brazil-lula-leftist-denies-trump-ally/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p6",
+      "chapeu": "",
+      "titulo": "Trump diz que eleição brasileira pareceu fraudada, sem apresentar provas",
+      "linha_fina": "Planalto avalia que a fala não exige resposta neste momento",
+      "texto": "Questionado por jornalistas na Base Andrews, nos EUA, o presidente Donald Trump afirmou que a eleição no Brasil pareceu fraudada, criticou a prorrogação do horário de votação e disse que não tomou partido; ele não apresentou evidências. Segundo o SBT News, interlocutores do Planalto e do Itamaraty avaliam que a declaração não exige reação e citam o reconhecimento do resultado por outros governos.",
+      "fonte": "Euronews",
+      "link": "https://www.euronews.com/2026/10/26/trump-says-brazil-election-looked-rigged-without-giving-evidence",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Gazeta do Povo",
+            "link": "https://www.gazetadopovo.com.br/mundo/trump-diz-que-eleicao-no-brasil-pareceu-fraudada-mas-afirma-ter-boa-relacao-com-lula/"
+          },
+          {
+            "veiculo": "SBT News",
+            "link": "https://sbtnews.sbt.com.br/noticia/eleicoes/planalto-nao-vai-reagir-a-fala-de-trump-2"
+          }
+        ]
+      }
+    }
+  ]
+}
