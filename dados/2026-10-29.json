@@ -1,0 +1,746 @@
+{
+  "data": "2026-10-29",
+  "titulo": "Newsletter — 29/10/2026",
+  "data_por_extenso": "Quinta-feira, 29 de outubro de 2026",
+  "pagina": "edicoes/2026-10-29.html",
+  "destaques": [
+    {
+      "link": "#g1",
+      "titulo": "FromSoftware adia The Duskbloods, exclusivo do Switch 2, para 2027"
+    },
+    {
+      "link": "#i1",
+      "titulo": "EUA investigaram suposta espiã chinesa próxima do CEO da Nvidia"
+    },
+    {
+      "link": "#t1",
+      "titulo": "Amazon fatura US$ 201,9 bi; AWS cresce 39%, mas lucro decepciona"
+    },
+    {
+      "link": "#h1",
+      "titulo": "Intel bate previsões no 3º tri, mas ação despenca com projeção fraca"
+    },
+    {
+      "link": "#p1",
+      "titulo": "Valdemar visita Bolsonaro e diz que não gostou da carta de Flávio"
+    }
+  ],
+  "noticias": [
+    {
+      "tipo": "manchete",
+      "editoria": "Tecnologia",
+      "id": "manchete",
+      "chapeu": "Tecnologia · Segurança digital",
+      "titulo": "Binance sofre ataque de cerca de US$ 6 bilhões, o maior roubo cripto da história",
+      "linha_fina": "Maior corretora de criptomoedas do mundo suspendeu saques; empresas de rastreamento apontam hackers da Coreia do Norte",
+      "texto": "A Binance suspendeu saques em várias redes nesta quinta (29) depois que hackers esvaziaram carteiras da corretora. Em atualização, a própria empresa estimou o roubo em cerca de US$ 6,3 bilhões; a Chainalysis calcula perto de US$ 5,9 bilhões. Mesmo no menor número, o valor supera com folga o recorde anterior, de US$ 1,4 bilhão levado da Bybit em 2025. Segundo a investigação inicial, o invasor entrou pelo laptop comprometido de um engenheiro, e a Binance afirma que os fundos dos clientes estão seguros. Tether e Circle congelaram juntas mais de US$ 2,3 bilhões em stablecoins, a TRM Labs atribui o ataque a um grupo norte-coreano, e o bitcoin caiu 4,8%, para menos de US$ 77 mil.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "CoinDesk",
+            "link": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets"
+          },
+          {
+            "veiculo": "CNBC",
+            "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html"
+          },
+          {
+            "veiculo": "Bloomberg",
+            "link": "https://www.bloomberg.com/news/articles/2026-10-29/binance-founder-says-possible-hack-of-exchange-bitcoin-falls"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g1",
+      "chapeu": "",
+      "titulo": "FromSoftware adia The Duskbloods, exclusivo do Switch 2, para 2027",
+      "linha_fina": "Estúdio diz que precisa de mais tempo para ajustar regras e balanceamento depois do teste de rede de agosto",
+      "texto": "A FromSoftware confirmou nesta quinta (29) que The Duskbloods, jogo de ação multiplayer exclusivo do Nintendo Switch 2, ficou para 2027. O lançamento estava previsto para 2026, sem data definida. Segundo o estúdio, o teste de rede de agosto mostrou interesse no combate e na profundidade estratégica, e a equipe quer aprimorar esses pontos. A empresa diz que o jogo está na fase de ajustes finais e pediu desculpas aos fãs.",
+      "fonte": "VGC",
+      "link": "https://www.videogameschronicle.com/news/fromsoftwares-switch-2-exclusive-the-duskbloods-has-been-delayed-to-2027/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Gematsu",
+            "link": "https://www.gematsu.com/2026/10/the-duskbloods-delayed-to-2027"
+          },
+          {
+            "veiculo": "GamesRadar+",
+            "link": "https://www.gamesradar.com/games/action/fromsoftware-finally-admits-it-the-duskbloods-is-delayed-to-2027-as-the-devs-respond-to-network-test-feedback/"
+          },
+          {
+            "veiculo": "Engadget",
+            "link": "https://www.engadget.com/2300955/fromsoftware-delays-the-duskbloods-until-2027/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g2",
+      "chapeu": "",
+      "titulo": "Konami tem lucro recorde no semestre e eleva previsão anual",
+      "linha_fina": "Lucro operacional sobe cerca de 73%, puxado por eFootball, Yu-Gi-Oh! e lançamentos como Silent Hill: Townfall",
+      "texto": "A Konami divulgou nesta quinta (29) resultados recordes para o semestre de abril a setembro: a receita subiu 37%, para ¥ 308 bilhões, e o lucro operacional cresceu cerca de 73%, para ¥ 111,3 bilhões. A divisão de entretenimento digital, que reúne os games e o card game Yu-Gi-Oh!, faturou ¥ 243,5 bilhões, alta de 44,3%. Com isso, a empresa elevou a previsão de lucro operacional do ano fiscal de ¥ 143 bilhões para ¥ 193 bilhões. Os veículos divergem levemente sobre a alta do lucro (73,1% ou 73,3%).",
+      "fonte": "Inven Global",
+      "link": "https://www.invenglobal.com/articles/27945/konami-h1-operating-profit-surges-731",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Automaton West",
+            "link": "https://automaton-media.com/en/news/konami-digital-entertainment-reports-75-1-rise-in-profit-thanks-to-solid-performance-of-flagship-titles-full-year-forecast-revised-to-account-for-strong-profit-growth/"
+          },
+          {
+            "veiculo": "Investing.com",
+            "link": "https://ca.investing.com/news/stock-market-news/konami-raises-fullyear-profit-outlook-after-strong-quarter-93CH-4913298"
+          },
+          {
+            "veiculo": "Push Square",
+            "link": "https://www.pushsquare.com/news/2026/10/konami-records-strong-profit-having-made-excellent-games-again"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g3",
+      "chapeu": "",
+      "titulo": "Celeste e TowerFall saem da loja do Xbox em apoio a boicote",
+      "linha_fina": "A criadora Maddy Thorson confirmou que retirou os dois jogos de propósito, em adesão ao movimento BDS contra a Microsoft",
+      "texto": "Celeste e TowerFall foram retirados da loja do Xbox nesta quinta (29), e a desenvolvedora Maddy Thorson confirmou que a decisão apoia o boicote do movimento BDS. O movimento acusa a Microsoft de dar suporte tecnológico às ações militares de Israel em Gaza e pede boicote ao Xbox e ao Game Pass; a Microsoft não comentou a retirada nas reportagens. Os jogos seguem à venda no PlayStation, no Switch e em lojas de PC, e quem já os comprou não deve perdê-los.",
+      "fonte": "Pure Xbox",
+      "link": "https://www.purexbox.com/news/2026/10/we-did-this-to-support-the-bds-boycott-two-xbox-games-delisted-as-celeste-developer-issues-statement",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Kotaku",
+            "link": "https://kotaku.com/indie-game-of-the-year-winner-pulled-from-xbox-over-bds-boycott-2000751041"
+          },
+          {
+            "veiculo": "GamesRadar+",
+            "link": "https://www.gamesradar.com/games/platformer/celeste-dev-delists-the-legendary-platformer-from-xbox-we-did-this-to-support-the-bds-boycott/"
+          },
+          {
+            "veiculo": "Shacknews",
+            "link": "https://www.shacknews.com/article/151194/celeste-delisted-from-xbox-in-support-of-bds-movement"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g4",
+      "chapeu": "",
+      "titulo": "Netflix desenvolve série live-action de PUBG com Donald Glover",
+      "linha_fina": "Criador de Atlanta vai dirigir, escrever, produzir e estrelar a adaptação do battle royale da Krafton",
+      "texto": "A Krafton anunciou nesta quinta (29) que a Netflix desenvolve uma série live-action baseada em PUBG: Battlegrounds. Donald Glover vai dirigir, escrever, ser produtor executivo e protagonizar a série, com roteiro também de Stephen Glover. Ainda não há previsão de estreia. O jogo vendeu mais de 75 milhões de cópias antes de virar gratuito.",
+      "fonte": "Gematsu",
+      "link": "https://www.gematsu.com/2026/10/pubg-live-action-series-in-development-at-netflix",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Game Developer",
+            "link": "https://www.gamedeveloper.com/business/netflix-adapts-krafton-pubg-to-be-written-and-led-by-donald-glover"
+          },
+          {
+            "veiculo": "Deadline",
+            "link": "https://deadline.com/2026/10/pubg-donald-glover-live-action-series-game-netflix-1237207739/"
+          },
+          {
+            "veiculo": "Seoul Economic Daily",
+            "link": "https://en.sedaily.com/technology/2026/10/30/pubg-heads-to-netflix-as-krafton-expands-game-ip"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g5",
+      "chapeu": "",
+      "titulo": "Trilha de GTA 6, assinada pelo duo Justice, sai em 11 de dezembro",
+      "linha_fina": "Rockstar abre pré-venda em CD e vinil a três semanas do lançamento do jogo, marcado para 19 de novembro",
+      "texto": "A Rockstar Games anunciou nesta quinta (29) o álbum com a trilha original de Grand Theft Auto VI, composta pela dupla francesa Justice. O disco chega em 11 de dezembro com 30 faixas, em CD, vinil triplo e nas plataformas de streaming, e uma faixa com Gesaffelstein já foi liberada. GTA 6 chega ao PS5 e ao Xbox Series em 19 de novembro.",
+      "fonte": "VGC",
+      "link": "https://www.videogameschronicle.com/news/the-official-grand-theft-auto-6-musical-score-by-justice-is-released-in-december-cd-and-vinyl-pre-orders-available-now/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Rockstar Newswire (oficial)",
+            "link": "https://www.rockstargames.com/newswire/article/39ak8a12395591/grand-theft-auto-vi-original-score-by-justice"
+          },
+          {
+            "veiculo": "Gematsu",
+            "link": "https://www.gematsu.com/2026/10/grand-theft-auto-vi-original-score-launches-december-11"
+          },
+          {
+            "veiculo": "GosuGamers",
+            "link": "https://www.gosugamers.net/entertainment/news/79441-rockstar-announces-grand-theft-auto-vi-original-score-by-justice-launching-in-december"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i1",
+      "chapeu": "",
+      "titulo": "EUA investigaram suposta espiã chinesa próxima do CEO da Nvidia",
+      "linha_fina": "Executiva de empresa acusada de desviar chips de IA para a China teria se aproximado de Jensen Huang; Nvidia e a empresa negam irregularidades",
+      "texto": "Segundo reportagem do New York Times repercutida nesta quinta (29), agências de inteligência dos EUA concluíram que Alice Huang, executiva da Megaspeed, de Singapura, atuava para a inteligência chinesa e cultivou relação próxima com Jensen Huang, CEO da Nvidia. A Megaspeed já era investigada por supostamente ajudar empresas chinesas a driblar os controles de exportação de chips de IA. A Nvidia afirmou que os encontros eram normais para um CEO e que clientes não recebem informação sensível à segurança nacional; a Megaspeed também nega irregularidades.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "CNBC",
+            "link": "https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html"
+          },
+          {
+            "veiculo": "Bloomberg",
+            "link": "https://www.bloomberg.com/news/articles/2026-10-29/nvidia-ceo-says-ties-to-company-under-spying-probe-were-normal"
+          },
+          {
+            "veiculo": "Newser",
+            "link": "https://www.newser.com/story/399014/us-intel-found-chinese-spy-was-hobnobbing-with-nvidia-ceo.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i2",
+      "chapeu": "",
+      "titulo": "Mistral abre os pesos do Large 4, modelo de 1 trilhão de parâmetros",
+      "linha_fina": "Francesa aposta em ciberdefesa soberana: empresas e governos podem rodar o modelo nos próprios servidores",
+      "texto": "A Mistral liberou nesta quinta (29) os pesos do Mistral Large 4, um modelo de mistura de especialistas com cerca de 1 trilhão de parâmetros treinado em infraestrutura europeia. A empresa destaca o uso em cibersegurança e diz que o modelo recusa em média 96,6% dos pedidos maliciosos de ataque nos testes que aplica. A licença é uma MIT modificada, e a API custa US$ 0,70 por milhão de tokens de entrada e US$ 2,10 por milhão de saída.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Mistral AI (anúncio oficial)",
+            "link": "https://mistral.ai/news/mistral-large-4-oss/"
+          },
+          {
+            "veiculo": "PYMNTS",
+            "link": "https://pymnts.com/news/artificial-intelligence/2026/mistral-touts-cyber-capabilities-chonk-ai-model"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i3",
+      "chapeu": "",
+      "titulo": "Hackers ligados à China usam agentes de IA contra mais de 200 alvos",
+      "linha_fina": "CrowdStrike diz que campanha movida pelo DeepSeek atingiu chancelarias da América Latina e operadoras em ao menos 14 países",
+      "texto": "A CrowdStrike revelou nesta quinta (29) que o grupo de espionagem VAPOR PANDA, ligado à China, usou um sistema de agentes de IA chamado ARTEX, movido principalmente pelo modelo DeepSeek, para atacar mais de 200 organizações em ao menos 14 países em apenas 11 dias. A empresa confirmou invasões em nove alvos, entre eles ministérios das Relações Exteriores da América Latina e operadoras de telecomunicações. Segundo a CrowdStrike, o grupo também usou um segundo modelo comercial, não identificado.",
+      "fonte": "CrowdStrike (blog oficial)",
+      "link": "https://www.crowdstrike.com/en-us/blog/vapor-panda-uses-artex-to-scale-global-campaign/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Unite.AI",
+            "link": "https://www.unite.ai/china-nexus-vapor-panda-breached-nine-of-200-plus-targets-with-ai-agents/"
+          },
+          {
+            "veiculo": "SecurityBrief UK",
+            "link": "https://securitybrief.co.uk/story/crowdstrike-uncovers-china-linked-ai-cyber-campaign"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i4",
+      "chapeu": "",
+      "titulo": "Thrive Holdings, parceira da OpenAI, compra a ADT por US$ 15,3 bi",
+      "linha_fina": "Braço de private equity da Thrive Capital pagará US$ 10 por ação e quer levar IA à segurança residencial",
+      "texto": "A Thrive Holdings, braço de private equity da Thrive Capital, anunciou nesta quinta (29) a compra da empresa de segurança residencial ADT por US$ 10 por ação em dinheiro, cerca de US$ 7,6 bilhões pelas ações e US$ 15,3 bilhões em valor de empresa, contando dívidas. A OpenAI é investidora e parceira da Thrive Holdings e fornece modelos e engenheiros para modernizar com IA as empresas do grupo. Os produtos de IA para a ADT ainda não foram detalhados.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Bloomberg",
+            "link": "https://www.bloomberg.com/news/articles/2026-10-29/kushner-s-thrive-holdings-to-buy-adt-for-7-6-billion-in-cash"
+          },
+          {
+            "veiculo": "Axios",
+            "link": "https://www.axios.com/pro/all-deals/2026/10/29/thrive-holdings-adt-15b-take-private"
+          },
+          {
+            "veiculo": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/stocks/article/adt-stock-surges-to-5-year-high-after-thrive-holdings-agrees-to-76-billion-buyout-deal-190630046.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t1",
+      "chapeu": "",
+      "titulo": "Amazon fatura US$ 201,9 bi; AWS cresce 39%, mas lucro decepciona",
+      "linha_fina": "Nuvem tem o ritmo mais forte em quase cinco anos, e Andy Jassy promete gastar ainda mais com IA em 2027",
+      "texto": "A Amazon divulgou nesta quinta (29) receita de US$ 201,9 bilhões no terceiro trimestre, alta de 12% em um ano. A AWS faturou US$ 46 bilhões, 39% a mais, e o CEO Andy Jassy disse que a divisão pode virar um negócio de US$ 1 trilhão. O lucro por ação, de US$ 1,89, ficou abaixo da estimativa de US$ 1,97. A empresa mantém cerca de US$ 220 bilhões em investimentos em 2026, a maior parte em infraestrutura de IA, e prevê gastos ainda maiores em 2027; as ações caíram cerca de 6% no pós-mercado.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Amazon (comunicado à SEC)",
+            "link": "https://www.sec.gov/Archives/edgar/data/0001018724/000101872426000038/amzn-20260930xex991.htm"
+          },
+          {
+            "veiculo": "CNBC",
+            "link": "https://www.cnbc.com/2026/10/29/aws-q3-earnings-report-2026.html"
+          },
+          {
+            "veiculo": "Stock Titan",
+            "link": "https://www.stocktitan.net/articles/amazon-q3-2026-earnings-aws-cloud-growth"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t2",
+      "chapeu": "",
+      "titulo": "DoorDash compra a rival Instacart por US$ 17 bilhões",
+      "linha_fina": "Oferta de US$ 65 por ação tem prêmio de 26%; fechamento depende de antitruste e deve ficar para 2027 ou 2028",
+      "texto": "A DoorDash anunciou nesta quinta (29) a compra da Instacart, de entregas de supermercado, em negócio avaliado em cerca de US$ 17 bilhões. A oferta é de US$ 65 por ação, prêmio de 26% sobre a cotação de 22 de outubro, com ao menos 75% do pagamento em dinheiro. A Instacart manterá marca e aplicativo, e o fechamento, que depende de acionistas e de órgãos antitruste dos EUA, do Canadá e de Israel, é esperado entre o fim de 2027 e o primeiro semestre de 2028.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "DoorDash (comunicado oficial)",
+            "link": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart"
+          },
+          {
+            "veiculo": "CBS News",
+            "link": "https://www.cbsnews.com/news/doordash-buys-instacart-in-17-billion-deal/"
+          },
+          {
+            "veiculo": "Bloomberg",
+            "link": "https://www.bloomberg.com/news/articles/2026-10-29/doordash-to-buy-instacart-in-17-billion-deal"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t3",
+      "chapeu": "",
+      "titulo": "GM pagará US$ 220 mi a 36 estados por vender dados de motoristas",
+      "linha_fina": "Montadora repassava dados de direção e localização a corretoras de dados que abasteciam seguradoras",
+      "texto": "A General Motors fechou nesta quinta (29) um acordo de US$ 220 milhões com procuradores-gerais de 36 estados americanos. Eles acusavam a montadora de vender dados de comportamento ao volante e de localização, coletados pelo programa Smart Driver, a corretoras que os repassavam a seguradoras. A GM terá de obter consentimento expresso dos motoristas antes de coletar ou compartilhar esses dados e passará por avaliações externas de privacidade; o Smart Driver foi encerrado em 2024.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "The Record",
+            "link": "https://therecord.media/general-motors-lawsuit-privacy"
+          },
+          {
+            "veiculo": "Procuradoria-Geral de Washington (oficial)",
+            "link": "https://www.atg.wa.gov/news/news-releases/gm-pay-220m-sharing-drivers-private-data-case-co-led-washington"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t4",
+      "chapeu": "",
+      "titulo": "Alexandre Freire será presidente interino da Anatel a partir de 5/11",
+      "linha_fina": "Conselheiro substitui Carlos Baigorri, cujo mandato termina em 4 de novembro, até a posse de um novo titular",
+      "texto": "O Conselho Diretor da Anatel formalizou nesta quinta (29) a indicação do conselheiro Alexandre Freire para presidir a agência de forma interina. Ele assume em 5 de novembro, após o fim do mandato de Carlos Baigorri, e fica no cargo até a posse de um presidente definitivo. Na agência, Freire foi relator da resolução que criou o sandbox regulatório.",
+      "fonte": "Convergência Digital",
+      "link": "https://convergenciadigital.com.br/governo/alexandre-freire-assumira-interinamente-o-comando-da-anatel/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Mobile Time",
+            "link": "https://www.mobiletime.com.br/noticias/29/10/2026/anatel-pres-alexandre/"
+          },
+          {
+            "veiculo": "Diário do Grande ABC",
+            "link": "https://www.dgabc.com.br/Noticia/4365828/anatel-formaliza-indicacao-de-alexandre-freire-para-funcao-de-presidente-interino-da-agencia"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h1",
+      "chapeu": "",
+      "titulo": "Intel bate previsões no 3º tri, mas ação despenca com projeção fraca",
+      "linha_fina": "Receita sobe 21%, para US$ 16,5 bilhões, puxada por data center; previsão para o 4º trimestre decepciona",
+      "texto": "A Intel divulgou nesta quinta (29) receita de US$ 16,5 bilhões no terceiro trimestre, alta de 21% em um ano, puxada pela divisão de data center e IA (US$ 7,3 bilhões, +78%). A área de PCs recuou 5%, para US$ 8,1 bilhões. Para o quarto trimestre, a empresa prevê de US$ 15 bilhões a US$ 16 bilhões, com margem bruta ajustada perto de 38%, abaixo do esperado. As ações caíram entre 17% e 21% no pós-mercado, conforme o veículo.",
+      "fonte": "Investing.com",
+      "link": "https://www.investing.com/news/company-news/intel-q3-2026-slides-record-data-center-growth-stock-tumbles-on-outlook-93CH-4985517",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Intel (comunicado à SEC)",
+            "link": "https://www.sec.gov/Archives/edgar/data/0000050863/000005086326000188/q326earningsrelease.htm"
+          },
+          {
+            "veiculo": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/intc-stock-tumbles-hours-q3-205401483.html"
+          },
+          {
+            "veiculo": "Calcalist (Ctech)",
+            "link": "https://www.calcalistech.com/ctechnews/article/7djs538lu"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h2",
+      "chapeu": "",
+      "titulo": "Nova Lake usará o processo 18A-P e está adiantado, diz Intel",
+      "linha_fina": "Empresa tira capacidade do Panther Lake para produzir mais Xeon e prevê queda de 12% no mercado de PCs em 2026",
+      "texto": "Na teleconferência de resultados desta quinta (29), o CEO Lip-Bu Tan confirmou que os processadores Nova Lake para desktop serão o primeiro produto de consumo no nó 18A-P e estão adiantados, com detalhes prometidos para a CES de janeiro. A Intel também está desviando wafers 18A do Panther Lake para chips de data center, como o Granite Rapids. A companhia projeta retração de cerca de 12% no mercado de PCs em 2026 e de 10% em 2027.",
+      "fonte": "Tom's Hardware",
+      "link": "https://www.tomshardware.com/pc-components/cpus/intel-confirms-nova-lake-will-use-advanced-18a-p-node-more-details-at-ces-company-says-its-taking-panther-lake-capacity-offline-to-build-more-granite-rapids-data-center-cpus",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/intel-corp-intc-q3-2026-051348065.html"
+          },
+          {
+            "veiculo": "Wccftech",
+            "link": "https://wccftech.com/intel-lip-bu-tan-nova-lake-fill-high-end-client-cpu-gap-coral-rapids-14a-competitive-against-amd/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h3",
+      "chapeu": "",
+      "titulo": "Sandisk fatura US$ 11 bi, alta de 378%, e anuncia desdobramento",
+      "linha_fina": "Disparada dos preços de memória flash e demanda de data centers levam a margem bruta a 85%",
+      "texto": "A Sandisk informou nesta quinta (29) receita de US$ 11 bilhões no primeiro trimestre fiscal de 2027, alta de 23% sobre o trimestre anterior e de 378% em um ano. O segmento de data center somou US$ 4,8 bilhões, e a margem bruta chegou a 85%, reflexo da alta de preços da NAND. A empresa projeta de US$ 12,2 bilhões a US$ 12,6 bilhões para o próximo trimestre e aprovou desdobramento de ações de 8 para 1.",
+      "fonte": "The Motley Fool",
+      "link": "https://www.fool.com/investing/2026/10/29/sandisk-revenue-up-378-on-datacenter-edge-rapid-earnings-reaction/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Sandisk (comunicado oficial)",
+            "link": "https://investor.sandisk.com/news-releases/news-release-details/sandisk-reports-fiscal-first-quarter-2027-financial-results"
+          },
+          {
+            "veiculo": "Investing.com",
+            "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-sandisk-beats-q1-2027-estimates-shares-fall-93CH-4985403"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h4",
+      "chapeu": "",
+      "titulo": "Explosão em fábrica da Intel em Israel tira cerca de US$ 600 mi da receita",
+      "linha_fina": "Unidade de Kiryat Gat, que produz chips de data center, ficou parada por cerca de duas semanas",
+      "texto": "A Intel detalhou nesta quinta (29) o impacto da explosão na fábrica de Kiryat Gat (Fab 28), em Israel, que matou dois funcionários. Segundo a empresa, a paralisação deve tirar cerca de US$ 300 milhões da receita do quarto trimestre e uns 2 pontos da margem bruta, com efeito parecido no primeiro trimestre de 2027. A unidade fabrica principalmente chips para data center, e a produção deve ser retomada aos poucos.",
+      "fonte": "Calcalist (Ctech)",
+      "link": "https://www.calcalistech.com/ctechnews/article/7djs538lu",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Investing.com",
+            "link": "https://www.investing.com/news/company-news/intel-q3-2026-slides-record-data-center-growth-stock-tumbles-on-outlook-93CH-4985517"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c1",
+      "chapeu": "",
+      "titulo": "Volkswagen tem prejuízo de € 5,9 bi, o pior resultado em mais de uma década",
+      "linha_fina": "Baixa contábil da participação na Porsche, concorrência chinesa e tarifas derrubam o grupo alemão no 3º trimestre",
+      "texto": "O Grupo Volkswagen divulgou nesta quinta (29) prejuízo operacional de cerca de € 5,9 bilhões no terceiro trimestre, contra perda de € 1,29 bilhão um ano antes. A receita caiu 6,3%, para € 75,3 bilhões. Pesaram quase € 8 bilhões em efeitos extraordinários, a maior parte com a baixa contábil da fatia na Porsche. O diretor financeiro, Arno Antlitz, defendeu acelerar o plano de cortes de custos.",
+      "fonte": "BPMoney",
+      "link": "https://bpmoney.com.br/economia/internacional-economia/volkswagen-prejuizo-terceiro-trimestre-pior-resultado-decada/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Sweden Herald",
+            "link": "https://swedenherald.com/article/volkswagen-reports-biggerthanexpected-thirdquarter-operating-loss-of-586-billion"
+          },
+          {
+            "veiculo": "Guru dos Carros",
+            "link": "https://gurudoscarros.com.br/2026/10/29/volkswagen-perde-e-59-bilhoes-no-trimestre-apos-baixa-da-porsche/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c2",
+      "chapeu": "",
+      "titulo": "BAIC estreia no Brasil com elétrico Arcfox T1 a partir de R$ 129.900",
+      "linha_fina": "Chinesa começa com cerca de 50 concessionárias e promete o SUV elétrico Arcfox T5 ainda em novembro",
+      "texto": "A BAIC lançou nesta quinta (29) sua operação no Brasil com o elétrico compacto Arcfox T1. A versão Pro sai por R$ 129.900 em preço promocional, e a Max, por R$ 139.900, com autonomia de 283 km pelo padrão Inmetro. As primeiras entregas estão marcadas para 11 de novembro, e a marca prevê chegar a 150 lojas até o fim de 2027.",
+      "fonte": "Diário do Grande ABC",
+      "link": "https://www.dgabc.com.br/Noticia/4365864/baic-lanca-hatch-eletrico-arcfox-t1-por-rs-129-9-mil-no-brasil",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "AutoIndústria",
+            "link": "https://www.autoindustria.com.br/2026/10/29/baic-estreia-com-o-eletrico-arcfox-t1-a-partir-de-r-129-900/"
+          },
+          {
+            "veiculo": "AutoPapo",
+            "link": "https://autopapo.com.br/noticia/baic-arcfox-t1-lancamento/"
+          },
+          {
+            "veiculo": "Encontracarros",
+            "link": "https://www.encontracarros.com.br/baic-arcfox-t1"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c3",
+      "chapeu": "",
+      "titulo": "BYD prevê primeiro carro 100% feito na Bahia até dezembro",
+      "linha_fina": "Montadora também quer o antigo porto da Ford, em Candeias, para exportar a partir de Camaçari",
+      "texto": "Em coletiva na Fieb, em Salvador, nesta quinta (29), a BYD disse que deve começar entre novembro e dezembro a fabricação completa de carros em Camaçari, a começar pelo híbrido flex Atto 2. A empresa manifestou interesse no porto da Ford em Candeias, que pertence ao governo baiano e está parado desde 2021. Hoje a fábrica monta cerca de 700 carros por dia e tem 9 mil empregados diretos.",
+      "fonte": "Olhar Digital",
+      "link": "https://olhardigital.com.br/2026/10/29/carros-e-tecnologia/byd-avanca-na-bahia-e-quer-comprar-porto-desativado-da-ford",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "A Voz do Campo",
+            "link": "https://avozdocampo.com/salvador/byd-preve-producao-de-carro-100-brasileiro-ate-dezembro-e-mira-porto/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c4",
+      "chapeu": "",
+      "titulo": "Rivian supera previsões e eleva meta de entregas com o R2",
+      "linha_fina": "Receita da fabricante americana de elétricos sobe 38% no trimestre, e o SUV R2 vira seu modelo mais vendido",
+      "texto": "A Rivian informou nesta quinta (29) receita de US$ 2,155 bilhões no terceiro trimestre, alta de 38% em um ano, e prejuízo ajustado menor que o esperado. As entregas subiram 46%, para 19.248 unidades, puxadas pelo R2 em seu primeiro trimestre completo de vendas. A empresa elevou a projeção de entregas em 2026 para 67 mil a 70 mil veículos.",
+      "fonte": "Electrek",
+      "link": "https://electrek.co/2026/10/29/rivian-rivn-q3-2026-earnings-r2-best-seller/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Shacknews",
+            "link": "https://www.shacknews.com/article/151206/rivian-rivn-q3-2026-earnings-results"
+          },
+          {
+            "veiculo": "Investing.com",
+            "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-rivian-beats-q3-2026-estimates-as-r2-ramps-93CH-4985508"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c5",
+      "chapeu": "",
+      "titulo": "Mustang GT Performance volta ao Brasil por R$ 569 mil",
+      "linha_fina": "Com V8 de 492 cv, a versão vira a porta de entrada do esportivo, R$ 80 mil abaixo do Dark Horse",
+      "texto": "A Ford trouxe de volta ao Brasil nesta quinta (29) o Mustang GT Performance, por R$ 569 mil. O modelo usa o V8 5.0 de 492 cv, câmbio automático de dez marchas, suspensão adaptativa e freios Brembo, e faz de 0 a 100 km/h em 4,3 segundos, segundo a marca. A versão fica abaixo do Dark Horse, de R$ 649 mil.",
+      "fonte": "AutoData",
+      "link": "https://www.autodata.com.br/mobility/2026/10/29/ford-mustang-gt-performance-retorna-ao-brasil-por-r-569-mil/138828/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Vrum",
+            "link": "https://www.vrum.com.br/mercado/2026/10/7530107-ford-mustang-gt-performance-com-quase-500cv-volta-ao-brasil-por-rs-569-mil.html"
+          },
+          {
+            "veiculo": "AutoPapo",
+            "link": "https://autopapo.com.br/curta/ford-mustang-gt-performance-volta-ao-brasil-com-v8-de-492-cv-por-r-569-mil/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p1",
+      "chapeu": "",
+      "titulo": "Valdemar visita Bolsonaro e diz que não gostou da carta de Flávio",
+      "linha_fina": "Presidente do PL criticou o texto em que o senador contestou a eleição; partido já havia reconhecido o resultado",
+      "texto": "O presidente nacional do PL, Valdemar Costa Neto, visitou na manhã desta quinta (29) o ex-presidente Jair Bolsonaro, que cumpre prisão domiciliar em Brasília, com autorização do ministro Alexandre de Moraes, do STF. Na chegada, disse que não gostou da carta divulgada por Flávio Bolsonaro nos EUA, cuja primeira versão o apresentava como presidente eleito e falava em fraude sem provas. O PL já havia reconhecido em nota o resultado proclamado pelo TSE, que deu a Lula 51,79% dos votos válidos.",
+      "fonte": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/politica/nao-gostei-diz-valdemar-sobre-carta-de-teor-golpista-de-flavio/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Congresso em Foco",
+            "link": "https://www.congressoemfoco.com.br/noticia/129641/nao-gostei--diz-valdemar-costa-neto-sobre-carta-de-flavio-bolsonaro"
+          },
+          {
+            "veiculo": "Terra",
+            "link": "https://www.terra.com.br/noticias/eleicoes/valdemar-visita-bolsonaro-apos-autorizacao-de-moraes-e-critica-carta-de-flavio-nao-gostei,6bdcac77d881ac786cd244d93cfc0c681vs3zib9.html"
+          },
+          {
+            "veiculo": "TV Brasil",
+            "link": "https://tvbrasil.ebc.com.br/reporter-brasil/2026/10/reporter-brasil-de-29-de-outubro-de-2026-assista-na-integra"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p2",
+      "chapeu": "",
+      "titulo": "Deputado do PT pede inelegibilidade de Flávio por carta sobre eleição",
+      "linha_fina": "Representação de Alencar Santana à Procuradoria-Geral Eleitoral pede oito anos de inelegibilidade; senador nega irregularidades",
+      "texto": "O deputado Alencar Santana (PT-SP) apresentou à Procuradoria-Geral Eleitoral uma representação contra o senador Flávio Bolsonaro (PL-RJ), divulgada nesta quinta (29). Ele pede que o órgão proponha ao TSE uma ação por suposto abuso de poder político e uso indevido dos meios de comunicação, com possível inelegibilidade de oito anos, alegando que a carta faz acusações sem provas. O pedido ainda será analisado pelo Ministério Público Eleitoral e não altera, por si só, os direitos políticos do senador, que contesta o resultado e nega irregularidades.",
+      "fonte": "ISTOÉ",
+      "link": "https://istoe.com.br/pt-pede-inelegibilidade-flavio-bolsonaro-carta-eleicoes",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Agenda do Poder",
+            "link": "https://agendadopoder.com.br/vice-lider-do-pt-pede-inelegibilidade-de-8-anos-para-flavio-bolsonaro-por-carta-golpista/"
+          },
+          {
+            "veiculo": "Brasil 247",
+            "link": "https://www.brasil247.com/brasilia/alencar-santana-pede-inelegibilidade-de-flavio-bolsonaro-por-oito-anos/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p3",
+      "chapeu": "",
+      "titulo": "Aliado atribui ao ChatGPT erros na carta de Flávio Bolsonaro",
+      "linha_fina": "Paulo Figueiredo diz que a ferramenta incluiu um rascunho antigo e um brasão desatualizado no documento",
+      "texto": "O comentarista Paulo Figueiredo, aliado da família Bolsonaro nos EUA, afirmou nesta quinta (29) que o ChatGPT causou os erros da carta divulgada por Flávio Bolsonaro. Segundo ele, a ferramenta usada para finalizar o texto inseriu um brasão antigo da República e um rascunho em que Flávio se dizia presidente eleito; a versão final passou a usar a palavra “líder”. De acordo com a Reuters, a OpenAI e a assessoria de Flávio não responderam aos pedidos de comentário.",
+      "fonte": "Metrópoles",
+      "link": "https://www.metropoles.com/mundo/figueiredo-diz-que-erros-na-carta-de-flavio-foram-causados-pelo-chatgpt",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Congresso em Foco",
+            "link": "https://www.congressoemfoco.com.br/noticia/129661/paulo-figueiredo-diz-que-erros-em-carta-de-flavio-foram-do-chatgpt"
+          },
+          {
+            "veiculo": "Reuters (via Money Times)",
+            "link": "https://moneytimes.com.br/desinteligencia-artificial-paulo-figueiredo-culpa-chatgpt-por-carta-que-flavio-bolsonario-seria-o-presidente-eleito-fets"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p4",
+      "chapeu": "",
+      "titulo": "Lula anuncia pronunciamento à nação para a próxima semana",
+      "linha_fina": "Em áudio a apoiadores, o presidente reeleito agradeceu os votos e adiou uma live por causa da voz rouca",
+      "texto": "O presidente Lula (PT) disse nesta quinta (29), em áudio enviado a um canal de apoiadores do deputado André Janones, que fará um pronunciamento à nação na próxima semana, sem informar data nem tema. Lula agradeceu o apoio na campanha e disse estar com a voz rouca desde a reta final da disputa. A transmissão ao vivo prevista para a noite de quinta foi adiada, ainda sem nova data.",
+      "fonte": "O Tempo",
+      "link": "https://www.otempo.com.br/politica/congresso/2026/10/29/lula-agradece-apoio-apos-reeleicao-e-anuncia-pronunciamento-e-live-para-proxima-semana",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "SBT News",
+            "link": "https://sbtnews.sbt.com.br/noticia/politica/lula-promete-pronunciamento-a-nacao-e-live-na-semana-que-vem"
+          },
+          {
+            "veiculo": "O Povo (Agência Estado)",
+            "link": "https://www.opovo.com.br/noticias/politica/2026/10/29/em-audio-enviado-ao-exercito-do-lula-presidente-diz-que-fara-pronunciamento-em-breve.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p5",
+      "chapeu": "",
+      "titulo": "Trump cancela comícios no Kansas e em Iowa e aposta em tele-comícios",
+      "linha_fina": "A cinco dias das eleições de meio de mandato nos EUA, Partido Republicano anuncia eventos virtuais em quase 20 estados",
+      "texto": "O Comitê Nacional Republicano anunciou nesta quinta (29) o cancelamento dos comícios de Donald Trump no Kansas e em Iowa, no fim de semana, que serão substituídos por tele-comícios em quase 20 estados. O partido diz que o formato alcança mais eleitores; questionado se a decisão tinha relação com a saúde, Trump disse se sentir “perfeito”. O comício na Flórida previsto para sexta foi mantido, e as eleições legislativas americanas são em 3 de novembro.",
+      "fonte": "CBS News (AP)",
+      "link": "https://www.cbsnews.com/minnesota/news/trump-cancels-iowa-kansas-rallies-telerallies-midterms/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Al Jazeera",
+            "link": "https://www.aljazeera.com/news/2026/10/30/trump-cancels-iowa-kansas-midterm-events-opting-for-tele-rallies"
+          },
+          {
+            "veiculo": "Newsweek",
+            "link": "https://www.newsweek.com/trump-cancels-kansas-rally-as-new-poll-shows-republican-trailing-democrat-12637635"
+          }
+        ]
+      }
+    }
+  ]
+}
