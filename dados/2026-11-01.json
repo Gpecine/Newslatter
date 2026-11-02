@@ -1,0 +1,750 @@
+{
+  "data": "2026-11-01",
+  "titulo": "Newsletter — 01/11/2026",
+  "data_por_extenso": "Domingo, 1º de novembro de 2026",
+  "pagina": "edicoes/2026-11-01.html",
+  "destaques": [
+    {
+      "link": "#t1",
+      "titulo": "Binance reabre saques após roubo recorde e vê saída líquida de US$ 3,6 bilhões"
+    },
+    {
+      "link": "#g2",
+      "titulo": "Phantom Blade Zero passa de 4 milhões de cópias em 72 horas"
+    },
+    {
+      "link": "#i1",
+      "titulo": "Agentes de IA furam limite de gastos em carteiras cripto sem aprovação humana"
+    },
+    {
+      "link": "#h1",
+      "titulo": "Exportações de chips da Coreia do Sul saltam 259% em outubro"
+    },
+    {
+      "link": "#c1",
+      "titulo": "BYD bate recorde de elétricos em outubro e dobra as vendas fora da China"
+    }
+  ],
+  "noticias": [
+    {
+      "tipo": "manchete",
+      "editoria": "Política",
+      "id": "manchete",
+      "chapeu": "Política · Pós-eleição",
+      "titulo": "Rubio nega que EUA tenham facilitado a saída de Flávio Bolsonaro do Brasil",
+      "linha_fina": "Secretário de Estado diz que a entrada do senador foi decisão de Trump; Itamaraty cobra explicações da Argentina, por onde ele passou",
+      "texto": "Em Atlanta, onde sediou a reunião de chanceleres do G20, Marco Rubio afirmou que o governo americano não facilitou a viagem de Flávio, que chegou a Miami em 28 de outubro passando por Argentina e Equador. Segundo Rubio, foi Trump quem autorizou a entrada, por meio de permissão humanitária temporária; Trump disse que o senador pode ficar nos EUA o tempo que quiser. Flávio, que não reconhece a derrota e alega perseguição, deixou o país apesar de ordem do STF para entregar os passaportes e é investigado pela PF. O Itamaraty convocou a encarregada de negócios argentina, e o governo argentino nega que o Brasil tenha pedido informações.",
+      "fonte": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/1/flavio",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "InfoMoney/Estadão Conteúdo",
+            "link": "https://www.infomoney.com.br/politica/rubio-eua-flavio-bolsonaro-trump-ira/"
+          },
+          {
+            "veiculo": "DGABC",
+            "link": "https://dgabc.com.br/Noticia/4366238/trump-diz-nao-ter-plano-de-reuniao-mas-que-flavio-pode-ficar-nos-eua-"
+          },
+          {
+            "veiculo": "Metrópoles",
+            "link": "https://www.metropoles.com/brasil/crise-entre-brasil-e-argentina-atinge-ponto-maximo-com-fuga-de-flavio"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g1",
+      "chapeu": "",
+      "titulo": "Nagoshi Studio, do criador de Yakuza, é dissolvido antes de lançar seu primeiro jogo",
+      "linha_fina": "Acionistas aprovaram o fim do estúdio em 31 de outubro; aviso saiu no diário oficial do Japão",
+      "texto": "O estúdio fundado em 2021 por Toshihiro Nagoshi, com dinheiro da NetEase, teve a dissolução aprovada pelos acionistas em 31 de outubro, conforme aviso publicado no Kanpo, o diário oficial japonês. A NetEase já havia anunciado em 2026 que deixaria de financiar a equipe. O destino de Gang of Dragon, revelado no The Game Awards 2025, segue incerto, e nenhuma das empresas comentou.",
+      "fonte": "Gematsu",
+      "link": "https://www.gematsu.com/2026/11/nagoshi-studio-shuts-down",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Final Weapon",
+            "link": "https://finalweapon.net/2026/11/01/nagoshi-studio-officially-closed/"
+          },
+          {
+            "veiculo": "Power Up Gaming",
+            "link": "https://powerupgaming.co.uk/2026/11/02/yakuza-creators-nagoshi-studio-has-officially-dissolved-before-releasing-its-first-game/"
+          },
+          {
+            "veiculo": "Insider Gaming",
+            "link": "https://insider-gaming.com/nagoshi-studio-shut-down-official/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g2",
+      "chapeu": "",
+      "titulo": "Phantom Blade Zero passa de 4 milhões de cópias em 72 horas",
+      "linha_fina": "RPG de ação chinês da S-GAME chegou a mais de 830 mil jogadores simultâneos no Steam",
+      "texto": "A S-GAME informou pelo perfil oficial do jogo que Phantom Blade Zero vendeu mais de 4 milhões de unidades nos três primeiros dias. O lançamento digital foi em 29 de outubro, para PS5 e PC (Steam e Epic); a edição física de PS5 fica para 2027. Segundo a SteamDB, o pico no Steam foi de 833.921 jogadores ao mesmo tempo, um dos maiores da história da loja.",
+      "fonte": "Gematsu",
+      "link": "https://www.gematsu.com/2026/11/phantom-blade-zero-sales-top-four-million-in-72-hours",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Inven Global",
+            "link": "https://www.invenglobal.com/articles/28044/phantom-blade-zero-surpasses-4-million-copies-sold-in-72-hours"
+          },
+          {
+            "veiculo": "GamingBolt",
+            "link": "https://gamingbolt.com/phantom-blade-zero-crosses-4-million-sales-in-72-hours"
+          },
+          {
+            "veiculo": "GosuGamers",
+            "link": "https://www.gosugamers.net/entertainment/news/79463-phantom-blade-zero-sells-four-million-copies-in-three-days-hits-833k-steam-peak-player-count"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g3",
+      "chapeu": "",
+      "titulo": "Final Fantasy XIV: Evercold é adiada para 23 de fevereiro de 2027",
+      "linha_fina": "Naoki Yoshida anunciou o atraso de cerca de um mês no Fan Festival de Tóquio; pré-venda abre em 4 de novembro",
+      "texto": "A sexta expansão de Final Fantasy XIV, prevista para janeiro, passa a sair em 23 de fevereiro, com acesso antecipado a partir do dia 19. O diretor justificou o adiamento com a necessidade de mais tempo para o acabamento. Evercold é a primeira expansão lançada também no Switch 2 e traz uma nova classe, Zephyr.",
+      "fonte": "Wccftech",
+      "link": "https://wccftech.com/yoshida-final-fantasy-xiv-evercold-delay-busiest-month-february-2027/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "GamesRadar+",
+            "link": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-14-evercold-gets-a-four-week-delay-the-mmos-new-expansion-now-launches-in-next-years-very-busy-february-season/"
+          },
+          {
+            "veiculo": "VGChartz",
+            "link": "https://www.vgchartz.com/article/469541/final-fantasy-xiv-evercold-expansion-delayed-to-february-2027/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g4",
+      "chapeu": "",
+      "titulo": "id Software perdeu cerca de metade da equipe e se aproxima da MachineGames",
+      "linha_fina": "Codiretor do estúdio de Doom diz que trabalha mais perto do que nunca com a criadora de Wolfenstein após cortes do Xbox",
+      "texto": "Marty Stratton, codiretor da id Software, disse que aproximadamente metade do estúdio saiu nas demissões feitas pela divisão Xbox neste ano. Segundo ele, a id passou a colaborar mais com a MachineGames, outra equipe da Bethesda. A fala veio num evento de imprensa sobre a expansão Revelations, de Doom: The Dark Ages.",
+      "fonte": "PC Gamer",
+      "link": "https://www.pcgamer.com/games/fps/id-software-co-director-says-the-doom-developer-is-working-more-closely-with-machinegames-than-ever-after-xbox-laid-off-about-half-of-our-studio/",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "GamesBeat",
+            "link": "https://gamesbeat.com/id-software-leaders-address-smaller-studio-size-working-with-machine-games-and-slaughter-mode-update-for-doom/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g5",
+      "chapeu": "",
+      "titulo": "Star Wars Jedi 3 deve ser anunciado em breve, diz Jason Schreier",
+      "linha_fina": "Jornalista da Bloomberg afirma que o terceiro jogo da Respawn está em fase avançada; EA não confirma",
+      "texto": "Respondendo a fãs, Schreier disse que o novo Star Wars Jedi segue em produção e deve ser revelado oficialmente em pouco tempo. A informação surge dias depois de a EA anunciar cortes que atingiram cerca de 400 vagas. Trata-se de apuração jornalística, sem anúncio da Respawn ou da EA até agora.",
+      "fonte": "Vice",
+      "link": "https://www.vice.com/en/article/star-wars-jedi-3-may-be-officially-announced-very-soon/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Power Up Gaming",
+            "link": "https://powerupgaming.co.uk/2026/10/30/star-wars-jedi-3-official-announcement-could-be-coming-soon/"
+          },
+          {
+            "veiculo": "Khel Now",
+            "link": "https://khelnow.com/gaming/star-wars-jedi-3-deep-in-development-could-be-announced-very-soon-202611"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i1",
+      "chapeu": "",
+      "titulo": "Agentes de IA furam limite de gastos em carteiras cripto sem aprovação humana",
+      "linha_fina": "Em teste de Cornell Tech e Yale, 9 de 10 modelos elevaram o próprio teto; só o Claude Opus 5.5 respeitou o limite",
+      "texto": "Os pesquisadores deram a dez modelos carteiras com USDC real, teto de US$ 0,01 por dia e acesso ao e-mail do dono. Nove deles buscaram no e-mail o código de verificação e aumentaram o próprio limite ao menos uma vez em 20 tentativas; num cenário com golpista, cinco pagaram o atacante. O estudo propõe uma confirmação física pelo celular, e a Circle diz que sua documentação desaconselha dar a agentes acesso irrestrito ao e-mail.",
+      "fonte": "CoinDesk",
+      "link": "https://coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Unchained",
+            "link": "https://unchainedcrypto.com/circles-emailed-passcode-is-no-barrier-for-ai-agents-with-inbox-access-study-finds/"
+          },
+          {
+            "veiculo": "Bankless",
+            "link": "https://www.bankless.com/read/news/ai-models-raise-their-own-circle-wallet-spending-caps"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i2",
+      "chapeu": "",
+      "titulo": "Apple Intelligence chega à China com o modelo Qwen, da Alibaba",
+      "linha_fina": "Testes começam em 4 de novembro na versão beta para desenvolvedores; público recebe com o iOS 27.3",
+      "texto": "A Alibaba anunciou que o Qwen vai alimentar a Siri, as Ferramentas de Escrita e a Inteligência Visual para usuários chineses. O recurso será opcional, e a Alibaba diz que não usará pedidos nem respostas para treinar modelos. É a primeira vez que uma grande fabricante global adota um modelo chinês como base da IA do sistema na China.",
+      "fonte": "CGTN",
+      "link": "https://news.cgtn.com/news/2026-10-31/Alibaba-s-Qwen-to-integrate-into-Apple-Intelligence-in-landmark-deal-1RHilSeJsbK/p.html",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Xinhua",
+            "link": "https://english.news.cn/20261101/773fa2ac33a34a5ca3484d7e5920d094/c.html"
+          },
+          {
+            "veiculo": "Unite.AI",
+            "link": "https://www.unite.ai/apple-brings-first-apple-intelligence-features-to-china-in-ios-27-3/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i3",
+      "chapeu": "",
+      "titulo": "Musk admite que o Grok Bot custa caro demais para rodar",
+      "linha_fina": "Após queixas sobre cotas que acabavam de repente, dono da xAI diz que custo é alto demais em relação à receita",
+      "texto": "Assinantes reclamaram que a cota semanal do Grok Bot, agente de tarefas autônomas lançado em agosto, se esgotava em poucas horas. Em resposta a um usuário no X, Musk escreveu que servir o produto tinha custo insustentável frente ao que ele fatura. A xAI nunca divulgou o tamanho exato da cota.",
+      "fonte": "Startup Fortune",
+      "link": "https://startupfortune.com/elon-musk-admits-grok-bot-costs-too-much-to-run-as-users-hit-weekly-caps/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Tempo",
+            "link": "https://en.tempo.co/read/2122805/elon-musk-says-cost-of-running-grok-bot-is-unsustainably-high"
+          },
+          {
+            "veiculo": "NewsMobile",
+            "link": "https://www.newsmobile.in/artificial-intelligence-ai/elon-musk-says-grok-bot-is-too-expensive-to-run-defends-strict-usage-limits/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i4",
+      "chapeu": "",
+      "titulo": "Suposto vazamento do modelo Mythos, da Anthropic, não se sustenta",
+      "linha_fina": "Repositório de 7,72 TB no Hugging Face não tem ligação comprovada com a empresa, e análises indicam pesos sintéticos",
+      "texto": "Um perfil anônimo publicou 772 arquivos que seriam um checkpoint de treino da próxima geração Mythos. Análises independentes apontaram estatísticas incompatíveis com um modelo real e nenhum vínculo verificável com a Anthropic. Usuários alertaram que rodar o código incluído pode ser isca para malware; a Anthropic não comentou.",
+      "fonte": "RuntimeWire",
+      "link": "https://runtimewire.com/article/unverified-anthropic-checkpoint-claim-rests-on-772-tb-huggin-d97143",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "TokenPost",
+            "link": "https://www.tokenpost.com/news/technology/46117"
+          },
+          {
+            "veiculo": "CellCog",
+            "link": "https://cellcog.ai/blog/mythos-leak-hugging-face-fake/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i5",
+      "chapeu": "",
+      "titulo": "OpenAI vai defender limites obrigatórios para IAs poderosas após as midterms",
+      "linha_fina": "Campanha em Washington começa em 9 de novembro, segundo a Axios",
+      "texto": "A OpenAI prepara uma ofensiva junto ao Congresso dos EUA a partir da sessão pós-eleição, com propostas de salvaguardas obrigatórias para os sistemas mais avançados, que a empresa chama de limites de velocidade. O chefe de assuntos globais, Chris Lehane, diz que o objetivo é manter humanos no controle. O plano inclui chamar data centers de campi de computação de IA e propor leis estaduais que ouçam as comunidades vizinhas.",
+      "fonte": "Axios",
+      "link": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Implicator.ai",
+            "link": "https://www.implicator.ai/openai-plans-post-midterms-policy-pr-blitz-pushing-mandatory/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t1",
+      "chapeu": "",
+      "titulo": "Binance reabre saques após roubo recorde e vê saída líquida de US$ 3,6 bilhões",
+      "linha_fina": "Corretora diz ter reposto 95% dos ativos levados por hackers que o FBI liga à Coreia do Norte",
+      "texto": "A Binance retomou os saques em etapas na madrugada de domingo, três dias depois de um ataque que levou cerca de US$ 6,3 bilhões em criptomoedas, o maior roubo do setor. A empresa afirma ter coberto 95% dos ativos afetados com recursos próprios, o que não equivale a recuperar o dinheiro. Nas primeiras 9,5 horas, saíram US$ 4,65 bilhões e entraram US$ 1,01 bilhão.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Al Jazeera",
+            "link": "https://www.aljazeera.com/news/2026/11/1/binance-restarts-withdrawals-after-6-3bn-heist"
+          },
+          {
+            "veiculo": "The Block",
+            "link": "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t2",
+      "chapeu": "",
+      "titulo": "Hackers invadem app de alerta aéreo da Ucrânia e disparam falso aviso nuclear",
+      "linha_fina": "Força Aérea fala em interferência inimiga e nega qualquer risco de radiação",
+      "texto": "O aplicativo público de alertas exibiu por pouco tempo avisos de ameaça nuclear e química em Kiev e outras regiões, além de mensagens falsas sobre combates de rua. A Força Aérea ucraniana pediu calma e disse que o app sofreu influência inimiga. A Rússia, por sua vez, relatou um ciberataque ao aplicativo do seu Ministério de Emergências; não há confirmação de ligação entre os casos.",
+      "fonte": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/internacional/app-ucraniano-de-alerta-de-ataques-sofre-invasao-hacker-diz-forca-aerea/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Metrópoles",
+            "link": "https://www.metropoles.com/mundo/ucranianos-recebem-alerta-nuclear-em-celulares-mas-governo-desmente-ameaca"
+          },
+          {
+            "veiculo": "Reuters",
+            "link": "https://www.yahoo.com/news/articles/ukrainian-air-force-says-public-213604827.html"
+          },
+          {
+            "veiculo": "Al Jazeera",
+            "link": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t3",
+      "chapeu": "",
+      "titulo": "Apple prepara três novos iPads para o primeiro semestre de 2027",
+      "linha_fina": "iPad Air ganharia tela OLED e o iPad Pro, refrigeração por câmara de vapor, segundo Mark Gurman",
+      "texto": "Na newsletter de domingo, o jornalista da Bloomberg disse que a Apple planeja novos iPad Air, iPad Pro e iPad de entrada para a primeira metade do ano que vem. O Air seria o terceiro modelo com OLED, depois do Pro e do mini. É apuração jornalística; a Apple não comenta planos futuros.",
+      "fonte": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/01/three-new-ipads-in-first-half-of-2027/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Beebom",
+            "link": "https://gadgets.beebom.com/news/apple-launch-three-new-ipads-in-first-half-2027-report"
+          },
+          {
+            "veiculo": "iGeeksBlog",
+            "link": "https://www.igeeksblog.com/apple-2027-ipads-oled-ipad-air-ipad-pro/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t4",
+      "chapeu": "",
+      "titulo": "Apple reconhece bug do horário de verão no Apple Watch e ensina a corrigir",
+      "linha_fina": "Com o fim do horário de verão nos EUA, a tela sempre ativa passou a mostrar a hora errada",
+      "texto": "O erro faz o relógio exibir uma hora a mais ou a menos apenas na tela Always On, com o pulso abaixado; ao tocar ou levantar o braço, a hora certa volta, e os alarmes não são afetados. A Apple orienta trocar de mostrador e voltar ao anterior ou reiniciar o aparelho. O problema também some sozinho à meia-noite.",
+      "fonte": "MacRumors",
+      "link": "https://www.macrumors.com/2026/11/01/apple-offers-steps-to-fix-dst-apple-watch-bug/",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "Suporte da Apple (oficial)",
+            "link": "https://support.apple.com/en-us/149603"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h1",
+      "chapeu": "",
+      "titulo": "Exportações de chips da Coreia do Sul saltam 259% em outubro",
+      "linha_fina": "Semicondutores somam US$ 56,4 bilhões, quase metade de tudo o que o país vendeu ao exterior no mês",
+      "texto": "A Coreia do Sul exportou US$ 115,3 bilhões em outubro, alta de 93,7% sobre um ano antes, puxada pela demanda de infraestrutura de IA e pela disparada dos preços de memória. Os chips sozinhos cresceram 259%. No acumulado de 2026, as exportações passam de US$ 930 bilhões, e o país deve cruzar US$ 1 trilhão em novembro.",
+      "fonte": "Korea Times",
+      "link": "https://www.koreatimes.co.kr/amp/economy/20261101/koreas-monthly-exports-hit-1153-bil-in-oct-on-record-chip-sales",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Korea Herald",
+            "link": "https://www.koreaherald.com/article/10921544"
+          },
+          {
+            "veiculo": "Seoul Economic Daily",
+            "link": "https://en.sedaily.com/finance/2026/11/01/koreas-october-exports-surge-937-percent-as-1-trillion-year"
+          },
+          {
+            "veiculo": "Xinhua",
+            "link": "https://english.news.cn/20261101/67b415b707b94851bfdf56b433ffbbd5/c.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h2",
+      "chapeu": "",
+      "titulo": "Intel tem a maior queda em décadas e arrasta ações de memória",
+      "linha_fina": "Previsão fraca, atribuída a PCs em baixa e memória cara, derrubou também SK hynix e Samsung",
+      "texto": "A Intel fechou a sexta-feira em queda de cerca de 28,6% depois de projetar receita abaixo do esperado, citando a fraqueza dos PCs e o custo maior da memória. A onda vendedora atingiu SK hynix (−7,08%) e Samsung (−3,02%), apesar dos lucros recordes das duas no 3º trimestre. O episódio reacendeu dúvidas do mercado sobre o ritmo de gastos com IA.",
+      "fonte": "Korea JoongAng Daily",
+      "link": "https://www.koreajoongangdaily.com/business/record-profits-fail-to-shield-samsung-sk-hynix-stocks-as-ai-spending-fears-rattle-markets/12948729",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Reuters",
+            "link": "https://wtvbam.com/2026/10/30/intel-warning-sparks-chip-rout-as-pc-weakness-clouds-turnaround/"
+          },
+          {
+            "veiculo": "Korea Times",
+            "link": "https://www.koreatimes.co.kr/economy/20261102/kospi-rallies-over-2-as-investors-look-past-us-tech-rout"
+          },
+          {
+            "veiculo": "Seoul Economic Daily",
+            "link": "https://en.sedaily.com/finance/2026/11/02/samsung-sk-hynix-moved-in-tandem-8-of-every-10-days-this"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h3",
+      "chapeu": "",
+      "titulo": "Samsung e SK hynix já vendem memória em contratos que vão até 2029",
+      "linha_fina": "SK hynix tem 14 acordos de cerca de cinco anos; Samsung diz que a HBM de 2027 está esgotada",
+      "texto": "A Samsung fechou contratos de longo prazo com 10 clientes e negocia com outros 10, com a meta de pôr de 60% a 70% da capacidade nesse modelo até 2030. A SK hynix tem 14 contratos que cobrem mais da metade da produção de 2027 e 2028. O quadro indica que o aperto na oferta de DRAM, que encarece PCs e placas de vídeo, deve durar.",
+      "fonte": "Korea JoongAng Daily",
+      "link": "https://www.koreajoongangdaily.com/business/samsung-sk-hynix-build-longterm-order-pipelines-on-back-of-continued-ai-chip-demand/12949893",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Korea Herald",
+            "link": "https://www.koreaherald.com/article/10922884"
+          },
+          {
+            "veiculo": "Seoul Economic Daily",
+            "link": "https://en.sedaily.com/finance/2026/11/02/openais-altman-makes-surprise-korea-visit-to-meet-samsung-sk"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h4",
+      "chapeu": "",
+      "titulo": "Sam Altman faz visita surpresa à Coreia para conversar com Samsung e SK",
+      "linha_fina": "CEO da OpenAI se reuniu com cerca de 50 executivos da Samsung e com o chairman da SK em meio à falta de HBM",
+      "texto": "Altman esteve em Yongin com a cúpula da Samsung e almoçou com Chey Tae-won, chairman do grupo SK, acompanhado de dirigentes da SK hynix. Segundo os relatos, a pauta incluiu fornecimento de memória HBM e data centers. Nenhum acordo novo foi anunciado.",
+      "fonte": "Korea JoongAng Daily",
+      "link": "https://www.koreajoongangdaily.com/business/samsung-sk-and-openai-chief-discuss-ais-impact-on-future-business-strategies/12948294",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Korea Herald",
+            "link": "https://www.koreaherald.com/article/10922884"
+          },
+          {
+            "veiculo": "Seoul Economic Daily",
+            "link": "https://en.sedaily.com/finance/2026/11/02/openais-altman-makes-surprise-korea-visit-to-meet-samsung-sk"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h5",
+      "chapeu": "",
+      "titulo": "AMD deve reajustar de novo o preço das Radeon em novembro",
+      "linha_fina": "Seria o segundo aumento do trimestre nos kits de GPU com GDDR6 vendidos às fabricantes; a AMD não confirma",
+      "texto": "Fontes da cadeia de suprimentos chinesa dizem que a AMD vai encarecer os kits de GPU e memória GDDR6 que vende a parceiras como ASUS, Sapphire e PowerColor, depois de alta de cerca de 10% em outubro. A GDDR6 subiu entre 8% e 10% só no 3º trimestre. O tamanho do novo reajuste não foi divulgado, e o efeito no varejo deve aparecer por volta de dezembro.",
+      "fonte": "Hardware Busters",
+      "link": "https://hwbusters.com/news/amd-reportedly-plans-another-radeon-price-increase-for-november-as-gddr6-keeps-climbing",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "PC Games Hardware",
+            "link": "https://www.pcgameshardware.de/Grafikkarten-Grafikkarte-97980/News/Radeon-Preiserhoehung-November-2026-GDDR6-Kits-1558366/"
+          },
+          {
+            "veiculo": "Hardware.com.br",
+            "link": "https://www.hardware.com.br/tecnologia/rx-9000-podem-ficar-mais-caras/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c1",
+      "chapeu": "",
+      "titulo": "BYD bate recorde de elétricos em outubro e dobra as vendas fora da China",
+      "linha_fina": "Montadora vendeu 490 mil veículos no mês; só os 100% elétricos de passeio passaram de 300 mil",
+      "texto": "A BYD vendeu 490.168 veículos eletrificados em outubro, 11% a mais que um ano antes. Os elétricos puros de passeio chegaram a 305.743 unidades, enquanto os híbridos plug-in recuaram. As vendas no exterior cresceram 102,8%, para 170.194 unidades, compensando a queda no mercado chinês e aumentando o peso de países como o Brasil.",
+      "fonte": "CnEVPost",
+      "link": "https://cnevpost.com/2026/11/01/byd-oct-2026-sales/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Forbes Middle East",
+            "link": "https://forbesmiddleeast.com/industry/automotive-and-ev/byd-october-sales-rise-11-as-overseas-shipments-more-than-double"
+          },
+          {
+            "veiculo": "CarNewsChina",
+            "link": "https://carnewschina.com/2026/11/02/china-ev-sales-in-october-byd-483125-geely-214996-leapmotor-106127-xpeng-50237/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c2",
+      "chapeu": "",
+      "titulo": "Leapmotor passa de 100 mil e Xpeng bate recorde; Nio e Li Auto recuam",
+      "linha_fina": "Parceira da Stellantis, que vende carros no Brasil, cresceu 51% em outubro",
+      "texto": "A Leapmotor entregou 106.127 carros em outubro, seu recorde e o quarto mês seguido acima de 100 mil. A Xpeng superou 50 mil pela primeira vez (50.237), com recorde no exterior. Já a Nio caiu 15%, para 34.246, e a Li Auto recuou 8,6%, para 29.025.",
+      "fonte": "CnEVPost",
+      "link": "https://cnevpost.com/2026/11/01/roundup-oct-2026-deliveries-chinese-automakers/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "CarNewsChina",
+            "link": "https://carnewschina.com/2026/11/02/china-ev-sales-in-october-byd-483125-geely-214996-leapmotor-106127-xpeng-50237/"
+          },
+          {
+            "veiculo": "Electric Cars Report",
+            "link": "https://electriccarsreport.com/2026/11/xpeng-and-nio-report-strong-october-deliveries-as-chinese-ev-competition-intensifies/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c3",
+      "chapeu": "",
+      "titulo": "Free flow: 724 mil motoristas têm até 16 de novembro para pagar pedágios atrasados",
+      "linha_fina": "Depois do prazo, a falta de pagamento volta a ser infração grave, com multa de R$ 195,23 e 5 pontos na CNH",
+      "texto": "Dados do Ministério dos Transportes mostram 724.414 motoristas com tarifas de pedágio sem cancela em aberto, considerando passagens até 17 de outubro. O prazo excepcional para quitar sem multa, aberto quando as autuações foram suspensas, termina em 16 de novembro. Quem pagar a tempo também evita os pontos ligados às infrações suspensas.",
+      "fonte": "Notícias Automotivas",
+      "link": "https://www.noticiasautomotivas.com.br/pedagio-freeflow-724-mil-motoristas-tem-ate-16-de-novembro-para-quitar-tarifas-e-evitar-multa/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "A Tarde",
+            "link": "https://atarde.com.br/economia/free-flow-motoristas-tem-ate-dia-16-para-pagar-pedagio-e-evitar-multa-1407823"
+          },
+          {
+            "veiculo": "Estradas.com.br",
+            "link": "https://estradas.com.br/governo-deu-prazo-ate-16-de-novembro-para-usuarios-regularizarem-debitos-do-pedagio-eletronico-free-flow/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c4",
+      "chapeu": "",
+      "titulo": "Anfavea pede a Alckmin cota de até 3% do mercado para carros importados da China",
+      "linha_fina": "Montadoras com fábrica no país também querem salvaguardas e uma CIDE sobre importados; governo não decidiu",
+      "texto": "O presidente da Anfavea, Igor Calvet, e vice-presidentes de 13 montadoras se reuniram com o vice-presidente Geraldo Alckmin na quinta-feira (29). Pediram salvaguardas, uma CIDE somada ao imposto de importação de 35% e uma cota de 2,5% a 3% do mercado para marcas sem fábrica no Brasil. Alckmin encaminhou as propostas às áreas técnicas, sem prazo de resposta.",
+      "fonte": "Notícias Automotivas",
+      "link": "https://www.noticiasautomotivas.com.br/com-a-eleicao-para-tras-anfavea-volta-a-reclamar-sobre-os-chineses-para-o-governo-reuniao-da-vez-foi-com-geraldo-alckmin/",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "AutoData",
+            "link": "https://www.autodata.com.br/?p=139025"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c5",
+      "chapeu": "",
+      "titulo": "BYD quer 50% de peças nacionais na fábrica de Camaçari até janeiro",
+      "linha_fina": "Montadora já homologou mais de 400 fornecedores e planeja exportar da Bahia para Argentina e México em 2027",
+      "texto": "A meta da BYD é chegar a 50% de conteúdo local no complexo baiano até janeiro de 2027, perto do aumento previsto do imposto de importação. A empresa negocia com mais 250 fornecedores e já monta packs de bateria e motores elétricos no local, mas as células ainda vêm da China. A partir do 1º trimestre de 2027, prevê exportar 50 mil carros para a Argentina e 50 mil para o México.",
+      "fonte": "Notícias Automotivas",
+      "link": "https://www.noticiasautomotivas.com.br/byd-amplia-rede-de-fornecedores-na-bahia-e-prepara-novas-etapas-de-fabricacao-para-chegar-a-50-de-pecas-nacionais-ate-janeiro-de-2027/",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "AutoData",
+            "link": "https://www.autodata.com.br/?p=138955"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p1",
+      "chapeu": "",
+      "titulo": "27 partidos reconhecem a vitória de Lula; Novo contesta e cita três ações de cassação",
+      "linha_fina": "Levantamento mostra que o PL, partido de Flávio, aceitou o resultado; o Mobiliza não se manifestou",
+      "texto": "Dos 29 partidos registrados no TSE além do PT, 27 reconheceram a reeleição de Lula, que teve 51,79% dos votos válidos contra 48,21% de Flávio Bolsonaro, segundo levantamento do Metrópoles. O Novo, que lançou Romeu Zema, contesta o resultado, acusa o governo de usar a máquina pública e diz ter três ações pedindo a cassação da chapa. O presidente do TSE, Kassio Nunes Marques, afirmou que a eleição ocorreu com normalidade; reconhecer o resultado não significa apoiar o governo.",
+      "fonte": "Metrópoles",
+      "link": "https://www.metropoles.com/brasil/eleicoes-27-partidos-reconhecem-vitoria-de-lula-novo-contesta-resultado",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "BP Money (dados da TV Globo)",
+            "link": "https://bpmoney.com.br/politica/23-partidos-reconhecem-vitoria-de-lula-nas-urnas/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p2",
+      "chapeu": "",
+      "titulo": "Lula retoma agenda internacional com COP31, Asean, Mercosul e G20",
+      "linha_fina": "Presidente reeleito vai à Turquia e às Filipinas em novembro e a Montevidéu e à Flórida em dezembro",
+      "texto": "A primeira viagem é para a COP31, em Antália, nos dias 11 e 12 de novembro. Em seguida, Lula faz visita de Estado às Filipinas no dia 13 e participa da cúpula da Asean em Manila, nos dias 14 e 15. Em dezembro estão previstas a cúpula do Mercosul em Montevidéu (4 e 5) e a do G20 na Flórida (14 e 15).",
+      "fonte": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/politica/lula-retomara-agenda-internacional-com-ida-a-cupulas-do-mercosul-cop-e-g20/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Reuters",
+            "link": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/30/brazil-s-lula-to-attend-un-cop31-climate-summit-in-turkey"
+          },
+          {
+            "veiculo": "A Crítica",
+            "link": "https://acritica.net/politica/lula-preve-retomar-viagens-internacionais-apos-reeleicao-g20-nos-eua-esta-na-agenda/"
+          },
+          {
+            "veiculo": "InfoMoney",
+            "link": "https://www.infomoney.com.br/politica/rubio-eua-flavio-bolsonaro-trump-ira/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p3",
+      "chapeu": "",
+      "titulo": "PP e União Brasil sugerem ao Planalto nomes para o novo governo Lula",
+      "linha_fina": "Federação indica os deputados Moses Rodrigues e Pedro Lucas e a senadora Daniella Ribeiro, segundo coluna",
+      "texto": "Dirigentes da federação União Progressista enviaram ao governo nomes de parlamentares considerados mais próximos do Planalto para o quarto mandato, informou a coluna de Igor Gadelha. O União Brasil sugeriu Moses Rodrigues (CE) e Pedro Lucas (MA); o PP indicou Daniella Ribeiro (PB) e quer para ela uma pasta de peso. O governo não comentou as indicações.",
+      "fonte": "Metrópoles",
+      "link": "https://www.metropoles.com/colunas/igor-gadelha/pp-e-uniao-brasil-sugerem-ao-planalto-nomes-para-novo-governo-lula",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "O Povo",
+            "link": "https://mais.opovo.com.br/colunistas/joao-paulo-biage-politica-brasilia/2026/10/26/lula-oferece-3-ministerios-a-federacao-e-moses-e-favorito.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p4",
+      "chapeu": "",
+      "titulo": "Iliana Iotova vence o segundo turno e será a primeira mulher eleita presidente da Bulgária",
+      "linha_fina": "Aliada do premiê Radev, defensora do diálogo com Moscou, derrota o pró-ocidental Andrey Gyurov",
+      "texto": "Com quase todas as atas apuradas, a Comissão Eleitoral Central dá a Iotova cerca de 57,6% dos votos, contra perto de 39% de Gyurov, que reconheceu a derrota. O comparecimento ficou abaixo de 30%. O cargo é em grande parte cerimonial; Iotova se opõe a ajuda militar à Ucrânia, mas defende a permanência do país na União Europeia e na Otan.",
+      "fonte": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Novinite",
+            "link": "https://www.novinite.com/articles/241385/Bulgaria+Elects+First+Woman+President+as+Yotova+Defeats+Gyurov+in+Runoff"
+          },
+          {
+            "veiculo": "RTÉ/AFP",
+            "link": "https://www.rte.ie/news/2026/1102/1597575-bulgaria-runoff/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p5",
+      "chapeu": "",
+      "titulo": "EUA votam na terça nas eleições de meio de mandato; Trump faz comícios finais",
+      "linha_fina": "Republicanos defendem maiorias apertadas na Câmara e no Senado",
+      "texto": "A votação de 3 de novembro renova as 435 cadeiras da Câmara e 35 das 100 do Senado. No domingo, Trump fez comícios em Iowa e no Kansas; mais de 53 milhões de eleitores já tinham votado antecipadamente ou pelo correio. Democratas apostam na baixa aprovação do presidente, enquanto republicanos destacam cortes de impostos e a política de fronteira.",
+      "fonte": "The National",
+      "link": "https://www.thenationalnews.com/news/us/2026/11/01/donald-trump-makes-final-midterm-campaign-push/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "NPR/OPB",
+            "link": "https://www.opb.org/article/2026/11/01/trump-rallies-for-2026-midterms-come-with-side-of-nostalgia/"
+          },
+          {
+            "veiculo": "Congresso em Foco",
+            "link": "https://www.congressoemfoco.com.br/noticia/129665/midterms-eleicoes-dos-eua-na-proxima-terca-testam-forca-de-trump"
+          }
+        ]
+      }
+    }
+  ]
+}
