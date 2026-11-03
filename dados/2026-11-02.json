@@ -1,0 +1,810 @@
+{
+  "data": "2026-11-02",
+  "titulo": "Newsletter — 02/11/2026",
+  "data_por_extenso": "Segunda-feira, 2 de novembro de 2026",
+  "pagina": "edicoes/2026-11-02.html",
+  "destaques": [
+    {
+      "link": "#h1",
+      "titulo": "Marvell compra a Lumentum por US$ 115 bilhões para apostar em conexões de IA"
+    },
+    {
+      "link": "#t1",
+      "titulo": "Mercado Bitcoin sofre ataque hacker e suspende depósitos e saques"
+    },
+    {
+      "link": "#p6",
+      "titulo": "EUA fazem ataques limitados à ilha iraniana de Qeshm, no Estreito de Ormuz"
+    },
+    {
+      "link": "#p1",
+      "titulo": "Defesa de Flávio recorre ao STF para reaver passaportes e pede saída de Moraes do caso"
+    },
+    {
+      "link": "#g1",
+      "titulo": "Sony solta novo firmware do PS5 contra desbloqueios a 17 dias de GTA 6"
+    }
+  ],
+  "noticias": [
+    {
+      "tipo": "manchete",
+      "editoria": "IA",
+      "id": "manchete",
+      "chapeu": "IA · IPO da Anthropic",
+      "titulo": "Anthropic mostra receita de US$ 17 bilhões no trimestre e prejuízo bem menor antes de estrear na Nasdaq",
+      "linha_fina": "Prospecto revisado entregue à SEC também lista US$ 895 bilhões em compromissos de compra, quase todos em computação",
+      "texto": "A Anthropic, dona do assistente Claude, entregou na segunda (2) à SEC, a comissão de valores mobiliários dos EUA, uma versão atualizada do pedido de abertura de capital. O documento aponta receita de cerca de US$ 17 bilhões no terceiro trimestre, perto de 12 vezes a do mesmo período de 2025, e prejuízo líquido de US$ 23,3 bilhões, contra US$ 66,3 bilhões no trimestre anterior; a maior parte da perda é um efeito contábil, sem saída de caixa, ligado a títulos conversíveis. A empresa declara ainda US$ 895,4 bilhões em compromissos de compra, principalmente de infraestrutura, e prevê listar as ações na Nasdaq com o código ANT ainda em novembro.",
+      "fonte": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Reuters (via TradingView)",
+            "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46J16S:0-anthropic-s-third-quarter-net-loss-narrows-amended-filing-shows/"
+          },
+          {
+            "veiculo": "The Next Web",
+            "link": "https://thenextweb.com/news/anthropic-ipo-filing-17bn-revenue-commitments"
+          },
+          {
+            "veiculo": "Quartz",
+            "link": "https://qz.com/anthropic-amended-ipo-filing-revenue-growth-110226"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g1",
+      "chapeu": "",
+      "titulo": "Sony solta novo firmware do PS5 contra desbloqueios a 17 dias de GTA 6",
+      "linha_fina": "Versão traz só “correções de segurança”, e dados da loja indicam que GTA 6 vai exigir o sistema atualizado",
+      "texto": "A Sony liberou na segunda (2) a atualização 26.07-14.22.00 para PS5 e PS5 Pro, menos de duas semanas depois da anterior, citando apenas correções de segurança num momento em que hackers buscam desbloquear o console. Segundo um perfil que monitora a PS Store, GTA 6 passou a exigir essa versão, o que Sony e Rockstar não confirmaram. O jogo sai em 19 de novembro, com pré-download a partir do dia 12.",
+      "fonte": "Push Square",
+      "link": "https://www.pushsquare.com/news/2026/11/new-ps5-firmware-update-available-now-as-sony-cracks-down-on-jailbreaks",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "PlayStationInfo.de",
+            "link": "https://www.playstationinfo.de/en/2026/11/02/ps5-receives-a-new-security-update-and-of-all-things-gta-6-is-fueling-speculation/"
+          },
+          {
+            "veiculo": "GamingBible",
+            "link": "https://www.gamingbible.com/news/platform/playstation/gta-6-sets-out-new-conditions-ps5-players-firmware-654285-20261102"
+          },
+          {
+            "veiculo": "games.gg",
+            "link": "https://games.gg/news/ps5-26-07-14-22-00-security-patch/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g2",
+      "chapeu": "",
+      "titulo": "Ex-COO do Xbox, Helen Chiang nega ter sido demitida por violar regras da Microsoft",
+      "linha_fina": "Em texto no LinkedIn, executiva contesta reportagem sobre sua saída e diz ter sérias preocupações com o processo",
+      "texto": "Helen Chiang, que comandou Minecraft por anos e virou a primeira COO do Xbox em julho, publicou na segunda (2) um texto para rebater a reportagem do Eurogamer segundo a qual foi demitida em outubro por violações de política. Ela nega ter vazado informações, ido para um concorrente ou cometido assédio, fraude ou discriminação. A Microsoft não explicou o motivo da saída, que encerra cerca de 21 anos de empresa.",
+      "fonte": "Windows Central",
+      "link": "https://www.windowscentral.com/gaming/xbox/former-xbox-coo-helen-chiang-denies-violating-microsoft-policies-in-parting-linkedin-post",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "GamesRadar+",
+            "link": "https://www.gamesradar.com/games/former-xbox-coo-wants-to-set-the-record-straight-on-her-reported-firing-i-dont-want-my-departure-reduced-to-an-inaccurate-story-about-incompetence/"
+          },
+          {
+            "veiculo": "Thurrott.com",
+            "link": "https://www.thurrott.com/games/xbox/343447/former-xbox-coo-clarifies-her-departure"
+          },
+          {
+            "veiculo": "80.lv",
+            "link": "https://80.lv/articles/former-xbox-coo-addresses-rumors-about-leaving-the-company"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g3",
+      "chapeu": "",
+      "titulo": "Nintendo apresenta a equipe do remake de Ocarina of Time às vésperas do lançamento",
+      "linha_fina": "Na série “Ask the Developer”, Eiji Aonuma conta que quis o projeto para trazer novas ideias aos desenvolvedores mais jovens",
+      "texto": "A Nintendo publicou na segunda (2) o volume 24 da série de entrevistas, dedicado ao remake de Zelda: Ocarina of Time para Switch 2, que chega em 5 de novembro. O jogo foi feito internamente, com direção de HokWai Ng e produção de Eiji Aonuma e Hidemaro Fujibayashi. Aonuma diz que deixou a equipe decidir o que mudar e se surpreendeu com o quanto ela preservou do original de 1998.",
+      "fonte": "VGC",
+      "link": "https://www.videogameschronicle.com/news/zelda-producer-aonuma-wanted-to-remake-ocarina-of-time-to-trigger-new-insights-in-the-teams-younger-developers/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Nintendo (comunicado oficial)",
+            "link": "https://www.nintendo.com/en-gb/News/2026/November/Ask-the-Developer-Vol-24-The-Legend-of-Zelda-Ocarina-of-Time-Chapter-1-3230318.html"
+          },
+          {
+            "veiculo": "Nintendo Life",
+            "link": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-switch-2-development-team-has-been-revealed"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g4",
+      "chapeu": "",
+      "titulo": "Sony oferece até US$ 400 para quem trocar um PS5 parado nos EUA",
+      "linha_fina": "Programa com a Back Market chega depois de aumentos no preço do console e semanas antes de GTA 6",
+      "texto": "Donos de PS5 nos Estados Unidos começaram a receber na segunda (2) avisos da Sony sobre a troca de consoles sem uso pela parceira Back Market. O valor máximo, de US$ 400, vale para o PS5 padrão em perfeito estado com dois controles. A ação vem após reajustes que levaram o PS5 Digital a US$ 599,99 e o modelo com leitor a US$ 649,99 no país.",
+      "fonte": "Push Square",
+      "link": "https://www.pushsquare.com/news/2026/11/sony-wants-you-to-trade-in-your-ps5-for-usd400-if-youre-not-using-it",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Notebookcheck",
+            "link": "https://www.notebookcheck.net/Sony-offers-400-for-used-PS5-consoles-as-GTA-6-buyers-crave-lower-priced-systems.1440435.0.html"
+          },
+          {
+            "veiculo": "PlayStationInfo.de",
+            "link": "https://www.playstationinfo.de/en/2026/11/03/sony-is-offering-up-to-400-for-used-ps5s-surprising-fans-with-an-unusual-promotion/"
+          },
+          {
+            "veiculo": "tbreak",
+            "link": "https://tbreak.com/sony-ps5-trade-in-offer/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g5",
+      "chapeu": "",
+      "titulo": "Schell Games, de I Expect You To Die, corta cerca de 40% da equipe",
+      "linha_fina": "Estúdio veterano de realidade virtual faz sua segunda rodada de demissões em 2026",
+      "texto": "A americana Schell Games confirmou uma nova rodada de cortes que atinge cerca de 40% do estúdio, segundo o CEO Jesse Schell; foram 49 demitidos, de acordo com a imprensa especializada. Em agosto, a empresa já tinha dispensado cerca de 10% dos funcionários. O estúdio atribui a decisão ao momento difícil da indústria e segue desenvolvendo Dragon Grove, previsto para 2027.",
+      "fonte": "Road to VR",
+      "link": "https://roadtovr.com/schell-games-vr-layoffs-50-staff-2026",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "MIXED",
+            "link": "https://mixed-news.com/en/schell-games-49-layoffs-i-expect-you-to-die-vr/"
+          },
+          {
+            "veiculo": "heise online",
+            "link": "https://www.heise.de/en/news/40-of-staff-VR-crisis-reaches-veteran-studio-Schell-Games-11508187.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Games",
+      "id": "g6",
+      "chapeu": "",
+      "titulo": "Remaster de Thief: The Dark Project ganha data: 3 de dezembro",
+      "linha_fina": "Versão da Nightdive chega a PC, PS5, Xbox e Switch 2",
+      "texto": "A Nightdive Studios marcou para 3 de dezembro o lançamento de Thief: The Dark Project Remastered, anunciado em junho. O clássico de furtividade de 1998 foi refeito no motor KEX, com suporte a até 4K e 120 fps, e inclui as missões extras de Thief Gold. A edição digital padrão custa US$ 29,99.",
+      "fonte": "Push Square",
+      "link": "https://www.pushsquare.com/news/2026/11/stealth-classic-thief-the-dark-project-returns-for-a-ps5-remaster-with-new-content",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Shacknews",
+            "link": "https://www.shacknews.com/article/151238/thief-the-dark-project-remastered-gets-december-release-date"
+          },
+          {
+            "veiculo": "Pure Xbox",
+            "link": "https://www.purexbox.com/news/2026/11/two-big-remasters-are-now-lined-up-for-xbox-on-december-3rd"
+          },
+          {
+            "veiculo": "PlayStation Universe",
+            "link": "https://www.psu.com/news/thief-the-dark-project-remastered-brings-1998s-stealth-classic-to-ps5-ps4-on-december-3/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i2",
+      "chapeu": "",
+      "titulo": "Oracle vai captar US$ 20 bilhões em ações e títulos para bancar expansão em IA",
+      "linha_fina": "Anúncio de diluição fez as ações da empresa caírem cerca de 7% no pregão",
+      "texto": "A Oracle registrou na segunda (2) a venda de US$ 10 bilhões em novas ações e US$ 10 bilhões em títulos de dívida. Os recursos vão para data centers de IA, pagamento de outras dívidas e possíveis aquisições. Os investidores reagiram mal à captação, que usa de uma vez todo o teto de financiamento anunciado pela empresa.",
+      "fonte": "CNBC",
+      "link": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "The Motley Fool",
+            "link": "https://www.fool.com/investing/2026/11/02/why-oracle-stock-is-down-today/"
+          },
+          {
+            "veiculo": "Le Private Banker",
+            "link": "https://leprivatebanker.com/2026/11/02/oracle-launches-20-billion-bond-and-stock-sale-using-full-funding-cap-days-after-investor-day/"
+          },
+          {
+            "veiculo": "Quartz",
+            "link": "https://qz.com/oracle-10-billion-bond-sale-debt-cap-110226"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i3",
+      "chapeu": "",
+      "titulo": "OpenAI fecha quatro acordos em Abu Dhabi, da petroleira estatal ao governo",
+      "linha_fina": "Sam Altman se reuniu com o príncipe herdeiro e firmou parcerias com ADNOC, Mubadala e uma empresa do grupo G42",
+      "texto": "Sam Altman, CEO da OpenAI, foi recebido na segunda (2) pelo príncipe herdeiro de Abu Dhabi, xeque Khaled bin Mohamed, e assinou quatro acordos com o emirado. A petroleira ADNOC passa a usar a plataforma Frontier da OpenAI; os demais acordos envolvem converter leis e regras do governo para um formato que a IA consiga usar, análise de investimentos com o fundo Mubadala e um contrato de cinco anos com a Inception42, do G42. Os valores não foram divulgados.",
+      "fonte": "The National",
+      "link": "https://www.thenationalnews.com/news/uae/2026/11/02/abu-dhabi-agrees-openai-deals-to-boost-government-services-and-education",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Abu Dhabi Media Office (oficial)",
+            "link": "https://www.mediaoffice.abudhabi/en/crown-prince-news/khaled-bin-mohamed-bin-zayed-meets-sam-altman-and-witnesses-signing-of-agreements-with-openai/"
+          },
+          {
+            "veiculo": "CNBC",
+            "link": "https://www.cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html"
+          },
+          {
+            "veiculo": "Semafor",
+            "link": "https://www.semafor.com/article/11/02/2026/openais-sam-altman-courts-abu-dhabi-ahead-of-ipo"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "IA",
+      "id": "i4",
+      "chapeu": "",
+      "titulo": "Goldman Sachs restringe Claude Code e Copilot a engenheiros",
+      "linha_fina": "Banqueiros e operadores perdem acesso às ferramentas de programação com IA",
+      "texto": "O Goldman Sachs limitou o uso do Claude Code, da Anthropic, e do GitHub Copilot, da Microsoft, aos cerca de 12 mil engenheiros do banco, segundo a Bloomberg. Banqueiros e operadores, que usavam as ferramentas havia meses, perderam o acesso. O banco diz que a decisão veio após uma fase de testes que avaliou produtividade e gestão de risco.",
+      "fonte": "Bloomberg",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-02/goldman-restricts-traders-and-bankers-from-using-some-ai-tools",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "PYMNTS",
+            "link": "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sachs-bars-bankers-from-employing-some-ai-tools/"
+          },
+          {
+            "veiculo": "Quartz",
+            "link": "https://qz.com/goldman-sachs-restricts-ai-coding-tools-traders-bankers-110226"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t1",
+      "chapeu": "",
+      "titulo": "Mercado Bitcoin sofre ataque hacker e suspende depósitos e saques",
+      "linha_fina": "Corretora diz que conteve o incidente e que clientes não tiveram perdas; empresas de segurança estimam saída de mais de US$ 40 milhões",
+      "texto": "A Mercado Bitcoin detectou na madrugada de segunda (2) um ataque a um de seus sistemas e congelou depósitos, saques e o aplicativo como precaução. A empresa afirma que clientes não tiveram perdas e que não houve vazamento de dados, mas não confirmou valores; análises de firmas como Hypernative e Arkham apontam entre US$ 40 milhões e US$ 46 milhões saindo de carteiras ligadas à corretora. A Tether congelou cerca de 4,5 milhões de USDT ligados ao invasor, e não há prazo para a volta das operações.",
+      "fonte": "InvestNews",
+      "link": "https://investnews.com.br/investimentos/mercado-bitcoin-sofre-ataque-hacker-e-trava-saques/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "The Record",
+            "link": "https://therecord.media/mercado-bitcoin-brazil-cryptocurrency-heist"
+          },
+          {
+            "veiculo": "La Nación",
+            "link": "https://www.lanacion.com.ar/tecnologia/el-exchange-cripto-mercado-bitcoin-confirma-el-hackeo-y-robo-de-al-menos-us46-millones-en-brasil-nid02112026/"
+          },
+          {
+            "veiculo": "Poder360",
+            "link": "https://www.poder360.com.br/poder-tech/apos-ataque-hacker-mercado-bitcoin-tem-perdas-de-us-40-milhoes/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t2",
+      "chapeu": "",
+      "titulo": "Google derruba botnet de 1,3 milhão de TV boxes e bane fabricante chinesa",
+      "linha_fina": "Videostrong é acusada de embutir um backdoor nos aparelhos; o Brasil está entre os países mais afetados",
+      "texto": "O Google anunciou na segunda (2) que desmontou, com ação judicial e apoio de parceiros como a polícia do Japão, a botnet XCPE, que infectava mais de 1,3 milhão de aparelhos Android, a maioria TV boxes. A empresa proibiu a fabricante Videostrong, de Shenzhen, de produzir ou vender aparelhos Android certificados. Malásia, Brasil, Iraque, México e Taiwan lideram as infecções.",
+      "fonte": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "The Hacker News",
+            "link": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html"
+          },
+          {
+            "veiculo": "9to5Google",
+            "link": "https://9to5google.com/2026/11/02/google-android-tv-box-backdoor-shut-down/"
+          },
+          {
+            "veiculo": "CyberInsider",
+            "link": "https://cyberinsider.com/google-dismantles-xcpe-android-botnet-1-3-million-devices/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t3",
+      "chapeu": "",
+      "titulo": "Nova onda de ataques hacker desliga freezers de supermercados na Europa",
+      "linha_fina": "Redes como Delhaize, Colruyt, Carrefour e Coop relatam equipamentos em degelo e comida estragada",
+      "texto": "Supermercados na Bélgica, em Luxemburgo, na Suécia e em outros países europeus tiveram sistemas de refrigeração invadidos na virada para segunda (2), com equipamentos colocados remotamente em modo de degelo. Dezenas de lojas foram afetadas, entre elas 15 do Carrefour na Bélgica e seis da Coop na Suécia. Nenhum grupo assumiu a autoria; é a segunda onda do tipo, após ataques em outubro na França.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "CBS News/AFP",
+            "link": "https://www.cbsnews.com/news/europe-grocery-store-refrigerator-freezer-cyberattack-hack-food-wasted/"
+          },
+          {
+            "veiculo": "ABC News/AP",
+            "link": "https://abcnews.com/International/wireStory/freezers-supermarkets-european-countries-hit-apparent-cyberattacks-137765494"
+          },
+          {
+            "veiculo": "BleepingComputer",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t4",
+      "chapeu": "",
+      "titulo": "Rede de 400 apps com ferramentas de deepfake escondidas passou pelas lojas da Apple e do Google",
+      "linha_fina": "Os apps se apresentavam como tutores de idiomas ou de academia e liberavam a função oculta depois de aprovados",
+      "texto": "Uma investigação da Wired com a ONG europeia AI Forensics, publicada na segunda (2), identificou mais de 400 apps e sites ligados que escondiam ferramentas para gerar deepfakes sexuais e violentos a partir de fotos. A Apple removeu 19 apps e disse que eles foram alterados depois da revisão. O Google já havia retirado a maioria, que somava mais de 350 mil downloads na Play Store.",
+      "fonte": "9to5Mac",
+      "link": "https://9to5mac.com/2026/11/02/ai-apps-with-hidden-sexual-and-violent-deepfake-features-made-it-into-the-app-store/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "IBTimes Australia",
+            "link": "https://www.ibtimes.com.au/ai-app-network-hidden-deepfake-tools-1877759"
+          },
+          {
+            "veiculo": "AppleInsider",
+            "link": "https://appleinsider.com/articles/26/11/02/hundreds-of-ai-apps-were-part-of-a-network-hiding-sexually-abusive-deepfake-tools"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Tecnologia",
+      "id": "t5",
+      "chapeu": "",
+      "titulo": "Northwood, startup de estações terrestres para satélites, capta US$ 375 milhões",
+      "linha_fina": "Rodada liderada por a16z e DFJ Growth avalia a empresa em US$ 2 bilhões, segundo o TechCrunch",
+      "texto": "A Northwood Space, que constrói uma rede compartilhada de antenas para ligar satélites de diferentes órbitas à Terra, anunciou na segunda (2) uma rodada série C de US$ 375 milhões. A empresa, fundada em 2022 e comandada pela ex-atriz Bridgit Mendler, planeja ampliar a rede e criar 400 vagas em três anos. A avaliação de US$ 2 bilhões aparece na imprensa, mas não no comunicado oficial.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Northwood (comunicado oficial)",
+            "link": "https://www.northwoodspace.io/blog/northwood-series-c"
+          },
+          {
+            "veiculo": "Payload",
+            "link": "https://payloadspace.com/northwood-space-raises-375m-series-c-at-2b-valuation/"
+          },
+          {
+            "veiculo": "SpaceWatch.Global",
+            "link": "https://spacewatch.global/2026/11/northwood-space-lands-375-million-series-c-to-expand-multi-orbit-ground-network/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h1",
+      "chapeu": "",
+      "titulo": "Marvell compra a Lumentum por US$ 115 bilhões para apostar em conexões de IA",
+      "linha_fina": "Negócio pago em ações une chips de rede com lasers e componentes ópticos para data centers",
+      "texto": "A Marvell anunciou na segunda (2) a compra da Lumentum, fabricante de lasers e transceptores ópticos, em operação paga só em ações que avalia a empresa em US$ 115 bilhões. Cada ação da Lumentum será trocada por 4,5 papéis da Marvell, prêmio de cerca de 24%, e os acionistas da Marvell ficarão com cerca de 67% da nova companhia. A conclusão, prevista para o primeiro semestre de 2028, depende de reguladores e acionistas; as ações da Marvell fecharam o dia em queda de 12,7%.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Marvell (comunicado oficial)",
+            "link": "https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity"
+          },
+          {
+            "veiculo": "Investing.com",
+            "link": "https://www.investing.com/news/stock-market-news/marvell-agrees-115-billion-allstock-deal-to-buy-lumentum-4991232"
+          },
+          {
+            "veiculo": "Calcalist (Ctech)",
+            "link": "https://www.calcalistech.com/ctechnews/article/rjjkfflaze"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h2",
+      "chapeu": "",
+      "titulo": "Apple chama alta da memória de inédita e prevê margem menor no fim do ano",
+      "linha_fina": "Empresa teve receita recorde de US$ 114,5 bilhões no trimestre, mas espera custo ainda maior de DRAM",
+      "texto": "Ao divulgar na segunda (2) receita de US$ 114,5 bilhões no trimestre encerrado em setembro, alta de 12%, a Apple disse que o preço da memória atingiu nível sem precedentes e vai subir mais no fim do ano. Por isso, a margem bruta deve cair de 47,9% para algo entre 45% e 46% no trimestre de dezembro. O estoque mais que dobrou em um ano, para US$ 14,5 bilhões, e a oferta de Macs e iPads deve continuar limitada.",
+      "fonte": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Apple Newsroom (oficial)",
+            "link": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/"
+          },
+          {
+            "veiculo": "MacRumors",
+            "link": "https://macrumors.com/2026/11/02/apple-memory-costs-increase-december"
+          },
+          {
+            "veiculo": "9to5Mac",
+            "link": "https://9to5mac.com/2026/11/02/apple-reports-q4-2026-earnings/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h3",
+      "chapeu": "",
+      "titulo": "Ações de chips voltam a cair; AMD recua 7,5% na véspera do balanço",
+      "linha_fina": "Intel, Micron e Marvell também caíram, com investidores tirando dinheiro do setor de tecnologia",
+      "texto": "Os papéis de semicondutores tiveram mais um dia ruim em Wall Street na segunda (2): Marvell caiu 12,7%, Intel 8,8%, AMD 7,5%, Micron 5,8% e Nvidia 1,3%, e o Nasdaq perdeu 1,07%. A preocupação com o mercado de PCs, afetado pelo preço da memória, segue após o alerta da Intel na semana passada. A AMD divulga seu balanço nesta terça (3), após o fechamento.",
+      "fonte": "24/7 Wall St.",
+      "link": "https://247wallst.com/investing/2026/11/02/amd-slides-3-ahead-of-earnings-as-pc-worries-linger-intel-drops-5-nvidia-edges-higher/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Gotrade News",
+            "link": "https://heygotrade.com/en/news/nvidia-nvda-stock-news-november-3-2026"
+          },
+          {
+            "veiculo": "Stock Titan",
+            "link": "https://stocktitan.net/articles/stock-market-today-live-november-2-2026"
+          },
+          {
+            "veiculo": "Yahoo Finance",
+            "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h4",
+      "chapeu": "",
+      "titulo": "Memória HBM coreana chega à Huawei por contrabando, diz The Information",
+      "linha_fina": "Segundo a reportagem, chips da Samsung e da SK hynix são exportados disfarçados de processadores",
+      "texto": "Reportagem do The Information afirma que a Huawei disse a clientes que boa parte do futuro Ascend 960DT usará HBM da Samsung e da SK hynix, obtida por contrabandistas que exportam a memória montada junto a processadores baratos. No mercado paralelo chinês, uma pilha de HBM3E sai hoje por cerca de US$ 4.000, segundo o texto. A SK hynix afirma que cumpre os controles de exportação e não fornece à Huawei desde 2020.",
+      "fonte": "The Information",
+      "link": "https://www.techmeme.com/261102/p50",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "SBS News",
+            "link": "https://news.sbs.co.kr/english/article.do?news_id=N1008828674"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Hardware",
+      "id": "h5",
+      "chapeu": "",
+      "titulo": "RTX 5080 de 24 GB pode perder a janela de janeiro, diz site taiwanês",
+      "linha_fina": "Fabricantes de placas ainda não receberam da Nvidia os kits de projeto, segundo o BenchLife",
+      "texto": "O site taiwanês BenchLife informou que a Nvidia ainda não entregou às parceiras a documentação da RTX 5080 com 24 GB de GDDR7, esperada para outubro. Uma fabricante diz precisar de pelo menos seis semanas após receber o projeto para começar a vender, o que torna improvável um lançamento em janeiro. A Nvidia não confirmou a placa.",
+      "fonte": "Tech Times",
+      "link": "https://www.techtimes.com/articles/329921/20261102/rtx-5080-24gb-january-window-doubt-partners-still-lack-design-kits.htm",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "TechPowerUp",
+            "link": "https://www.techpowerup.com/353640/nvidia-rtx-5080-24-gb-reportedly-planned-for-q1-2027-but-board-partners-are-still-in-the-dark"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c1",
+      "chapeu": "",
+      "titulo": "Renault encerra produção da picape Oroch no Paraná após 11 anos",
+      "linha_fina": "Picape feita em São José dos Pinhais dá lugar à Niagara, picape média importada da Argentina",
+      "texto": "A Renault confirmou o fim da produção da Oroch no Complexo Ayrton Senna, em São José dos Pinhais (PR); a última unidade foi feita em outubro, segundo a imprensa especializada. Lançada em 2015, a picape vendeu mais de 270 mil unidades na América Latina, mas perdeu espaço para rivais como a Fiat Toro. A substituta é a Niagara, picape média produzida em Córdoba, com motor 1.3 turbo.",
+      "fonte": "Notícias Automotivas",
+      "link": "https://www.noticiasautomotivas.com.br/renault-encerra-producao-da-oroch-em-curitiba-e-prepara-uma-troca-de-segmento-a-niagara-chegara-ao-brasil-como-picape-media-com-cambio-manual/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Mecânica Online",
+            "link": "https://mecanicaonline.com.br/2026/11/adeus-renault-oroch-picape-pioneira-sai-de-linha-apos-11-anos-e-abre-caminho-para-a-niagara/"
+          },
+          {
+            "veiculo": "Autos Segredos",
+            "link": "https://www.autossegredos.com.br/mercado/renault-oroch-encerra-producao-139-mil-vendas/"
+          },
+          {
+            "veiculo": "Click Petróleo e Gás",
+            "link": "https://clickpetroleoegas.com.br/270-mil-picapes-depois-renault-oroch-sai-de-linha-na-fabrica-de-sao-jose-dos-pinhais-pr-apos-mais-de-uma-decada-e-abre-espaco-para-a-niagara-feita-na-argentina-btl96-mhbb01"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c2",
+      "chapeu": "",
+      "titulo": "Emplacamentos da Tesla disparam no norte da Europa, mas chinesas avançam",
+      "linha_fina": "Vendas da marca mais que triplicam na Suécia e na Espanha; chinesas batem recorde de participação na Noruega",
+      "texto": "Os emplacamentos da Tesla em outubro subiram 248% na Suécia, 131% na Noruega e 271% na Espanha sobre outubro de 2025, segundo dados de associações locais divulgados na segunda (2), sobre uma base fraca de comparação. Na Noruega, a marca ficou com 9,8% do mercado. As montadoras chinesas chegaram a 22,5% dos emplacamentos noruegueses, maior fatia já registrada.",
+      "fonte": "Reuters (via Investing.com)",
+      "link": "https://www.investing.com/news/stock-market-news/teslas-monthly-registrations-surge-in-northern-europe-even-as-chinese-competition-rises-4990675",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Drive Tesla Canada",
+            "link": "https://driveteslacanada.ca/news/tesla-europe-registrations-october-2026-surge/"
+          },
+          {
+            "veiculo": "Tech Insider",
+            "link": "https://tech-insider.org/tesla-northern-europe-october-registrations-sweden-248-norway-1548-2026/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c3",
+      "chapeu": "",
+      "titulo": "Carros fabricados na China já são 17,6% das vendas na Itália",
+      "linha_fina": "Mercado italiano cresce 4,8% em outubro; BYD é a 7ª marca e Stellantis perde participação em casa",
+      "texto": "A Itália emplacou 131.921 carros em outubro, alta de 4,8% sobre um ano antes, segundo dados do Ministério dos Transportes divulgados na segunda (2). Os carros fabricados na China somaram 23.242 unidades, quase o dobro de outubro de 2025. A Stellantis, somando a Leapmotor, ficou com 24,2% de participação, contra 26,8% um ano antes.",
+      "fonte": "Auto361",
+      "link": "https://www.auto361.it/mercado-auto-ottobre-2026-anfia-analisi-made-in-china",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "AGI",
+            "link": "https://www.agi.it/economia/news/2026-11-02/auto-mercato-immatricolazioni-dati-39838052/"
+          },
+          {
+            "veiculo": "ChinaEVHome (dados Anfia)",
+            "link": "https://chinaevhome.com/2026/11/03/chinese-brands-capture-17-6-of-italys-auto-market-as-october-sales-surge-97/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Carros",
+      "id": "c4",
+      "chapeu": "",
+      "titulo": "Na Espanha, BYD fica a 86 carros da Dacia e quase entra no top 4",
+      "linha_fina": "Mercado espanhol cresce 1,8% em outubro, e elétricos e híbridos plug-in já são quase um terço das vendas",
+      "texto": "A Espanha emplacou 98.487 carros em outubro, alta de 1,8%, segundo dados de Anfac, Faconauto e Ganvam divulgados na segunda (2). Elétricos e híbridos plug-in somaram 31.044 unidades, alta de 43,1%, e ficaram com 31,5% do mercado. A BYD foi a quinta marca mais vendida, com 5.306 unidades, apenas 86 atrás da Dacia.",
+      "fonte": "Autonoción",
+      "link": "https://www.autonocion.com/matriculaciones-octubre-2026/",
+      "verificacao": {
+        "status": "confirmada_parcialmente",
+        "fontes": [
+          {
+            "veiculo": "PressDigital",
+            "link": "https://www.pressdigital.es/articulo/economia/2026-11-02/6074648-matriculaciones-crecen-18-octubre-98487-unidadeselectrificacion"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p1",
+      "chapeu": "",
+      "titulo": "Defesa de Flávio recorre ao STF para reaver passaportes e pede saída de Moraes do caso",
+      "linha_fina": "Advogados contestam medidas cautelares e pedem que o inquérito passe a André Mendonça",
+      "texto": "A defesa do senador Flávio Bolsonaro (PL-RJ), que está nos EUA desde 28 de outubro, pediu ao presidente do STF, Edson Fachin, que Alexandre de Moraes seja declarado impedido ou suspeito e que o caso passe a André Mendonça; a petição, de 30 de outubro, foi revelada na segunda (2). Moraes havia cancelado os passaportes do senador, proibido sua saída do país e vetado contato com o advogado Willer Tomaz, investigado com ele por suspeita de lavagem de dinheiro. A defesa sustenta que as provas não mostram participação do senador em ilícitos; os pedidos tramitam sob sigilo e as medidas seguem em vigor.",
+      "fonte": "Metrópoles",
+      "link": "https://www.metropoles.com/colunas/manoela-alcantara/flavio-recorre-contra-ordem-de-moraes-para-entregar-passaportes",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "O Tempo (com Folhapress)",
+            "link": "https://www.otempo.com.br/politica/congresso/2026/11/2/flavio-bolsonaro-recorre-ao-stf-contra-apreensao-de-passaportes"
+          },
+          {
+            "veiculo": "O Antagonista",
+            "link": "https://oantagonista.com.br/brasil/defesa-flavio-bolsonaro-recorre-stf-reaver-passaportes/"
+          },
+          {
+            "veiculo": "NC News",
+            "link": "https://ncnews.com.br/2026/11/02/flavio-bolsonaro-recorre-contra-moraes/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p2",
+      "chapeu": "",
+      "titulo": "Gleisi critica mercado financeiro; Fazenda nega reunião de Lula com Lara Resende",
+      "linha_fina": "Ministério reafirma que tabelamento de juros e uso de reservas não estão em avaliação",
+      "texto": "A deputada Gleisi Hoffmann (PT-PR) criticou o mercado financeiro nas redes na segunda (2) e disse que conversar com o economista André Lara Resende, que propõe cortar a Selic para cerca de 7,5% em 12 meses, não significa adotar suas ideias. O ministro da Fazenda, Dario Durigan, afirmou que não há agenda entre Lula e o economista e que tabelar juros ou usar reservas não está em avaliação. Críticos da proposta apontam risco à autonomia do Banco Central; o debate ocorre às vésperas do Copom, após semana de queda de 18% do Ibovespa.",
+      "fonte": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/politica/mercado-financeiro-tem-o-dna-do-autoritarismo-diz-gleisi-hoffmann/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "InfoMoney (Estadão Conteúdo)",
+            "link": "https://www.infomoney.com.br/politica/parlamentares-governistas-aumentam-criticas-a-juros-altos-antes-de-reuniao-do-copom"
+          },
+          {
+            "veiculo": "Gazeta do Povo",
+            "link": "https://www.gazetadopovo.com.br/republica/gleisi-volta-a-atacar-mercado-e-recua-na-defesa-do-tabelamento-de-juros/"
+          },
+          {
+            "veiculo": "BPMoney",
+            "link": "https://bpmoney.com.br/politica/durigan-nega-tabelamento-juros-governo-lula-lara-resende/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p3",
+      "chapeu": "",
+      "titulo": "Senado vota PEC da Segurança nesta terça com impasse sobre maioridade penal",
+      "linha_fina": "Governo quer aprovar o texto sem a redução; oposição tenta incluir o tema por emenda",
+      "texto": "Pautada por Davi Alcolumbre (União-AP), a PEC 18/2025 é o primeiro item do Senado nesta terça (3) e precisa de 49 votos em dois turnos. O texto inclui o Sistema Único de Segurança Pública na Constituição e endurece regras contra facções e milícias. O governo defende votar a PEC sem a redução da maioridade penal; a oposição, com Rogério Marinho (PL-RN), propõe 16 anos como regra, e o líder do PT, Camilo Santana (CE), sugeriu 16 anos apenas para crimes hediondos.",
+      "fonte": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/blogs/adriana-de-luca/nacional/brasil/pec-da-seguranca-volta-ao-senado-em-impasse-sobre-maioridade-penal/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "Metrópoles",
+            "link": "https://www.metropoles.com/brasil/alcolumbre-pauta-pec-da-seguranca-e-reabre-discussao-sobre-maioridade"
+          },
+          {
+            "veiculo": "Bahia Notícias",
+            "link": "https://www.bahianoticias.com.br/noticia/323261-semana-tem-pronunciamento-de-lula-pec-da-seguranca-publica-bets-no-stf-e-decisao-sobre-juros"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p4",
+      "chapeu": "",
+      "titulo": "Janones se reúne com Cristina Kirchner e Sergio Massa em Buenos Aires",
+      "linha_fina": "Deputado e marqueteiros da campanha de Lula discutem estratégias digitais com a oposição a Milei",
+      "texto": "O deputado André Janones (Rede-MG) esteve na segunda (2) em Buenos Aires com a ex-presidente Cristina Kirchner, que cumpre prisão domiciliar após condenação por corrupção, e com o ex-ministro Sergio Massa. Também participaram profissionais que atuaram na campanha de Lula. Segundo a equipe de Massa, ele pretende formar uma frente contra o presidente Javier Milei para 2027; não havia manifestação do governo argentino sobre os encontros.",
+      "fonte": "O Liberal",
+      "link": "https://www.oliberal.com/mundo/janones-encontra-cristina-kirchner-e-articula-apoio-contra-milei-na-argentina-1.1189755",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "ND Mais (citando CNN Brasil)",
+            "link": "https://ndmais.com.br/politica/janones-publica-foto-com-cristina-kirchner-e-manda-recado-sobre-eleicoes-podemos-derrotar-a-extrema-direita/"
+          },
+          {
+            "veiculo": "Poder360",
+            "link": "https://www.poder360.com.br/poder-eleicoes-2026/janones-leva-a-sergio-massa-estrategias-digitais-da-campanha-de-lula/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p5",
+      "chapeu": "",
+      "titulo": "Presidente do TJ-MS assume governo de Mato Grosso do Sul por seis dias",
+      "linha_fina": "Governador, vice e presidente da Assembleia estão licenciados ao mesmo tempo",
+      "texto": "O desembargador Dorival Renato Pavan, presidente do Tribunal de Justiça de MS, comanda interinamente o Executivo estadual de 1º a 6 de novembro. O governador Eduardo Riedel (PP), reeleito no 1º turno, e o vice Barbosinha (Republicanos) pediram licença para descanso, e o presidente da Assembleia também se afastou. Pavan disse que não fará mudanças administrativas.",
+      "fonte": "Agência Brasil",
+      "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/desembargador-assume-governo-de-ms-apos-licenca-de-governador-e-vice",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "A Crítica (Campo Grande)",
+            "link": "https://acritica.net/noticias/pavan-promete-governar-ms-seis-dias-sem-mudancas-quarto-presidente-tj/"
+          },
+          {
+            "veiculo": "Midiamax",
+            "link": "https://midiamax.com.br/politica/2026/presidente-tjms-assume-governo-ms-novembro-saiba-motivo/"
+          }
+        ]
+      }
+    },
+    {
+      "tipo": "noticia",
+      "editoria": "Política",
+      "id": "p6",
+      "chapeu": "",
+      "titulo": "EUA fazem ataques limitados à ilha iraniana de Qeshm, no Estreito de Ormuz",
+      "linha_fina": "Washington fala em ação defensiva; Irã diz ter derrubado drones americanos",
+      "texto": "Forças dos EUA atacaram na segunda (2) alvos na ilha de Qeshm, segundo autoridades americanas ouvidas sob anonimato, que descreveram a ação como resposta a disparos iranianos contra uma aeronave dos EUA. O Irã afirmou ter derrubado dois drones de reconhecimento, o que um funcionário americano negou, e a mídia estatal iraniana relatou explosões na ilha. O episódio ocorre enquanto Trump e o vice JD Vance falam em progresso nas negociações com Teerã, na véspera das eleições de meio de mandato.",
+      "fonte": "CNN Brasil",
+      "link": "https://www.cnnbrasil.com.br/internacional/eua-realizam-ataques-contra-ilha-de-qeshm-no-ira/",
+      "verificacao": {
+        "status": "confirmada",
+        "fontes": [
+          {
+            "veiculo": "ABC News",
+            "link": "https://abcnews.com/International/us-carries-defensive-airstrikes-irans-qeshm-island-officials/story?id=137792518"
+          },
+          {
+            "veiculo": "Times of Israel",
+            "link": "https://www.timesofisrael.com/liveblog_entry/us-said-to-strike-iranian-island-in-strait-of-hormuz/"
+          },
+          {
+            "veiculo": "Fox News",
+            "link": "https://www.foxnews.com/live-news/iran-war-news-trump-midterms-peace-deal-israel-november-2"
+          }
+        ]
+      }
+    }
+  ]
+}
